@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Picture Notation&#58; A Mnemonic System for Chess
+title: Picture Notation, A Mnemonic System for Chess
 permalink: /picturenotation
 ---
 
