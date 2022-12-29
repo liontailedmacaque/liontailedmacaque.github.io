@@ -6,7 +6,11 @@ layout: page
 
 <h3>Books</h3>
 
-<a href="https://smile.amazon.co.uk/Curious-Letter-Nebuchadnezzar-John-Holden/dp/B09FS5DSJK"><img src="/assets/homepage/Nebuchadnezzar_450.jpg" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
+<a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover2.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
+<b>The Chess Memory Palace</b></a> explains how to use advanced memory techniques to learn chess openings.
+<div style="clear: both;"></div>
+
+<a href="https://smile.amazon.com/Curious-Letter-Nebuchadnezzar-John-Holden/dp/B09FS5DSJK"><img src="/assets/homepage/NebCover2.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
 <b>A Curious Letter from Nebuchadnezzar</b></a> is a retelling of chapter 4 of the Book of Daniel, from the Bible, in rhyme and pictures.
 <div style="clear: both;"></div>
 
