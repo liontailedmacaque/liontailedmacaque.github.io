@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="/assets/homepage/Snail_1500.jpg" height="50%" width="100%" style="margin: 0px 0px 20px 0px; float: center;">
+<img src="/assets/homepage/SnailBrightSmall2.jpg" height="75%" width="75%" style="margin: 0px 0px 20px 0px; float: center;">
 
 <h3>Books</h3>
 
