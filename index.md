@@ -11,7 +11,7 @@ layout: page
 <div style="clear: both;"></div>
 
 <a href="https://smile.amazon.com/Curious-Letter-Nebuchadnezzar-John-Holden/dp/B09FS5DSJK"><img src="/assets/homepage/NebCover2.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
-<b>A Curious Letter from Nebuchadnezzar</b></a> is a retelling of chapter 4 of the Book of Daniel, from the Bible, in rhyme and pictures.
+<b>A Curious Letter from Nebuchadnezzar</b></a> is a retelling of chapter 4 of the Book of Daniel, from the Bible, in rhyme and pictures. Available as [a paper copy](https://smile.amazon.com/Curious-Letter-Nebuchadnezzar-John-Holden/dp/B09FS5DSJK).
 <div style="clear: both;"></div>
 
 <h3>Blog</h3>
