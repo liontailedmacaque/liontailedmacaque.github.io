@@ -22,4 +22,4 @@ permalink: /chessmemorypalace
 - [Appendix: Picture Words for all 64 Squares](/chessmemorypalace/appendix)
 
 
-*The Chess Memory Palace* is Copyright (c) 2022 John Holden, all rights reserved. 
+*The Chess Memory Palace* is Copyright © 2022 John Holden, all rights reserved. 
