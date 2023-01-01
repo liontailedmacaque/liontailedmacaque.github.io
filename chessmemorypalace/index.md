@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Chess Memory Palace
-permalink: /chessmemorypalace2
+permalink: /chessmemorypalace
 
 ---
 
