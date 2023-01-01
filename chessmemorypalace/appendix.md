@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Appendix, Picture Words for all 64 Squares
+title: Appendix - Picture Words for all 64 Squares
 permalink: /chessmemorypalace/appendix
 
 ---
