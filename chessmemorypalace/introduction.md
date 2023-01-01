@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-permalink: ./chessmemorypalace/introduction
+permalink: /chessmemorypalace/introduction
 
 ---
 
