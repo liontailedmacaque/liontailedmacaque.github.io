@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chapter 2 - Essential Memory Techniques
-permalink: /chessmemorypalace/chapter1
+permalink: /chessmemorypalace/chapter2
 
 ---
 
