@@ -11,15 +11,15 @@ permalink: /chessmemorypalace
 The core chapters are available for free online. These will be enough to get you started using *The Chess Memory Palace* method, to perfectly memorise your opening repertoire.
 <div style="clear: both;"></div>
 
-*Chess players spend hours and hours trying to memorise openings, but even Grandmasters forget their preparation.
+*Chess players spend hours and hours trying to memorise openings, but even Grandmasters forget their preparation.*
 
-Meanwhile, memory competitors routinely memorise thousands of facts and random digits, using special techniques that anyone can learn.
+*Meanwhile, memory competitors routinely memorise thousands of facts and random digits, using special techniques that anyone can learn.*
 
-This book explains how to use these memory techniques for chess.
+*This book explains how to use these memory techniques for chess.*
 
-- Teaches advanced memory techniques from scratch
-- Contains full worked examples in the Ruy Lopez Exchange and Schliemann Gambit
-- Ideal for tournament players who want to recall their opening repertoire perfectly*
+- *Teaches advanced memory techniques from scratch*
+- *Contains full worked examples in the Ruy Lopez Exchange and Schliemann Gambit*
+- *Ideal for tournament players who want to recall their opening repertoire perfectly*
 
 ### Contents
 - [Introduction](/chessmemorypalace/introduction)
