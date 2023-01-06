@@ -14,7 +14,7 @@ permalink: /chessmemorypalace/chapter5
 >GM Bobby Fischer, commenting on one of his wins in the Exchange Variation
 
 
-This chapter presents a second example memory palace: a repertoire as Black against the Spanish (Ruy Lopez) Exchange: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 cxc6 5.O-O.[^1]
+This chapter presents a second example memory palace: a repertoire as Black against the Spanish (Ruy Lopez) Exchange: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 cxc6 5.O-O.
 
 ![](/assets/chessmemorypalace/x1.png)
 
