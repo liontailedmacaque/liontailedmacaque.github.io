@@ -14,7 +14,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 ## Introduction 
 
-1.  "*My team's chorus cry*": Viswanathan Anand (2000) Mind Master. Hachette India, Chapter 3. The context is: "If I haven't revised my notes, the chances of me forgetting my preparation runs high. It's why my team's chorus cry \[...\]"
+1.  "*My team's chorus cry*": Viswanathan Anand (2019) Mind Master. Hachette India, Chapter 3. The context is: "If I haven't revised my notes, the chances of me forgetting my preparation runs high. It's why my team's chorus cry \[...\]"
 
     In this book, GM stands for Grandmaster; IM stands for International Master.
 
@@ -224,7 +224,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 4.  *takes too long*: Also Joe Reddington in Advanced Memory Palaces (2021) points out that some of your images will be too grotesque or otherwise embarrassing to commit to writing.
 
-5.  *flashcard with a board position*: Anand used to review photographs of board positions during plane journeys. Viswanathan Anand (2000) Mind Master. Hachette India, Chapter 3
+5.  *flashcard with a board position*: Anand used to review photographs of board positions during plane journeys. Viswanathan Anand (2019) Mind Master. Hachette India, Chapter 3
 
 6.  *computer script*: BookBuilder, launched by Alex Crompton in July 2022, is an interesting project that automatically generates chess opening repertoires. It uses the Lichess database and computer evaluations to build a repertoire against the most popular lines. <https://github.com/raccrompton/BookBuilder>
 
@@ -236,7 +236,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 9.  *On e6*: John Cox (2011) Declining the Queen's Gambit. Everyman Chess, page 13
 
-10. *win brilliantly*: Levon Aronian v Viswanathan Anand, Tata Steel Group A, 15 January 2013, Wijk aan Zee. Anand's account of this moment can be found in Viswanathan Anand (2000) Mind Master. Hachette India, Chapter 3
+10. *win brilliantly*: Levon Aronian v Viswanathan Anand, Tata Steel Group A, 15 January 2013, Wijk aan Zee. Anand's account of this moment can be found in Viswanathan Anand (2019) Mind Master. Hachette India, Chapter 3
 
 11. *reading vocabulary*: Gwern Branwen. Spaced Repetition for Efficient Learning. <https://www.gwern.net/Spaced-repetition>
 
@@ -244,7 +244,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
     Similarly, Kasparov played 7.g4 against the computer Deep Junior's Semi Slav Defence, because he knew it was not in Deep Junior's opening book. (Garry Kasparov v Deep Junior, FIDE Man-Machine WC, 26 January 2003, New York; according to David Shenk (2006) The Immortal Game. Doubleday, Chapter 11.) Kasparov preferred to leave Deep Junior's preparation early, which demonstrates both the value of memorised moves (Kasparov wanted to avoid the book moves) and the importance of understanding the subsequent middlegame plans (now the computer needed to find moves for itself).
 
-13. *many similar but different lines at once*: There is an interesting account of this in Viswanathan Anand (2000) Mind Master. Hachette India, Chapter 3
+13. *many similar but different lines at once*: There is an interesting account of this in Viswanathan Anand (2019) Mind Master. Hachette India, Chapter 3
 
 14. *Which is which*: The answer is \...Ba7 on the left diagram, \...Bb6 on the right diagram, according to GM Jan Gustaffson's Grandmaster Repertoire against the Italian Game, on chess24
 
