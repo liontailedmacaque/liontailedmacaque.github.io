@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chapter 3 -- Memory Palace Architecture
+title: Chapter 3 - Memory Palace Architecture
 permalink: /chessmemorypalace/chapter3
 
 ---
@@ -12,7 +12,7 @@ permalink: /chessmemorypalace/chapter3
 >*There are places I'll remember\
 >All my life, though some have changed.\
 >Some forever, not for better;\
->Some have gone and some remain.\
+>Some have gone and some remain.
 >
 >All these places had their moments\
 >With lovers and friends I still can recall.\
