@@ -14,7 +14,7 @@ I am not sure Kropotkin would be pleased to be called Prince. He dropped the tit
 
 ![Street directory](/assets/kropotkin/kropotkin_address.png)
 
-*Viola is the name of the house*
+*Viola must be the name of the house*
 
 While Kropotkin lived in Bromley, he wrote *Memoirs of a Revolutionist* (published 1899). Although Kropotkin doesn't explain his anarcho-communist philosophy in *Memoirs* -- that can be found in other material such as *The Conquest of Bread* -- we do see where his worldview came from. Kropotkin always had a strong compassion for the Russian serfs. He also had lifelong bad experiences of government. These begin quite surreal:
 
