@@ -21,3 +21,7 @@ layout: page
 <!---
 <img src="/assets/homepage/SnailBrightSmall2.jpg" height="100%" width="100%" style="margin: 0px 0px 20px 0px; float: center;">
 --->
+
+<h3>Contact</h3>
+
+[Click here to contact me](https://forms.gle/c8sdoGMpCRAqnkB2A)
