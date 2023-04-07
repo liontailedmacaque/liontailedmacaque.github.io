@@ -11,6 +11,8 @@ permalink: /chessmemorypalace
 The core chapters are available for free online. These will be enough to get you started using *The Chess Memory Palace* method, to perfectly memorise your opening repertoire.
 <div style="clear: both;"></div>
 
+### Blurb
+
 *Chess players spend hours and hours trying to memorise openings, but even Grandmasters forget their preparation.*
 
 *Meanwhile, memory competitors routinely memorise thousands of facts and random digits, using special techniques that anyone can learn.*
