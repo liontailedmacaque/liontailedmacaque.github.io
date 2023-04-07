@@ -672,7 +672,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 
 2.  **camel**, comet, kimchi
 
-3.  **kimono**, Camelot, computer, Eskimo, Komodo (dragon)
+3.  **kimono**, Camelot, computer, Komodo (dragon)
 
 4.  **chameleon**, aquamarine, camellia, hippocampus, oximeter
 
@@ -682,7 +682,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 
 1.  **crab**, car, crane, cream, cross, crow, crown, corn, grass, scar, scarf, screw, skirt
 
-2.  **ogre**, boxer, carrot, cricket, crystal, speaker, squirrel, sugar
+2.  **ogre**, boxer, carrot, cricket, crystal, speaker, squirrel
 
 3.  **crocodile**, acrobat, caravan, cormorant, grasshopper, gorilla, scorpion, screwdriver
 
