@@ -24,4 +24,4 @@ layout: page
 
 <h3>Contact</h3>
 
-[Click here to contact me](https://forms.gle/c8sdoGMpCRAqnkB2A)
+[Click here to contact me](https://docs.google.com/forms/d/e/1FAIpQLScYNyYMXEeDmbTU0U2UCoyCN1fyd7xRho3S-ddgzg6S6a3bLw/viewform?usp=sf_link)
