@@ -9,17 +9,9 @@ permalink: /chessmemorypalace/chapter3
 <b>You are reading an online version of The Chess Memory Palace by John Holden.</b></a> Copyright © 2022 John Holden, all rights reserved. [Click here to return to the online contents page](/chessmemorypalace). For the best reading experience, you can buy [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://www.etsy.com/listing/1368398070).
 <div style="clear: both;"></div>
 
->There are places I'll remember\
->All my life, though some have changed.\
->Some forever, not for better;\
->Some have gone and some remain.
+>Though for Mma Potsane the landscape, even if dimly glimpsed, was rich in associations. Her eyes squeezed almost shut, she peered out of the van, pointing out the place where they had found a stray donkey years before, and there, by that rock, that was where a cow had died for no apparent reason.
 >
->All these places had their moments\
->With lovers and friends I still can recall.\
->Some are dead and some are living,\
->In my life I've loved them all.
->
->The Beatles (Lennon--McCartney), *In My Life*
+>Alexander McCall Smith, *Tears of the Giraffe*
 
 In Chapter 1 we learned to convert picture words to chess moves, given the memorised images. In Chapter [2](/chessmemorypalace/chapter2) we learned to memorise images, given the palace structure and picture words. In this chapter we will learn to design the palace structure and select the picture words, given the repertoire.[^1]
 
