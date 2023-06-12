@@ -118,7 +118,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 ## Chapter [3](/chessmemorypalace/chapter3) 
 
-1.  "*There are places I'll remember*": John Lennon and Paul McCartney (1965) In My Life \[Lyrics\] (song by the Beatles). Sony/ATV Music Publishing LLC
+1.  "*Though for Mma Potsane*": Alexander McCall Smith (2006) Tears of the Giraffe. Abacus, Chapter 9
 
 2.  *branching map*: Whereas Chapter [2](/chessmemorypalace/chapter2) drew on two millennia of literature on memorable images, and Chapter [1](/chessmemorypalace/chapter1) was inspired by the comparatively recent work on efficient data encoding, which has particularly focused on the memory competition disciplines of numbers and playing cards, there has been little development of techniques to memorise non-linear data structures. The tree shape of a chess opening repertoire is one such non-linear structure. Therefore if there are improvements to *The Chess Memory Palace* method in future, I would predict Chapter [3](/chessmemorypalace/chapter3) will see the biggest developments. The two main approaches to memorising branching data structures are (1) mapping out a branching memory palace, as I advocate in Chapter [3](/chessmemorypalace/chapter3), or (2) borrowing computer science techniques to convert the data tree into a linear (or tabular) shape, then memorising it in a traditional linear memory palace. I haven't yet found a satisfying version of the second approach that matches branching memory palaces for flexibility, intuitiveness, and ease of amendments.
 
