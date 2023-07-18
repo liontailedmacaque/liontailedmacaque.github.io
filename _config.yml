@@ -5,10 +5,10 @@ relative_permalinks: false
 show_excerpts: false  # set to true to show excerpts on the homepage
 
 # Setup
-title: John Den
+title: John Holden
 
 author:
-  name: John Den
+  name: John Holden
 
 # Custom vars
 theme: minima
