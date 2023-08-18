@@ -144,7 +144,7 @@ But two pieces can move to h3: the bishop on c8 and the queen on h4. Which piece
 
 In this case, Black to move, the bishop is on your opponent's back rank, so it is piece I. The queen is more advanced, so it is piece II. *Vampire* has two syllables. Your opponent picks up the queen, correctly, and moves it to h3, little knowing what is going on inside your head.
 
-Your prepared reply is *samurai*. Ignoring the *b* as always, the first two consonant sounds are *m* and *r*, identifying the target square **c4**.
+Your prepared reply is *samurai*. Ignoring the *s* as always, the first two consonant sounds are *m* and *r*, identifying the target square **c4**.
 
 ![](/assets/chessmemorypalace/15.png)
 
