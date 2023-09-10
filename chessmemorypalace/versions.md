@@ -9,7 +9,7 @@ On the copyright page of *The Chess Memory Palace*, you will find a decimal numb
 This page lists the versions and the changes that have been made. All these changes are quite minor. If you are one of the early adopters with an early version, the minor errors should not affect your enjoyment of the book at all. And technically you have a limited edition copy!
 
 ### 1.0
-- Original edition, released 29 December 2022
+- Original version, released 29 December 2022
 
 ### 1.1
 - Released 1 January 2023
@@ -59,7 +59,7 @@ This page lists the versions and the changes that have been made. All these chan
 
 ### 1.7
 - Released 2 May 2023
-- Removed possibly incorrect descriptive notation from list in Chapter 1
+- Removed incorrect descriptive notation from list in Chapter 1
 - Changed captions on Figures to "Structure of a picture word pair" and "Structure of a robust composite image"
 
 ### 1.8
@@ -68,9 +68,9 @@ This page lists the versions and the changes that have been made. All these chan
 
 ### 1.9
 - Released 5 August 2023
-- Corrected 'b' to 's' in explanation of 'samurai' in Chapter 1
+- Corrected "b" to "s" in explanation of *samurai* in Chapter 1
 - Added line on personal use to ebook copyright page
 
 ### 1.10
-- Released 10 August 2023
-- Corrected ICCF notation in Chapter 1
+- Released 10 September 2023
+- Corrected ICCF notation in Chapter 1 and added word "numeric"
