@@ -18,9 +18,9 @@ Algebraic notation is the most popular way to write chess moves. But it is not t
 
 ![](/assets/chessmemorypalace/1.png)
 
-Black's move can be written "Qxf4" (algebraic notation), "Qg5xf4" (long algebraic notation), "g5f4" (Smith notation, commonly used by computers), or "6554" (International Correspondence Chess Federation notation), among other systems.
+Black's move can be written "Qxf4" (algebraic notation), "Qg5xf4" (long algebraic notation), "g5f4" (Smith notation, commonly used by computers), or "7564" (International Correspondence Chess Federation numeric notation), among other systems.
 
-These notations have two things in common: they all identify the **target square** (f4 or 54) and identify which piece moves to that target square (Q, or the piece on g5/65).
+These notations have two things in common: they all identify the **target square** (f4 or 64) and identify which piece moves to that target square (Q, or the piece on g5/75).
 
 This chapter introduces **picture notation**, which works on the same principle. Each move is represented by a **picture word** (for example *shark*), where the first two relevant **consonant sounds** (*sh*, *r*) identify the target square, and the number of syllables (one) identifies the **candidate piece** that moves.
 
