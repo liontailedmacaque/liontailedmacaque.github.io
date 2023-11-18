@@ -29,7 +29,7 @@ I am reminded of the game Magnus Carlsen v Bu Xiangzhi, from the 2017 World Cup 
 
 ![Board position in a Double King's Pawn Game](/assets/chessmemorypalace/82.png)
 
-Here, Bu played ...d5, sacrificing his pawn on e5 for a strong -- and eventually winning -- kingside attack. His plan clearly drew lessons from understanding the Marshall Gambit, despite Bu not being a regular Marshall player.
+Here, Bu played *pearl* (...d5), sacrificing his pawn on e5 for a strong -- and eventually winning -- kingside attack. His plan clearly drew lessons from understanding the Marshall Gambit, despite Bu not being a regular Marshall player.
 
 However, some authors go too far and claim that memory is unnecessary, as long as you understand your openings. The idea seems to be that if you truly, deeply understand a position, the moves will naturally flow out with no memory effort required. This is a mistake. **There are two reasons why memory is vital.**
 
