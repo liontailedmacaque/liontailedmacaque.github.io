@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on Peter Kropotkin's Memoirs
+title: Reflections on Peter Kropotkin's Memoirs of a Revolutionist (1899)
 permalink: /kropotkin
 ---
 
