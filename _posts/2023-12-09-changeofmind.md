@@ -15,7 +15,7 @@ First, from Amazon TV show [The Grand Tour](https://www.amazon.co.uk/Colombia-Sp
 
 ![Hammond refusing then sitting in his car](/assets/changeofmind/hammond-transition-small.gif)
 
-*"No I'm not," | "Right, here we go..."*
+*"No I'm not," / "Right, here we go..."*
 
 In scene 1, car enthusiast Richard Hammond is adamant that he will not drive his monster truck into a ditch. There is then a marked scene transition. Rather than a straight cut, the next clip arrives with a kind of wipe transition from left to right, and a 'whooshing' noise. In scene 2, he is now in the car, about to drive forward. (The wipe itself appears to be about 1/2 a second of an image of a hedge, going from left to right, before scene 2 appears. The image of scene 2 itself does not slide in from the left. There is also a nice rhythm to Hammond's speech and driving.)
 
@@ -23,7 +23,7 @@ Compare this with YouTuber Ryan Trahan, in his excellent [metaverse video](https
 
 ![Ryan's face followed by stormtrooper costume](/assets/changeofmind/trahan-transition-small.gif)
 
-*"I have a mission here. I'm not going to play around and act like I'm a storm--" | [dance music]*
+*"I have a mission here. I'm not going to play around and act like I'm a storm--" / [dance music]*
 
 In scene 1, with a view of Ryan's head, there is a voiceover announcing how serious he is, and that he isn't going to play around. He then *interrupts the sentence* halfway through a word to cut to scene 2 with the dancing and music.
 
