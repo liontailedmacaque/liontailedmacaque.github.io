@@ -23,9 +23,9 @@ This is a relatively technical post. It will make most sense if you have some fa
 2 | [Non-linear memory palaces](#nonlinear) 
 3 | [Mnemonic codes](#codes) 
 4 | [Mnemonic code for chess moves: the specifications](#chess) 
-5 | [How picture notation meets these specifications, and why PAO and alternatives do not](#5picturenotation)
-6 | [A word on error detection and redundancy](#6redundancy)
-7 | [Analysis paralysis](#7analysisparalysis)
+5 | [How picture notation meets these specifications, and why PAO and alternatives do not](#picturenotation)
+6 | [A word on error detection and redundancy](#redundancy)
+7 | [Analysis paralysis](#analysisparalysis)
 
 ### <a name="fundamentals"></a> Fundamentals of mnemonic theory
 The rule of step 1 is: **All mnemonics are about mapping something that you don't know onto something that you do know.** For example, you might not know the order of the planets, but you do know a series of landmarks in your street. You can then imagine the planets (or something that reminds you of the planets, e.g. a red warlike figure for Mars) in order along your street, creating visualisations (little stories) to associate one planet with one location, in order. (Do not get hung up on the word "visualisation" -- people have different internal experiences, and even many people with aphantasia can build memory palaces. For most people, as long as you can remember stories and where they took place, it should be possible.)
