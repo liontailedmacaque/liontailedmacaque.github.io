@@ -9,7 +9,7 @@ Memory palaces are a powerful tool to expand your memory. However, it's not alwa
 
 I don't claim to be an expert, but I have built quite a few memory palaces for exams, and in particular I have spent a long time pondering the the mnemonic best system for chess. In this article I want to share where my thinking has reached, on the main points to consider when designing a mnemonic system.
 
-This will also explain why I believe my book [The Chess Memory Palace](/chessmemorypalace), with its mnemonic code of [picture notation](/chessmemorypalace/chapter1), is the best mnemonic system for chess, as mnemonists sometimes challenge the book on this point. (Chess players tend to challenge the book on the importance of memorising openings at all, which I have discussed [in a previous blog post](/whymemoriseopenings).)
+This will also explain why I believe my book [The Chess Memory Palace](/chessmemorypalace), with its mnemonic code of [picture notation](/chessmemorypalace/chapter1), is the best mnemonic system for chess, as mnemonists sometimes challenge the book on this point.
 
 **The essence of mnemonic systems is two steps:** (1) work out the structure of your system of pegs, then (2) build a reliable code to convert non-memorable data into memorable data.
 
