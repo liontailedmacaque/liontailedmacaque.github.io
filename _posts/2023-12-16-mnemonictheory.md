@@ -43,7 +43,7 @@ For chess, there is a challenge: chess openings take a *branching tree structure
 
 So how can we build a branching system of pegs? One correspondent on the Art of Memory Forum maps chess moves to branching family trees. This is ingenious but I think limited. It seems to me more versatile to use locations with branching paths. A figure from The Chess Memory Palace:
 
-![Branching map diagram](https://johnden.org/assets/chessmemorypalace/f3-2.png)
+![Branching map diagram](/assets/chessmemorypalace/f3-2.png)
 
 In my view this is actually a more natural way to use locations than a linear memory palace. In our experience of the world, most of our locational knowledge is as a network of places. For example, if I want to find a plate in my flat, I would enter the flat, go straight on to the kitchen, turn right to the cupboard. If I wanted to use the oven, I would enter the flat, go straight on to the kitchen, turn left to the oven. If I wanted to access the bookshelves, I would enter the flat, turn left to the living room, go to the far side of the room for the books, etc. My experience of my flat isn't a linear journey hugging the edge of each room; it is more like a network of nodes. The same is true of my workplace, university campus, local town centre, etc.
 
@@ -95,7 +95,7 @@ Finally, a note on error detection and correction. Some mnemonists, when memoris
 
 Similarly, one piece of advice recommended since ancient times is to have a door or window every five or ten locations along your memory palace. This is excellent advice if you are designing a traditional linear memory palace, as it chunks your memories into digestible groups of five, and acts as a safety mechanism to alert you if you forget a location. Both techniques can be useful, but are unnecessary for chess, because the board position itself will validate or invalidate your moves. (I discuss several reasons why The Chess Memory Palace doesn't use the doors and windows idea in [Note 5 to Chapter 3](/chessmemorypalace/notes).)
 
-![Robust composite images diagram](https://johnden.org/assets/chessmemorypalace/f2-1.png)
+![Robust composite images diagram](/assets/chessmemorypalace/f2-1.png)
 
 The diagram above hasn't attracted any comment, but it is my favourite diagram in the book. The ideas are not new; they are based on techniques memory competitors use to store two pictures together in a location without getting the order confused. But formalising it like this helped me memorise images more consistently. The point I want to emphasise here is that I recommend visualising all three interactions, not just two, and that we have dual indicators of picture word order: active versus passive roles and higher versus lower position. These are forms of *redundancy* (another term I picked up from Advanced Memory Palaces).
 
