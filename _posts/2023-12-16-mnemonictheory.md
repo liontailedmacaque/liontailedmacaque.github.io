@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Designing Mnemonic Systems -- and Why Picture Notation is the Best Mnemonic Code for Chess
+title: On Designing Mnemonic Systems – and Why Picture Notation is the Best Mnemonic Code for Chess
 permalink: /theoryofmnemonics
 
 ---
