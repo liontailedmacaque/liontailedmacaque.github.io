@@ -11,7 +11,7 @@ I don't claim to be an expert, but I have built quite a few memory palaces for e
 
 This will also explain why I believe my book [The Chess Memory Palace](/chessmemorypalace), with its mnemonic code of [picture notation](/chessmemorypalace/chapter1), is the best mnemonic system for chess, as mnemonists sometimes challenge the book on this point. (Chess players tend to challenge the book on the importance of memorising openings at all, which I have discussed [in a previous blog post](/whymemoriseopenings).)
 
-**The essence of mnemonic systems are two steps:** (1) work out the structure of your system of pegs, then (2) build a reliable code to convert non-memorable data into memorable data.
+**The essence of mnemonic systems is two steps:** (1) work out the structure of your system of pegs, then (2) build a reliable code to convert non-memorable data into memorable data.
 
 In this article, I have most to say about step 2. But we will begin with step 1, because sometimes the structure of the pegs will give you constraints in the way you can design the mnemonic code. Finally we will touch briefly on error detection and redundancy.
 
