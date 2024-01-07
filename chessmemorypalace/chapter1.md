@@ -376,6 +376,8 @@ You do *not* need to convert chess moves into picture notation in your head. You
 
 But we are getting ahead of ourselves. We will start designing memory palaces in Chapter [3](/chessmemorypalace/chapter3). First we need to learn how to memorise the picture words, using the powerful techniques of memory competitors. On to Chapter [2](/chessmemorypalace/chapter2)!
 
+---
+
 [^1]: When pronounced as an sound, like the *ng* in *hummingbird*.
 
 [^2]: The online shorthand for *laugh out loud*. Whenever you see a jester in your memory palaces, the picture word is *lol* (e5, one syllable).
