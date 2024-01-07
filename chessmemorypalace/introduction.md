@@ -43,4 +43,6 @@ The real fun of *The Chess Memory Palace* method comes at the board. Deep in a s
 
 What do all these images mean? Let's find out in Chapter [1](/chessmemorypalace/chapter1).
 
+---
+
 [^1]: This book assumes you are comfortable with algebraic notation. If not, you are too early in your chess career to memorise openings.
