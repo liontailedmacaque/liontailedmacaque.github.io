@@ -131,6 +131,8 @@ Now you have given every move pair a location and two picture words, just as Fig
 
 You already know how to do this step, from Chapter [2](/chessmemorypalace/chapter2). Take each location in turn, introduce the two picture words, and make them interact with each other and the location in funny, grotesque, and dramatic ways. Have fun!
 
+---
+
 [^1]: I will not cover how to create a repertoire. Refer to any opening book.
 
 [^2]: If you do need to use a portal, you need a way to remember where the portal leads. The destination location should bleed through the portal to interact with the current location. For example, I once got stuck in a university building and needed to portal out to a river nearby. I created a portal in the building, with the river spilling through the portal into my current room.
