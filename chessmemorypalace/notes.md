@@ -34,7 +34,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 6.  "*I am still surprised*": Dominic O'Brien (1993) How to Develop a Perfect Memory. Pavilion Books, page 161
 
-## <a name="1"></a> Chapter [1](/chessmemorypalace/chapter1) 
+## <a name="chapter1"></a> Chapter [1](/chessmemorypalace/chapter1) 
 
 1.  "*I know from my own experience*": Mark Dvoretsky and Artur Yusupov (1994) Opening Preparation (translated by John Sugden). Batsford, page 112. The chapter quoted is written by Mark Dvoretsky.
 
@@ -54,7 +54,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 7.  *physically higher*: My advice about indicating the order of the picture words in a composite image using relative position is adapted from Ben Pridmore (2011) How to be Clever, Chapter 2. My advice on active and passive elements is adapted from the popular person-action-object memory system.
 
-## <a name="2"></a> Chapter [2](/chessmemorypalace/chapter2) 
+## <a name="chapter2"></a> Chapter [2](/chessmemorypalace/chapter2) 
 
 1.  "*Take your time*": Dominic O'Brien (1993) How to Develop a Perfect Memory. Pavilion Books, page 158. O'Brien re-invented the method of loci in 1987, placing images representing playing cards around the city of Khartoum (page 150). He went on to become World Memory Champion eight times.
 
@@ -116,7 +116,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 24. *further reading*: Books about memory and mnemonics are fascinating. They involve psychology, creativity, perception, data structures, art, history, archaeology, anthropology... and all of it applicable to your own mental processes. At times it feels like living in a fantasy novel, reading ancient texts to uncover abilities you didn't know you had. My top recommendation is Lynne Kelly (2019) Memory Craft, Allen & Unwin, which exemplifies this genre.
 
-## <a name="3"></a> Chapter [3](/chessmemorypalace/chapter3) 
+## <a name="chapter3"></a> Chapter [3](/chessmemorypalace/chapter3) 
 
 1.  "*Though for Mma Potsane*": Alexander McCall Smith (2006) Tears of the Giraffe. Abacus, Chapter 9
 
@@ -144,7 +144,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
     Grandmaster of Memory Mark Channon suggests a kind of ritual to give your mind permission to forget an image: "\[Cellophane\] is clear and has a feeling of nothingness, and gives the effect of erasing. Wrap the cellophane around each one of your files and say the word 'erase'." Mark Channon (2016) Improve Your Memory. John Murray Learning, page 84 (original work published 2011)
 
-## <a name="4"></a> Chapter [4](/chessmemorypalace/chapter4) 
+## <a name="chapter4"></a> Chapter [4](/chessmemorypalace/chapter4) 
 
 1.  *The Schliemann Transit Line*: It is helpful to give your palaces (and even locations) names. This makes their contents more memorable.
 
@@ -176,7 +176,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 7.  *90% of masters ...a third of amateurs*: According to the Lichess database, August 2022.
 
-## <a name="5"></a> Chapter [5](/chessmemorypalace/chapter5) 
+## <a name="chapter5"></a> Chapter [5](/chessmemorypalace/chapter5) 
 
 1.  "*Gligorich said*": Bobby Fischer (2008 edition) My 60 Memorable Games. Batsford, game 56 (original work published 1969). Annotations on the game Bobby Fischer v Svetozar Gligoric, 12 November 1966, Havana Olympiad Final-A, Havana. This game was one of Fischer's wins with White in the Ruy Lopez Exchange opening.
 
@@ -188,7 +188,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
 4.  *begin the memory palace*: I first tried to start the memory palace at check-in. One main line would have been a mad dash to catch the flight; the other main line a leisurely meander through the shops. However this felt like a waste of the airport setting: it rushed through check-in and security, where I can fit lots of locations, and spent too long in the shopping areas, which aren't the most distinctive parts of an airport. The final memory palace still doesn't use check-in, but perhaps we can save it for another repertoire, or loop back there when expanding the palace in future.
 
-## <a name="6"></a> Chapter [6](/chessmemorypalace/chapter6) 
+## <a name="chapter6"></a> Chapter [6](/chessmemorypalace/chapter6) 
 
 1.  "*There are few things*": Garry Kasparov (2007) How Life Imitates Chess. William Heinemann, page 148
 
@@ -214,7 +214,7 @@ The Chess Memory Palace is an instruction manual in using memory techniques for 
 
     By the way, if you are defending with the lone king against a prepared opponent with bishop and knight, it might be worth running with your king straight to f8 then g7. This is not the optimal defence in terms of longest winning line, but it forces your opponent to abandon the popular W-manoeuvre with the knight, and is not often covered in books.
 
-## <a name="7"></a> Chapter [7](/chessmemorypalace/chapter7) 
+## <a name="chapter7"></a> Chapter [7](/chessmemorypalace/chapter7) 
 
 1.  "*How much theory*": Paul van der Sterren (2009) Fundamental Chess Openings. Gambit, page 7
 
