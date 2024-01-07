@@ -41,7 +41,7 @@ Chapter [4](/chessmemorypalace/chapter4) uses the setting of an urban transit li
 
 Settings can be large or small. The more familiar you are with a setting, the more precise each location within it can be, and so the more locations you can fit inside. For example, if you are a gardener and have a keen knowledge of every plant in your garden, then each plant can be its own location in the setting of your garden. If your plants are arranged in a way that creates clear sequences of locations (and you don't change them too often), this would make a great memory palace. However, if you have only a vague sense of the plants in your garden or local park, then they are not distinct locations in your mind, so you will not be able to fit as many locations in the space. You can use larger features, such as "the flowerbed", "the pond", or "the bird bath" as locations instead.
 
-## Mapping the locations
+## <a name="mappingthelocations"></a> Mapping the locations
 
 You have a tree diagram, and you have a setting. It's time to put them together. This means creating **paths** through your setting: sequences of locations, with branches in the path to match the structure of the tree diagram. For example, if your tree diagram has a sequence of three move pairs before dividing into two options, then you can create a path through your memory palace of three locations in a row, before you get to a natural junction where you split into two paths going in different directions.
 
