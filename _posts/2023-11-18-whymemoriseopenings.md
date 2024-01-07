@@ -69,7 +69,7 @@ To summarise, *The Chess Memory Palace* method does not replace your need for ch
 
 If you had your moves written on a physical sheet of paper, you would be disqualified for cheating. *The Chess Memory Palace* method lets you achieve this in your head.
 
-
+---
 
 [^1]: computer script: BookBuilder, launched by Alex Crompton in July 2022, is an interesting project that automatically generates chess opening repertoires. It uses the Lichess database and computer evaluations to build a repertoire against the most popular lines. https://github.com/raccrompton/BookBuilder
 
