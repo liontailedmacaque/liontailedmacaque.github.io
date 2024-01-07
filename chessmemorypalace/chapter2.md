@@ -160,4 +160,6 @@ The purpose of *The Chess Memory Palace* is to apply memory techniques to chess,
 
 Now you know how to convert picture notation into chess moves, and you know how to memorise a structure of composite images in a memory palace. It is time to become a memory palace architect.
 
+---
+
 [^1]: Although I speak of "visualisation", don't worry too much about how clearly you can "see" the images. People have different internal experiences. Notably, several successful mnemonists report that aphantasia (being unable to form mental imagery) does *not* prevent them imagining scenes and building memory palaces.
