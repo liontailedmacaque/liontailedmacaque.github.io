@@ -5,6 +5,12 @@ permalink: /whymemoriseopenings
 
 ---
 
+> I've done the analysis with my engine, and I've organised everything, and I understand it and I get it -- I just can't remember it.
+> 
+> GM Patrick Wolff[^0]
+
+[^0]: Ben Johnson's Perpetual Chess Podcast, episode 364 – GM Patrick Wolff, 9 January 2024. (Added to this blog post in an edit. There are several more such quotes from IMs and GMs in the epigraphs of the book.)
+
 Last year I published [The Chess Memory Palace](https://smile.amazon.com/dp/B0BR9DQMVS), a guide to using memory techniques to memorise a chess opening repertoire.
 
 I have read some discussion doubting whether it is useful for a chess player to memorise moves. For the most part, I am not too worried by this question. I am content to say that *if* you want to memorise a chess opening repertoire, this is the way to do it. If you don't, then this is not the book for you.
