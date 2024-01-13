@@ -7,13 +7,13 @@ permalink: /chessmemorypalace/faq
 > 'You never know when you write a book -- often, you don't hear from the folks who have read it, and then...' He shrugged. 'Then you think: "Well, I guess nobody's read it after all."'
 > Alexander McCall Smith, The Limpopo Academy of Private Detection
 
-I am grateful that the quote above does not apply to me, for several readers have written to me since I published [The Chess Memory Palace](https://johnden.org/chessmemorypalace) at the end of 2022. On the principle that 'if one person voices a question, many are thinking it', I have answered some FAQs below.
+I am grateful that the quote above does not apply to me, for several readers have written to me since I published [The Chess Memory Palace](/chessmemorypalace) at the end of 2022. On the principle that 'if one person voices a question, many are thinking it', I have answered some FAQs below.
 
 1. **How did you come to write the book?**
 I became interested in mnemonics at university, after reading Tony Buzan's [The Memory Book](https://www.goodreads.com/en/book/show/7963852). I built my first memory palaces for law and economics exams in 2013, which turned out to be the first time of many. Sometimes learning facts with memory palaces and Anki flashcards was so quick that it almost felt like cheating. So it was natural to apply the techniques to chess.
 Surprisingly, there weren't any good published systems for chess mnemonics, so I set about making my own. The first system I made was relatively complex (using vowel sounds and a convoluted piece-priority system), but as I built more chess memory palaces over the next few years -- and particularly as I started explaining it in draft articles that eventually became the book -- I found ways to simplify, until I felt the system was worth sharing. 
 1. **Why did you design Picture Notation the way you did, rather than using PAO / picture transformations / word length / other mnemonic codes?**
-There is a lot to say about this, so I have written a [blog post on the design of mnemonic systems](/mnemonictheory).
+There is a lot to say about this, so I have written a [blog post on the design of mnemonic systems](/theoryofmnemonics).
 1. **Is there an online forum to discuss The Chess Memory Palace?**
 Unfortunately there’s not a good discussion place online at this time. The best single conversation is [on the Art of Memory Forum](https://forum.artofmemory.com/t/picture-notation-a-mnemonic-system-for-chess/70514), but this is not very active.
 1. **What is the largest possible chess memory palace?**
