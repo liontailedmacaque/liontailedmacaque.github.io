@@ -35,5 +35,10 @@ The core chapters are available for free online. These will be enough to get you
 - [Notes](/chessmemorypalace/notes)
 - [Appendix: Picture Words for all 64 Squares](/chessmemorypalace/appendix)
 
-
 *The Chess Memory Palace* is Copyright © 2022 John Holden, all rights reserved. 
+
+### Additional articles
+- [Chess Memory Palace FAQ](/chessmemorypalace/faq)
+- [Why memorise chess opening theory (with a memory palace)?](/whymemoriseopenings)
+- [On Designing Mnemonic Systems – and Why Picture Notation is the Best Mnemonic Code for Chess](/theoryofmnemonics)
+- [Versions](/chessmemorypalace/versions)
