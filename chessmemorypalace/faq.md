@@ -43,4 +43,4 @@ I am grateful that the quote above does not apply to me, for several readers hav
 10. **Why did you present most of the tree diagrams from top to bottom, and the minimal tree diagrams from bottom to top?**\
     The direction of the tree diagrams is just personal preference. Personally, I find it most natural to start at the bottom, because that feels like 'walking forward' into the memory palace, like a road sign that points upwards to mean forwards. I put the flowchart-style tree diagrams the other way round, from top to bottom, just because that's how flowcharts normally work, so it was easier to explain.
 
-The important part of course is the memory palace itself, which is in your head, and should match your experience of the real world (moving from location to location, rather than examining a tree diagram or map).
+    The important part of course is the memory palace itself, which is in your head, and should match your experience of the real world (moving from location to location, rather than examining a tree diagram or map).
