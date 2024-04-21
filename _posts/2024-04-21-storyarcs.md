@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Story Arcs according to Matthew Dicks
