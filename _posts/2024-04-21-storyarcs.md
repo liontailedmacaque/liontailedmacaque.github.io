@@ -12,6 +12,6 @@ While researching memory palaces, I came across [Nelson Dellis's recommendation]
 
 The only problem was, I listened to the audiobook, and it's hard to remember all of Matthew's great advice. After returning to select chapters for the third or fourth time, I realised this book needs a summary diagram to jog my memory. And the concept of a 'story arc' lends itself nicely to an arc-shaped diagram, so I decided to draw one. Here it is:
 
-![Story arcs according to Matthew Dicks diagram](/assets/storyarcs/storyworthy.png)
+![Story arcs according to Matthew Dicks diagram](/assets/storyarcs/StoryArcs.png)
 
 According to the author, all stories revolve around a relatable 'five second moment' of change, that makes a strong contrast between the start and the end. The audience needs a location to visualise each scene, and the storyteller can build suspense through 'buts' and 'therefores' and careful use of stakes. There is lots more in the book than I could comfortably fit in one diagram. Recommended.
