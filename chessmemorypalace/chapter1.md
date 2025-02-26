@@ -56,6 +56,8 @@ The picture word *shark* identifies **f4** because *sh*, the first consonant sou
 
 The picture word *brush* identifies **d6**. The *b* is ignored; *r* identifies the d-file; and *sh* identifies rank 6.
 
+Why is *shark* **f4** and *brush* **d6**? Because of the order of the consonant sounds. *sh* then *r* is **f4** (6th file, 4th rank). *r* then *sh* is **d6** (4th file, 6th rank).
+
 ![](/assets/chessmemorypalace/3.png)
 
 The picture word *airship* also identifies **d6**. The first consonant sound, *r*, identifies the d-file. The second consonant sound, *sh*, identifies rank 6. We have already used the first two consonant sounds to identify d6, so we ignore the rest of the word.
