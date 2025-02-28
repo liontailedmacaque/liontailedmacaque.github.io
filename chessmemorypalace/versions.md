@@ -74,3 +74,8 @@ This page lists the versions and the changes that have been made. All these chan
 ### 1.10
 - Released 10 September 2023
 - Corrected ICCF notation in Chapter 1 and added word "numeric"
+
+### 1.11
+- Released 28 February 2025 (in ebook, and a few days later in paperback)
+- Added letter to copyright page
+- Added paragraph clarifying the difference between *shark* and *brush* in Chapter 1
