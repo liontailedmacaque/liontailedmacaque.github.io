@@ -11,7 +11,7 @@ author:
   name: John Holden
 
 # Manually added build settings
-google_analytics: G-KQ366G044B
+# google_analytics: G-KQ366G044B
 
 # Custom vars
 theme: minima
