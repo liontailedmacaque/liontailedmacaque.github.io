@@ -2,11 +2,6 @@
 layout: page
 ---
 
-  <!-- Subscription form in its own wrapper -->
-  <div class="index-subscribe">
-    {% include subscribe.html %} 
-  </div>
-
 <h3>Books</h3>
 
 <a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
@@ -22,6 +17,11 @@ layout: page
 {% for post in site.posts %}
 <span class="date-home">({{ post.date | date: "%Y/%m" }})</span> [{{ post.title }}]({{ post.url }}) <br>
 {% endfor %}
+
+  <!-- Subscription form in its own wrapper -->
+  <div class="index-subscribe">
+    {% include subscribe.html %} 
+  </div>
 
 <!---
 <img src="/assets/homepage/SnailBrightSmall2.jpg" height="100%" width="100%" style="margin: 0px 0px 20px 0px; float: center;">
