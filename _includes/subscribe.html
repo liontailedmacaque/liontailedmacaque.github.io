@@ -1,6 +1,6 @@
 <style>
 /* Reset container margin/padding to ensure left alignment */
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] {
+.followit--follow-form-container {
   width: 100%;
   max-width: 500px;
   margin: 0 !important;
@@ -8,7 +8,7 @@
   background: inherit !important;
 }
 
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
+.followit--follow-form-container .form-preview {
   display: block !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -19,22 +19,27 @@
   font-size: inherit !important;
   text-align: left !important;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview * {
+
+.followit--follow-form-container .form-preview * {
   box-sizing: border-box !important;
   font-family: inherit !important;
   font-size: inherit !important;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .preview-heading {
+
+.followit--follow-form-container .preview-heading {
   margin-bottom: 10px !important;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .preview-heading h5 {
+
+.followit--follow-form-container .preview-heading h5 {
   margin: 0 !important;
   color: inherit !important;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .preview-input-field {
+
+.followit--follow-form-container .preview-input-field {
   margin-bottom: 10px !important;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .preview-input-field input {
+
+.followit--follow-form-container .preview-input-field input {
   width: 100% !important;
   height: 40px !important;
   border-radius: 6px !important;
@@ -45,18 +50,17 @@
   text-align: left !important;
   padding-left: 12px;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] 
-.preview-input-field input::placeholder,
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] 
-.preview-input-field input:-ms-input-placeholder,
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] 
-.preview-input-field input::-ms-input-placeholder {
+
+.followit--follow-form-container .preview-input-field input::placeholder,
+.followit--follow-form-container .preview-input-field input:-ms-input-placeholder,
+.followit--follow-form-container .preview-input-field input::-ms-input-placeholder {
   color: #000 !important;
   opacity: 1 !important;
   font-family: inherit !important;
   font-size: inherit !important;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .preview-submit-button button {
+
+.followit--follow-form-container .preview-submit-button button {
   width: 100% !important;
   height: 40px !important;
   border: 0 !important;
@@ -70,18 +74,19 @@
   text-align: center;
   transition: background-color 0.3s ease;
 }
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] 
-.preview-submit-button button:hover {
+
+.followit--follow-form-container .preview-submit-button button:hover {
   cursor: pointer !important;
   background-color: #e76f51 !important;
 }
-/* Hide the 'Powered by' footer */
-.followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .powered-by-line {
+
+/* Hide the 'Powered by' footer if ever included */
+.followit--follow-form-container .powered-by-line {
   display: none !important;
 }
 </style>
 
-<div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+<div class="followit--follow-form-container">
   <form action="https://api.follow.it/subscription-form/bFJpWE9sWlJVNXNIODNOd05QNmpuNnYyUXhsZURUcmh2Q0szRE5saktRQ3lCZ09FYTAyeTNDeE1EQzk1NHloUFJIczl0OWF3THpKSDVVSnBIK1JZQzBjYlRqamhqSUluVEEwRGxKaS95NFpIaUtTSG1WT2ZUbEhDL3NJRzJsa0J8L3UzV1hISzYyYlptL3h2RTNZRk8yelM3RW0zbHoyQ2dIMFhnVXZNTE5ycz0=/8" method="post">
     <div class="form-preview">
       <div class="preview-heading">
