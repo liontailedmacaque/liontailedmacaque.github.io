@@ -2,6 +2,11 @@
 layout: page
 ---
 
+  <!-- Subscription form in its own wrapper -->
+  <div class="index-subscribe">
+    {% include subscribe.html %} 
+  </div>
+
 <h3>Books</h3>
 
 <a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
