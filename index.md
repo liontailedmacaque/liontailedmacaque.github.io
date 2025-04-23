@@ -19,7 +19,7 @@ layout: page
 {% endfor %}
 
   <!-- Subscription form in its own wrapper -->
-  <div class="index-subscribe">
+  <div class="index-subscribe" style="margin-top: 2rem;">
     {% include subscribe.html %} 
   </div>
 
