@@ -16,4 +16,6 @@ The last couple of times I have been in hospital or visited others in hospital, 
 7. **Wireless headphones**. The bed (and perhaps the patient) is likely to have various wires and tubes attached; you don't want to get tangled with wired headphones.
 8. **Long charging cable**, so you can charge your phone even if the plug socket is a distance away.
 9. **Slippers**, to make it easy to get up.
-10. **Plastic bags**, to hold your items if you need to migrate to another room, or just to keep your stuff in one place on the bed.
+10. **Plastic bags**, to hold your items if you need to migrate to another room, or just to keep your stuff in one place on the bed. Bring the quiet kind, not the kind that rustle loudly.
+
+If you are going to hospital as a birth partner, you should also bring a **digital watch**. There are all kinds of things you might need to time during labour and after birth.
