@@ -212,7 +212,7 @@ There are seven reserved words you should not use as picture words. *Pawn*, *kin
 
 3.  **sunflower**, envelope
 
-4.  **invitation**, environment, university
+4.  **invitation**, environment
 
 
 *Knife* has a silent k.
@@ -546,7 +546,7 @@ Be careful to distinguish *elephant* from *mammoth* (c3).
 
 1.  **jet**, jade, sheath, shed, sheet
 
-2.  **cheetah**, chestnut, hatchet
+2.  **cheetah**, chestnut
 
 3.  **shuttlecock**, chapati, Jupiter
 
