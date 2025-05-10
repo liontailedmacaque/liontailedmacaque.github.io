@@ -79,3 +79,7 @@ This page lists the versions and the changes that have been made. All these chan
 - Released 28 February 2025 / 1 March 2025
 - Added letter to copyright page
 - Added paragraph clarifying the difference between *shark* and *brush* in Chapter 1
+
+### 1.12
+- Upcoming
+- Removed 'hatchet' and 'university' from incorrect places in the Appendix
