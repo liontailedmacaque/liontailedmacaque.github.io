@@ -82,4 +82,4 @@ This page lists the versions and the changes that have been made. All these chan
 
 ### 1.12
 - Upcoming
-- Removed 'hatchet' and 'university' from incorrect places in the Appendix
+- Removed 'university' from incorrect place in the Appendix
