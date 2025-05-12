@@ -546,7 +546,7 @@ Be careful to distinguish *elephant* from *mammoth* (c3).
 
 1.  **jet**, jade, sheath, shed, sheet
 
-2.  **cheetah**, chestnut
+2.  **cheetah**, chestnut, hatchet
 
 3.  **shuttlecock**, chapati, Jupiter
 
