@@ -6,7 +6,7 @@ permalink: /chessmemorypalace/chapter4
 ---
 
 <a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
-<b>You are reading an online version of The Chess Memory Palace by John Holden.</b></a> Copyright © 2022 John Holden, all rights reserved. [Click here to return to the online contents page](/chessmemorypalace). For the best reading experience, you can buy [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://www.etsy.com/listing/1368398070). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
+<b>You are reading an online version of The Chess Memory Palace by John Holden.</b></a> Copyright © 2022 John Holden, all rights reserved. [Click here to return to the online contents page](/chessmemorypalace). For the best reading experience, you can buy [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://chessmemorypalace.etsy.com). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
 <div style="clear: both;"></div>
 
 >*In this computer age, engines might be able to show the way to a White plus versus the Schliemann. Fortunately, most mortals do not have the prodigious memory required to recall what the engine proposes to reach that plus\[.\]*
