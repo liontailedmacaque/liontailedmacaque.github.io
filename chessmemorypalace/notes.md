@@ -5,9 +5,7 @@ permalink: /chessmemorypalace/notes
 
 ---
 
-<a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
-<b>You are reading an online version of The Chess Memory Palace by John Holden.</b></a> Copyright © 2022 John Holden, all rights reserved. [Click here to return to the online contents page](/chessmemorypalace). For the best reading experience, you can buy [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://chessmemorypalace.etsy.com). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
-<div style="clear: both;"></div>
+{% include chess-memory-header.html %}
 
 
 The Chess Memory Palace is an instruction manual in using memory techniques for chess. To this end, I have tried to keep the main body as short and practical as possible. These Notes by contrast indulge in various tangents. They include instructional points too obscure for the main body, design notes, and commentary on how *The Chess Memory Palace* relates to chess and memory literature. This doubles up as "further reading". There are also references for quotations and chess games.
