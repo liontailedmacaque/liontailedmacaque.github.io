@@ -8,6 +8,8 @@ permalink: /chessmemorypalace
 <a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
 <b>The Chess Memory Palace</b></a> is a guide to using advanced memory techniques to learn your chess opening repertoire. For the best reading experience, you can buy [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://chessmemorypalace.etsy.com). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
 
+{% include a-affiliate-note.html %}
+
 The core chapters are available for free online. These will be enough to get you started using *The Chess Memory Palace* method, to perfectly memorise your opening repertoire.
 <div style="clear: both;"></div>
 
