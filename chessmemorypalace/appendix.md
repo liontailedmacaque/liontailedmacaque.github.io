@@ -5,9 +5,7 @@ permalink: /chessmemorypalace/appendix
 
 ---
 
-<a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
-<b>You are reading an online version of The Chess Memory Palace by John Holden.</b></a> Copyright © 2022 John Holden, all rights reserved. [Click here to return to the online contents page](/chessmemorypalace). For the best reading experience, you can buy <a href="{{ site.amazon_book_url_chessmemorypalace }}">the paperback</a> or [the ebook](https://chessmemorypalace.etsy.com). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
-<div style="clear: both;"></div>
+{% include chess-memory-header.html %}
 
 This Appendix lists one-, two-, three-, and four-syllable picture words for all 64 squares. This covers all possible moves with candidate pieces I-IV. It also lists five-syllable picture words for d2, d7, e2 and e7, which are the only target squares that ever need five-syllable picture words in practice (for an early knight retreat).[^1]
 
