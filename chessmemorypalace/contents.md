@@ -5,8 +5,8 @@ permalink: /chessmemorypalace
 
 ---
 
-<a href="https://smile.amazon.com/dp/B0BR9DQMVS"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
-<b>The Chess Memory Palace</b></a> is a guide to using advanced memory techniques to learn your chess opening repertoire. For the best reading experience, you can buy [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://chessmemorypalace.etsy.com). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
+<a href="{{ site.amazon_book_url_chessmemorypalace }}"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
+<b>The Chess Memory Palace</b></a> is a guide to using advanced memory techniques to learn your chess opening repertoire. For the best reading experience, you can buy <a href="{{ site.amazon_book_url_chessmemorypalace }}">the paperback</a> or [the ebook](https://chessmemorypalace.etsy.com). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
 
 {% include a-affiliate-note.html %}
 
