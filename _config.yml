@@ -14,6 +14,9 @@ author:
 # google_analytics: G-KQ366G044B
 
 # Custom vars
+amazon_book_url_chessmemorypalace: "https://amzn.to/4k7nXBO"
+amazon_book_url_nebuchadnezzar: "https://amzn.to/4kd5pjH"
+
 theme: minima
 
 minima:
