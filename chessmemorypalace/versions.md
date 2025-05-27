@@ -83,3 +83,4 @@ This page lists the versions and the changes that have been made. All these chan
 ### 1.12
 - Upcoming
 - Removed 'university' from incorrect place in the Appendix
+- Corrected Black's second move from 'barrel' to 'pearl' in Steinitz v Elson, page 160
