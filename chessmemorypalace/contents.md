@@ -13,10 +13,16 @@ permalink: /chessmemorypalace
 The core chapters are available for free online. These will be enough to get you started using *The Chess Memory Palace* method, to perfectly memorise your opening repertoire.
 <div style="clear: both;"></div>
 
-<a href="https://youtu.be/eJZBITM7Y2k">
-  <img src="/assets/chessmemorypalace/not_in_book/thumbnail_and_title.jpg" style="margin: 0px 0px 10px 0px; display: block;">
-  <b>Watch on YouTube</b>
-</a>
+<!-- Clear the float so following content is not wrapped -->
+<div style="clear: both;"></div>
+
+<!-- Second image and text block -->
+<div style="margin-top: 20px;">
+  <a href="https://youtu.be/eJZBITM7Y2k">
+    <img src="/assets/chessmemorypalace/not_in_book/thumbnail_and_title.jpg" style="margin: 0px 0px 10px 0px; display: block;">
+    <b>Watch on YouTube</b>
+  </a>
+</div>
 
 ### Blurb
 
