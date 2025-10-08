@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image Notation: A New Mnemonic Code for Chess Moves
+title: "Image Notation: A New Mnemonic Code for Chess Moves"
 permalink: /imagenotation
 ---
 
