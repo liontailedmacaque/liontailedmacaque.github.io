@@ -363,7 +363,7 @@ For *roar* I imagine a lion roaring.
 
 - Pd5: **roll**, rail
 - Nd5: **ruler**, railway, relic, royal
-- Bd5: **relative**, religtion
+- Bd5: **relative**, religion
 - Rd5: **roller coaster**
 - Qd5: **cereal**, spiral
 - Kd5: **barrel**, barbell, barley, bracelet, parsley, pearl, porcelain, paralegal
@@ -524,11 +524,11 @@ Be careful to distinguish *elephant* from *mammoth* (c3).
 ### f1 
 
 
-- Pf1: **jet**, jade
+- Pf1: **jet**, jade, sheath, shed, sheet
 - Nf1: **cheetah**, chestnut, hatchet
-- Bf1: **Jupiter**, chapati
-- Rf1: **Chateaubriand** (steak)
-- Qf1: **shuttlecock**, sheath, shed, sheet, Shostakovich
+- Bf1: **shuttlecock**, Jupiter, chapati
+- Rf1: **Chateaubriand** (steak), Shostakovich
+- Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
 - Kf1: **budget**
 
 
