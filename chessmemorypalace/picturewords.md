@@ -599,8 +599,8 @@ Be careful to distinguish *jet* from *plane* (e2). I imagine a jet pack.
 
 
 - Pf7: **chick**, jug, shack
-- Nf7: **hedgehog**, chicken, jackpot, jigsaw, jockey, juggler, sheepdog, shekel, shopkeeper
-- Bf7: **jaguar**, cicada
+- Nf7: **hedgehog**, chicken, jackpot, jigsaw, jockey, juggler, sheepdog, shekel
+- Bf7: **jaguar**, cicada, shopkeeper
 - Rf7: **washing machine**, Chicken Little, geographer, shakuhachi
 - Qf7: **sashiko**, saw-jig (*jigsaw* backwards), sushka
 - Kf7: **pushcart**, bushcraft
