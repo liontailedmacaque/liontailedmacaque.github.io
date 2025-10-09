@@ -43,7 +43,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ba3: **tambourine**, domino, tomato
 - Ra3: **tamarillo**, automaton, automobile
 - Qa3: **stomach**, stump, steamroller
-- Ka3: **poppadom**
+- Ka3: **puppet**, poppadom
 
 
 
@@ -55,7 +55,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ba4: **astronaut**, asteroid, dragonfly, terrapin, tiara, tornado, trebuchet
 - Ra4: **tarantula**, motorcycle, oystercatcher, thermometer, Triceratops, watermelon
 - Qa4: **starfish**, star, straw, string, starship, stroganoff
-- Ka4: **butterfly**
+- Ka4: **butterfly**, butter, patrician, potter
 
 
 
@@ -67,7 +67,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ba5: **telescope**, dalmatian, telephone, 
 - Ra5: **Diplodocus**, television
 - Qa5: **satellite**, stool, saddle, spatula
-- Ka5: **bottle**, bodybuilder
+- Ka5: **bottle**, bodybuilder, petal
 
 
 
@@ -78,7 +78,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Na6: **teacher**, dodgeball, 
 - Ba6: **dishwasher**, optician
 - Ra6: **didgeridoo**
-- Qa6: **stopwatch**
+- Qa6: **stopwatch**, stitch
 - Ka6: **pottage**, potash
 
 
@@ -113,11 +113,11 @@ If you spot any mistakes, [please tell me](/contact).
 - Pb1: **ant**, gnat, hand, net, newt, nut, wand
 - Nb1: **noodle**, Annette (name), needle, nettle
 - Bb1: **anteater**, antelope, centipede, nightingale
-- Rb1: **annuity**
+- Rb1: **annuity**, Ontario
 - Qb1: **Santa**, centaur, Cinderella, sand, sandwich, snowdrop, sundae, scientist, sanitiser
-- Kb1: **bandana**
+- Kb1: **bandana**, pants, pint
 
-
+For **annuity** I imagine a pile of gold.
 
 ### b2 
 
@@ -135,7 +135,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pb3: **gnome**, nymph
-- Nb3: **Nemo**
+- Nb3: **Nemo** (name)
 - Bb3: **manatee**, minaret, mineral
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
@@ -149,7 +149,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pb4: **nurse**, nerve
-- Nb4: **narwhal**
+- Nb4: **narwhal**, Nordic
 - Bb4: **newspaper**, anarchist, anorak
 - Rb4: (Daniel) **Naroditsky**, Herodotus, norovirus
 - Qb4: **snorkel**, snare, spanner, scenery
@@ -261,9 +261,9 @@ The c in *scimitar* is silent.
 
 
 - Pc5: **mole**, mail, milk, mule
-- Nc5: **mussel**, mallet, milkshake, muscle, omelette
+- Nc5: **mussel**, mallet, milkshake, melon, muscle, omelette
 - Bc5: **millipede**, mulberry
-- Rc5: **melodica**
+- Rc5: **melodica**, Melchizedek (name)
 - Qc5: **cymbal**, semolina, Somalia
 - Kc5: **bumblebee**, pomelo
 
@@ -672,7 +672,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 ### g5 
 
 
-- Pg5: **clam**, claw, clock, coal, glass, glove, glue
+- Pg5: **clam**, claw, clock, coal, glass, glove, glue, gold
 - Ng5: **eagle**, cola, gazelle, igloo
 - Bg5: **koala**, clarinet, goalkeeper, icicle, 
 - Rg5: **gladiator**, calculator, kaleidoscope, ukulele
