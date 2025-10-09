@@ -117,7 +117,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qb1: **Santa**, centaur, Cinderella, sand, sandwich, snowdrop, sundae, scientist, sanitiser
 - Kb1: **bandana**, pants, pint
 
-For **annuity** I imagine a pile of gold.
+For *annuity* I imagine a pile of gold.
 
 ### b2 
 
@@ -652,8 +652,8 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Ng3: **camel**, comet, kimchi
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
-- Qg3: **sycamore**
-- Kg3: **Pac-Man**
+- Qg3: **sycamore**, Sigmund (name)
+- Kg3: **Pac-Man**, Big Mac
 
 
 
@@ -665,7 +665,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Bg4: **crocodile**, acrobat, caravan, cormorant, grasshopper, gorilla
 - Rg4: **accordion**, carburetor, chrysanthemum, coriander, Krakatoa
 - Qg4: **squirrel**, scar, scarf, screw, skirt, speaker, scorpion, screwdriver, secretary
-- Kg4: **boxer**
+- Kg4: **boxer**, baker
 
 
 
@@ -677,7 +677,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Bg5: **koala**, clarinet, goalkeeper, icicle, 
 - Rg5: **gladiator**, calculator, kaleidoscope, ukulele
 - Qg5: **skeleton**, skull, seagull
-- Kg5: **bagel**
+- Kg5: **bagel**, pickle
 
 
 Be careful to distinguish *gladiator* from *warrior* (d4).
@@ -690,7 +690,7 @@ Be careful to distinguish *gladiator* from *warrior* (d4).
 - Ng6: **ketchup**, cabbage, cashew
 - Bg6: **kedgeree**, acacia
 - Rg6: **cappuccino**
-- Qg6: **Saskatchewan**
+- Qg6: **Scotch**, sketch, Saskatchewan
 - Kg6: **package**, baggage
 
 
@@ -704,7 +704,7 @@ Be careful to distinguish *cappuccino* from *coffee* (g8).
 - Ng7: **cockroach**, cookie, cuckoo, cupcake, goggles, kayak
 - Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong
 - Rg7: **kookaburra**, cucamelon, guacamole
-- Qg7: **skyscraper**
+- Qg7: **skyscraper**, Skegness
 - Kg7: **peacock**, pickaxe
 
 
@@ -738,7 +738,7 @@ Be careful to distinguish *cappuccino* from *coffee* (g8).
 
 - Ph2: **fan**, fawn, van, vane
 - Nh2: **phoenix**, fountain, Venus, vinyl
-- Bh2: **vinegar**
+- Bh2: **vinegar**, fentanyl
 - Rh2: **ventriloquist**, Vanuatu, ventilator
 - Qh2: **sphinx**, sousaphone
 - Kh2: **puffin**, phone
