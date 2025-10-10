@@ -427,7 +427,7 @@ Be careful to distinguish *lobster* from *crab* (g4).
 
 - Pe2: **lawn**, lane, loan
 - Ne2: **lantern**, lion, linnet
-- Be2: **alien**
+- Be2: **alien**, lioness
 - Re2: **jalapeño**, Albania
 - Qe2: **saloon**, Celine (name), salon, Selena (name)
 - Ke2: **balloon**, blanket, Bologna, Bolonoodle, bullion, plane, polonium
