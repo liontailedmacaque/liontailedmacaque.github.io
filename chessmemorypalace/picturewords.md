@@ -114,7 +114,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nb1: **noodle**, Annette (name), needle, nettle
 - Bb1: **anteater**, antelope, centipede, nightingale
 - Rb1: **annuity**, Ontario
-- Qb1: **Santa**, centaur, Cinderella, sand, sandwich, snowdrop, sundae, scientist, sanitiser
+- Qb1: **Santa**, centaur, Cinderella, sand, sandwich, sanitiser, scientist, snowdrop, sundae
 - Kb1: **bandana**, pants, pint
 
 For *annuity* I imagine a pile of gold.
@@ -445,7 +445,7 @@ Don't use *lion* if you use a lion for *roar* (d4).
 
 - Pe3: **lamb**, lamp, lime, loom
 - Ne3: **lemur**, helmet, lamppost, lamprey, lemon, llama
-- Be3: **limousine**, halloumi
+- Be3: **limousine**, halloumi, lemonade
 - Re3: **Lamborghini**, Olympian
 - Qe3: **salamander**, slime, salami
 - Ke3: **blimp**, plum, palomino (horse), policeman, policewoman
