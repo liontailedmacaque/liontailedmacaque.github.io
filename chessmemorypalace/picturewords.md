@@ -314,7 +314,7 @@ For *majority* I imagine a baying crowd in a group (so that it forms one "object
 - Bd1: **hairdryer**, radio, risotto
 - Rd1: **rhododendron**, artillery, radiator, ratatouille
 - Qd1: **sourdough**, seratonin
-- Kd1: **pirate**, broth, parrot, president, barrister, protester, paparazzi
+- Kd1: **pirate**, barrister, broth, paparazzi, parrot, president, protester
 
 
 
@@ -326,7 +326,7 @@ For *majority* I imagine a baying crowd in a group (so that it forms one "object
 - Bd2: **raisin**, roundabout, Uranus
 - Rd2: **rhinoceros**, Esperanto, uranium
 - Qd2: **soprano**, siren, serendipidy
-- Kd2: **brain**, prawn, parsnip, piranha, barnacle, pepperoni
+- Kd2: **brain**, barnacle, parsnip, pepperoni, piranha, prawn
 
 
 
@@ -366,7 +366,7 @@ For *roar* I imagine a lion roaring.
 - Bd5: **relative**, religion
 - Rd5: **roller coaster**
 - Qd5: **cereal**, spiral
-- Kd5: **barrel**, barbell, barley, bracelet, parsley, pearl, porcelain, paralegal
+- Kd5: **barrel**, barbell, barley, bracelet, paralegal, parsley, pearl, porcelain
 
 
 
@@ -627,7 +627,7 @@ Be careful to distinguish *jet* from *plane* (e2). I imagine a jet pack.
 - Bg1: **catapult**, cuttlefish, octopus
 - Rg1: **caterpillar**
 - Qg1: **squid**, scooter, skittle, spaghetti
-- Kg1: **baguette**, bucket, basketball, pagoda, bacteria, psychiatrist
+- Kg1: **baguette**, bacteria, basketball, bucket, pagoda, psychiatrist
 
 
 
@@ -639,7 +639,7 @@ Be careful to distinguish *jet* from *plane* (e2). I imagine a jet pack.
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Rg2: **iguanodon**, economist
 - Qg2: **skin**, signalman
-- Kg2: **Pocahontas**, bacon, bikini, buccaneer, begonia
+- Kg2: **Pocahontas**, bacon, begonia, bikini, buccaneer
 
 
 If you dislike visualising realistic violence with a *gun*, you can imagine a water pistol, finger gun, or tranquilizer gun.
