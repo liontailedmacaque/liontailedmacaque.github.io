@@ -485,13 +485,11 @@ For *lore* I imagine a medieval manuscript or something that would appear in a f
 
 - Pe6: **leech**
 - Ne6: **lychee**, ledger, legend, lodger, lotion
-- Be6: **eyelashes**
+- Be6: **illusion**, Elijah (name), eyelashes
 - Re6: **Algeria**, zoology
-- Qe6: **slush**, sledge
+- Qe6: **sledgehammer**, sledge, slush, slushie
 - Ke6: **polish**, bleach, plush velvet
 
-
-Remember that *eyelashes* is plural, three syllables.
 
 
 ### e7 
@@ -555,7 +553,7 @@ Be careful to distinguish *jet* from *plane* (e2). I imagine a jet pack.
 - Bf3: **chimpanzee**, chamber pot, champion
 - Rf3: **gymnasium**, chimichurri
 - Qf3: **sashimi**
-- Kf3: **pyjama**
+- Kf3: **pyjamas**
 
 
 
