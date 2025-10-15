@@ -67,7 +67,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ba5: **telescope**, dalmatian, telephone, 
 - Ra5: **Diplodocus**, television
 - Qa5: **satellite**, stool, saddle, spatula
-- Ka5: **bottle**, bodybuilder, petal
+- Ka5: **bottle**, bodybuilder, paddle steamer, petal
 
 
 
@@ -87,7 +87,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pa7: **dog**, duck, tongue
-- Na7: **tiger**, digger, doctor, dugong, taco, taxi
+- Na7: **tiger**, digger, doctor, dugong, taco, taxi, tugboat
 - Ba7: **woodpecker**, toboggan
 - Ra7: **tapioca**, taxidermist
 - Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku, 
@@ -225,7 +225,7 @@ The c in *scimitar* is silent.
 
 
 - Pc2: **moon**, man, mink, mint
-- Nc2: **monster**, manger, miner, money
+- Nc2: **monkey**, manger, miner, money, monster
 - Bc2: **Minotaur**, ammonite, manatee, mayonnaise, omnibus
 - Rc2: **mahonia**, Minnesota, monopoly, Montenegro
 - Qc2: **salmon**
@@ -325,7 +325,7 @@ For *majority* I imagine a baying crowd in a group (so that it forms one "object
 - Nd2: **heron**, orange, rainbow, ribbon, robin
 - Bd2: **raisin**, roundabout, Uranus
 - Rd2: **rhinoceros**, Esperanto, uranium
-- Qd2: **soprano**, siren, serendipidy
+- Qd2: **serpent**, siren, serendipidy, soprano
 - Kd2: **brain**, barnacle, parsnip, pepperoni, piranha, prawn
 
 
@@ -375,7 +375,7 @@ For *roar* I imagine a lion roaring.
 
 - Pd6: **rush**, roach
 - Nd6: **airship**, archer, Richard (name), warship
-- Bd6: **archerfish**
+- Bd6: **archerfish**, Rajasthan, Regina
 - Rd6: **Argentina**, Azerbaijan
 - Qd6: **surgeon**
 - Kd6: **brush**, birch, broach, bridge, porch, porridge, projector
@@ -387,7 +387,7 @@ For *roar* I imagine a lion roaring.
 
 - Pd7: **rake**, ark, orc, ring
 - Nd7: **rocket**, iceberg, orca, organ, raccoon, racket
-- Bd7: **harpsichord**, architect, recorder
+- Bd7: **harpsichord**, architect, orchestra, recorder
 - Rd7: **orangutan**, architecture, asparagus, hieroglyphics, oregano, origami
 - Qd7: **sparkler**
 - Kd7: **Brachiosaurus**, brick, broccoli, parakeet, porcupine, paraglider
@@ -523,7 +523,7 @@ Be careful to distinguish *elephant* from *mammoth* (c3).
 
 
 - Pf1: **jet**, jade, sheath, shed, sheet
-- Nf1: **cheetah**, chestnut, hatchet
+- Nf1: **cheetah**, hatchet
 - Bf1: **shuttlecock**, Jupiter, chapati
 - Rf1: **Chateaubriand** (steak), Shostakovich
 - Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
@@ -762,7 +762,7 @@ For *family*, I imagine a small family hugging (so that it forms one "object"). 
 
 - Ph4: **frog**, fern, fir, fridge
 - Nh4: **fairy**, farmer, ferry, viper
-- Bh4: **ivory**, hovercraft, officer, overalls, overcoat
+- Bh4: **hovercraft**, ivory, officer, overalls, overcoat
 - Rh4: **firefighter**, frangipani, fortepiano, vermicelli
 - Qh4: **sapphire**, sphere, saffron
 - Kh4: **beaver**
