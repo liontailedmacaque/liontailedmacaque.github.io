@@ -725,7 +725,7 @@ Be careful to distinguish *cappuccino* from *coffee* (g8).
 - Ph1: **foot**, vat, vest, vet
 - Nh1: **feather**, father, football, voter
 - Bh1: **footballer**, avocet, physicist, veteran, video, vitamin
-- Rh1: **phytoplankton**, afterburner, photography
+- Rh1: **phytoplankton**, afterburner, photographer
 - Qh1: **softball**
 - Kh1: **bovid**, bavette, Pavetta, pivot
 
