@@ -275,11 +275,10 @@ The l in *salmon* is silent.
 - Pc6: **match**, mash, midge
 - Nc6: **machine**, mushroom
 - Bc6: **machete**, magician
-- Rc6: **majority**
+- Rc6: **majordomo**, machinery, majicola, missionary
 - Qc6: **smashed avocado**, samaj, smidgeon 
 - Kc6: **Beamish** (village, surname, brand of beer)
 
-For *majority* I imagine a baying crowd in a group (so that it forms one "object"). Be careful to distinguish it from *family* (h3).
 
 
 ### c7 
