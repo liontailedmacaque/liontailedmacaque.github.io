@@ -139,10 +139,10 @@ For *annuity* I imagine a pile of gold.
 - Bb3: **manatee**, minaret, mineral
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
-- Kb3: **Panama** (hat)
+- Kb3: **Panama** (hat or country)
 
 
-*Gnome* has a silent g.
+The g in *gnome* is silent.
 
 
 ### b4 
@@ -204,7 +204,7 @@ For *annuity* I imagine a pile of gold.
 - Kb8: **Boniface** (name)
 
 
-*Knife* has a silent k.
+The k in *knife* is silent.
 
 
 ### c1 
@@ -231,7 +231,7 @@ The c in *scimitar* is silent.
 - Qc2: **salmon**
 - Kc2: **Bohemian**, Pomona
 
-
+The l in *salmon* is silent.
 
 ### c3 
 
@@ -361,7 +361,7 @@ For *roar* I imagine a lion roaring.
 ### d5 
 
 
-- Pd5: **roll**, rail
+- Pd5: **earl**, rail, roll
 - Nd5: **ruler**, railway, relic, royal
 - Bd5: **relative**, religion
 - Rd5: **roller coaster**
@@ -404,7 +404,7 @@ Be careful to distinguish *Brachiosaurus* from *Diplodocus* (a5).
 - Bd8: **referee**
 - Rd8: **ravioli**, Orvieto (wine)
 - Qd8: **servant**, surf, supervisor
-- Kd8: **perfume**, prefect, prophet, privateer, profiterole
+- Kd8: **perfume**, prefect, privateer, profiterole, prophet
 
 
 
@@ -446,9 +446,9 @@ Don't use *lion* if you use a lion for *roar* (d4).
 - Pe3: **lamb**, lamp, lime, loom
 - Ne3: **lemur**, helmet, lamppost, lamprey, lemon, llama
 - Be3: **limousine**, halloumi, lemonade
-- Re3: **Lamborghini**, Olympian
-- Qe3: **salamander**, slime, salami
-- Ke3: **blimp**, plum, palomino (horse), policeman, policewoman
+- Re3: **Lamborghini**, limoncello, Olympian
+- Qe3: **salamander**, salami, slime
+- Ke3: **blimp**, palomino (horse), plum, policeman, policewoman
 
 
 
@@ -490,6 +490,8 @@ For *lore* I imagine a medieval manuscript or something that would appear in a f
 - Qe6: **sledgehammer**, sledge, slush, slushie
 - Ke6: **polish**, bleach, plush velvet
 
+
+For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirage).
 
 
 ### e7 
