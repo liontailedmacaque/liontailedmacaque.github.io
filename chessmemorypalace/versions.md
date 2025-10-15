@@ -6,7 +6,7 @@ permalink: /chessmemorypalace/versions
 
 On the copyright page of *The Chess Memory Palace*, you will find a decimal number (e.g. 1.9). This is the version number. As the book is available as print-on-demand and ebook, I am able to make small updates without doing a large print run.
 
-This page lists the versions and the changes that have been made. All these changes are quite minor. If you are one of the early adopters with an early version, the minor errors should not affect your enjoyment of the book at all. And technically you have a limited edition copy!
+This page lists the versions and the changes that have been made. If you are one of the early adopters with an early version, the minor errors should not affect your enjoyment of the book at all. And technically you have a limited edition copy!
 
 ### 1.0
 - Original version, released 29 December 2022
@@ -80,7 +80,10 @@ This page lists the versions and the changes that have been made. All these chan
 - Added letter to copyright page
 - Added paragraph clarifying the difference between *shark* and *brush* in Chapter 1
 
-### 1.12
-- Upcoming
-- Removed 'university' from incorrect place in the Appendix
-- Corrected Black's second move from 'barrel' to 'pearl' in Steinitz v Elson, page 160
+### Remaining errata in 1.11
+- 'University' listed as having 5 syllables in Appendix
+- Black's second move should be corrected from 'barrel' to 'pearl' in Steinitz v Elson, page 160
+
+### 2.0
+- Upcoming update
+- Picture Notation to be replaced throughout the book by [Image Notation](/imagenotation)
