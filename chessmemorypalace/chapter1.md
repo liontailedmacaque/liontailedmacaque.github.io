@@ -7,6 +7,7 @@ permalink: /chessmemorypalace/chapter1
 
 {% include chess-memory-header.html %}
 
+*Note October 2025: If you find Picture Notation difficult, you may prefer [Image Notation](/imagenotation). This follows algebraic notation more closely. The rest of the book (how to memorise composite images, how to build a branching memory palace etc) applies as before.*
 
 > *I know from my own experience what an excruciating labour it is to memorise "theory" before a game. You have it all written down in notebooks, you have gone through it ten times before starting play, and still you can't remember it.*
 >
