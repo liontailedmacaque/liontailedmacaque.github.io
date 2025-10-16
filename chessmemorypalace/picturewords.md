@@ -749,10 +749,10 @@ Be careful to distinguish *cappuccino* from *coffee* (g8).
 
 - Ph3: **foam**, Vim (software)
 - Nh3: **vampire**, vomit
-- Bh3: **family**, Fumika (name)
-- Rh3: **feminism**, famotidine
+- Bh3: **family**, feminist, Fumika (name)
+- Rh3: **feminism**, famotidine, fumigator, vomitoxin
 - Qh3: **sophomore**
-- Kh3: **bivium**
+- Kh3: **bivium**, Beefmaster (cattle breed)
 
 
 For *family*, I imagine a small family hugging (so that it forms one "object"). Be careful to distinguish it from *majority* (c6). For *feminism*, I imagine Mrs Banks wearing a "votes for women" sash, from the film *Mary Poppins*.
