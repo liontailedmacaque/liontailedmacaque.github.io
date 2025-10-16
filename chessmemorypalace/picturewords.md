@@ -196,12 +196,12 @@ The g in *gnome* is silent.
 ### b8 
 
 
-- Pb8: **knife**, nave
-- Nb8: **anvil**
-- Bb8: **envelope**
-- Rb8: **invitation**, environment
-- Qb8: **sunflower**, snowflake, 
-- Kb8: **Boniface** (name)
+- Pb8: **knife**, knave, nave
+- Nb8: **anvil**, envoy, infant, navy, novice
+- Bb8: **inventor**, envelope, infantry, invader, invention, investor
+- Rb8: **invitation**, environment, infantryman
+- Qb8: **sunflower**, snowflake
+- Kb8: **bonfire**, benefactor
 
 
 The k in *knife* is silent.
@@ -212,10 +212,10 @@ The k in *knife* is silent.
 
 - Pc1: **moth**, maid, mast, mat, moth, mouth, mud
 - Nc1: **moped**, mittens, mother, moustache
-- Bc1: **mastodon**, amethyst
+- Bc1: **mastodon**, amethyst, matador, meteor, motorist
 - Rc1: **meteorite**, Madagascar, mathematics, Mitsubishi
 - Qc1: **scimitar**, swimsuit
-- Kc1: **behemoth**
+- Kc1: **behemoth**, biometrics, bumetanide
 
 
 The c in *scimitar* is silent.
