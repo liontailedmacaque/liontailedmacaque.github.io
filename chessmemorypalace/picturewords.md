@@ -312,7 +312,7 @@ The l in *salmon* is silent.
 - Nd1: **robot**, rabbit, rooster, warthog, wizard
 - Bd1: **hairdryer**, radio, risotto
 - Rd1: **rhododendron**, artillery, radiator, ratatouille
-- Qd1: **sourdough**, seratonin
+- Qd1: **sourdough**, certificate, seratonin, Sorting Hat
 - Kd1: **pirate**, barrister, broth, paparazzi, parrot, president, protester
 
 
