@@ -99,11 +99,11 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pa8: **dove**, Dave (name)
-- Na8: **toffee**, diver, tofu
-- Ba8: **daffodil**, DVD
+- Na8: **diver**, David (name), toffee, tofu
+- Ba8: **daffodil**, DVD, Tuvalu
 - Ra8: **advertisement**, audiophile, developer
-- Qa8: **stevia**, sativa
-- Ka8: **beautification**
+- Qa8: **stove**, sativa, staff, stevia
+- Ka8: (Mikhail) **Botvinnik**, Batavia, beautification
 
 
 
