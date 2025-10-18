@@ -160,9 +160,9 @@ The g in *gnome* is silent.
 ### b5 
 
 
-- Pb5: **nail**
-- Nb5: **nylon**, Nala (name), Nelly (name)
-- Bb5: **Napoli**
+- Pb5: **nail**, Niall (name), Nile
+- Nb5: **nylon**, in-law, Nala (name), Nelly (name), Nelson (name), nylon
+- Bb5: **Napoli**, onlooker
 - Rb5: **Napoleon** (Bonaparte), Honolulu, nobility
 - Qb5: **snail**, snowball, snowplough, snallygaster
 - Kb5: **pineapple**, pencil, Penelope (name)
@@ -300,7 +300,7 @@ The l in *salmon* is silent.
 - Nc8: **muffin**, movie
 - Bc8: **amphora**, maverick
 - Rc8: **amphetamine**, amphibian
-- Qc8: **samovar**
+- Qc8: **samovar**, symphony
 - Kc8: **B-movie**
 
 
@@ -333,9 +333,9 @@ The l in *salmon* is silent.
 
 
 - Pd3: **ram**, arm, rum, worm
-- Nd3: **Roman**, army
-- Bd3: **ramekin**
-- Rd3: **armadillo**, harmonica
+- Nd3: **Roman**, armour, army
+- Bd3: **ramekin**, armada, armoury, aroma, romantic, Romulus, ruminant
+- Rd3: **armadillo**, Armenia, harmonica, Romania
 - Qd3: **ceramic**, sermon
 - Kd3: **pyramid**, broom, pram, bromine, primrose, barometer
 
@@ -494,7 +494,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 
 
 - Pe7: **hulk**, leek, log, lung
-- Ne7: **luggage**, logo, (Judit) Polgar
+- Ne7: **locust**, algae, lagoon, Lego (brand), liger, liqueur, locket, logo, luggage, (Judit) Polgar, (Peter) Leko
 - Be7: **alpaca**, alcohol, liquorice
 - Re7: **helicopter**, alligator, electrician
 - Qe7: **slug**, sling
@@ -631,7 +631,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Rg2: **iguanodon**, economist
 - Qg2: **skin**, signalman
-- Kg2: **Pocahontas**, bacon, begonia, bikini, buccaneer
+- Kg2: **Pocahontas** (name), bacon, begonia, bikini, buccaneer
 
 
 If you dislike visualising realistic violence with a *gun*, you can imagine a water pistol, finger gun, or tranquilizer gun.
