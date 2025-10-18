@@ -213,7 +213,7 @@ The k in *knife* is silent.
 - Pc1: **moth**, maid, mast, mat, moth, mouth, mud
 - Nc1: **moped**, mittens, mother, moustache
 - Bc1: **mastodon**, amethyst, matador, meteor, motorist
-- Rc1: **meteorite**, Madagascar, mathematics, Mitsubishi
+- Rc1: **meteorite**, Madagascar, mathematics, Mitsubishi (brand)
 - Qc1: **scimitar**, swimsuit
 - Kc1: **behemoth**, biometrics, bumetanide
 
@@ -440,7 +440,7 @@ Don't use *lion* if you use a lion for *roar* (Pd4).
 - Pe3: **lamb**, lamp, lime, loom
 - Ne3: **lemur**, helmet, lamppost, lamprey, lemon, llama
 - Be3: **limousine**, halloumi, lemonade
-- Re3: **Lamborghini**, limoncello, Olympian
+- Re3: **Lamborghini** (brand), limoncello, Olympian
 - Qe3: **salamander**, salami, slime
 - Ke3: **blimp**, palomino (horse), plum, policeman, policewoman
 
@@ -521,7 +521,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Pf1: **jet**, jade, sheath, shed, sheet
 - Nf1: **cheetah**, hatchet
 - Bf1: **shuttlecock**, Jupiter, chapati
-- Rf1: **Chateaubriand** (steak), Shostakovich
+- Rf1: **Chateaubriand** (steak), (Dmitri) Shostakovich
 - Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
 - Kf1: **budget**
 
