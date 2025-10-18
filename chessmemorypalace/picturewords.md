@@ -63,7 +63,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pa5: **doll**, tail, till
-- Na5: **tulip**, dolphin, outlaw, toilet
+- Na5: **Dalek**, dolphin, toilet, tulip, outlaw
 - Ba5: **telescope**, dalmatian, telephone, 
 - Ra5: **Diplodocus**, television
 - Qa5: **satellite**, stool, saddle, spatula
@@ -323,7 +323,7 @@ The l in *salmon* is silent.
 - Pd2: **horn**, wren
 - Nd2: **heron**, orange, rainbow, ribbon, robin
 - Bd2: **raisin**, roundabout, Uranus
-- Rd2: **rhinoceros**, Esperanto, uranium
+- Rd2: **rhinoceros**, Esperanto, Robin Hood, uranium
 - Qd2: **serpent**, siren, serendipidy, soprano
 - Kd2: **brain**, barnacle, parsnip, pepperoni, piranha, prawn
 
@@ -336,7 +336,7 @@ The l in *salmon* is silent.
 - Nd3: **Roman**, armour, army
 - Bd3: **ramekin**, armada, armoury, aroma, romantic, Romulus, ruminant
 - Rd3: **armadillo**, Armenia, harmonica, Romania
-- Qd3: **ceramic**, sermon
+- Qd3: **Cyberman**, ceramic, sermon
 - Kd3: **pyramid**, broom, pram, bromine, primrose, barometer
 
 
