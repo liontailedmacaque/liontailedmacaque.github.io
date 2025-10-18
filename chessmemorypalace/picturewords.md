@@ -51,9 +51,9 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pa4: **tree**, deer, dress, drill, drone, torch, train
-- Na4: **dragon**, cider, ostrich, otter, oyster, tractor, trumpet
+- Na4: **dragon**, cider, ostrich, otter, oyster, tractor, T-rex, trumpet
 - Ba4: **astronaut**, asteroid, dragonfly, terrapin, tiara, tornado, trebuchet
-- Ra4: **tarantula**, motorcycle, oystercatcher, thermometer, Triceratops, watermelon
+- Ra4: **tarantula**, motorcycle, oystercatcher, thermometer, triceratops, watermelon
 - Qa4: **starfish**, star, straw, string, starship, stroganoff
 - Ka4: **butterfly**, butter, patrician, potter
 
