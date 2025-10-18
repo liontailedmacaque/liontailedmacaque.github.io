@@ -135,8 +135,8 @@ For *annuity* I imagine a pile of gold.
 
 
 - Pb3: **gnome**, nymph
-- Nb3: **Nemo** (name)
-- Bb3: **manatee**, minaret, mineral
+- Nb3: **nomad**, Nemo (name), Nimrod (name), number
+- Bb3: **winemaker**, animal, enamel, enemy, numeral, pneumatic
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
 - Kb3: **Panama** (hat or country)
@@ -162,7 +162,7 @@ The g in *gnome* is silent.
 
 - Pb5: **nail**, Niall (name), Nile
 - Nb5: **nylon**, in-law, Nala (name), Nelly (name), Nelson (name), nylon
-- Bb5: **Napoli**, onlooker
+- Bb5: **Hannibal**, Napoli, onlooker
 - Rb5: **Napoleon** (Bonaparte), Honolulu, nobility
 - Qb5: **snail**, snowball, snowplough, snallygaster
 - Kb5: **pineapple**, pencil, Penelope (name)
@@ -226,7 +226,7 @@ The c in *scimitar* is silent.
 
 - Pc2: **moon**, man, mink, mint
 - Nc2: **monkey**, manger, miner, money, monster
-- Bc2: **Minotaur**, ammonite, manatee, mayonnaise, omnibus
+- Bc2: **manatee**, ammonite, mayonnaise, mineral, mineret, Minotaur, omnibus 
 - Rc2: **mahonia**, Minnesota, monopoly, Montenegro
 - Qc2: **salmon**
 - Kc2: **Bohemian**, Pomona
