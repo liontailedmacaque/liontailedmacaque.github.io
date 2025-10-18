@@ -87,7 +87,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pa7: **dog**, duck, tongue
-- Na7: **tiger**, digger, doctor, dugong, taco, taxi, tugboat
+- Na7: **digger**, doctor, dugong, taco, taxi, tiger, tugboat
 - Ba7: **woodpecker**, toboggan
 - Ra7: **tapioca**, taxidermist
 - Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku, 
