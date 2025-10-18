@@ -184,11 +184,11 @@ The g in *gnome* is silent.
 ### b7 
 
 
-- Pb7: **zinc**, neck, 
-- Nb7: **necklace**, hanbok, insect, 
-- Bb7: **unicorn**
+- Pb7: **neck**, Nick (name), zinc 
+- Nb7: **necklace**, hanbok, insect
+- Bb7: **unicorn**, Nicholas (name)
 - Rb7: **anaconda**, (Hikaru) Nakamura
-- Qb7: **sunglassess**, snake, snack, snooker, 
+- Qb7: **sunglassess**, snake, snack, snooker
 - Kb7: **Pinocchio**, beanbag, pancreas, binoculars
 
 
@@ -392,8 +392,6 @@ For *roar* I imagine a lion roaring.
 - Kd7: **Brachiosaurus**, brick, broccoli, parakeet, porcupine, paraglider
 
 
-Be careful to distinguish *Brachiosaurus* from *Diplodocus* (a5).
-
 
 ### d8 
 
@@ -418,7 +416,7 @@ Be careful to distinguish *Brachiosaurus* from *Diplodocus* (a5).
 - Ke1: **bulldozer**, belt, pilot, politician, polyester
 
 
-Be careful to distinguish *lobster* from *crab* (g4).
+
 
 
 ### e2 
@@ -431,12 +429,9 @@ Be careful to distinguish *lobster* from *crab* (g4).
 - Qe2: **saloon**, Celine (name), salon, Selena (name)
 - Ke2: **balloon**, blanket, Bologna, Bolonoodle, bullion, plane, polonium
 
-
-Be careful to distinguish *plane* from *jet* (f1).
-
 The first letter of *jalapeño* sounds like an *h*, so we ignore it when finding the target square.
 
-Don't use *lion* if you use a lion for *roar* (d4).
+Don't use *lion* if you use a lion for *roar* (Pd4).
 
 
 ### e3 
@@ -476,7 +471,9 @@ For *lore* I imagine a medieval manuscript or something that would appear in a f
 - Ke5: **balalaika**
 
 
-*Lol* is the online shorthand for *laugh out loud*. I imagine a jester. For *hallelujah* I imagine a colourful banner.
+*Lol* is the online shorthand for *laugh out loud*. I imagine a jester.
+
+For *hallelujah* I imagine a colourful banner.
 
 
 ### e6 
@@ -484,7 +481,7 @@ For *lore* I imagine a medieval manuscript or something that would appear in a f
 
 - Pe6: **leech**
 - Ne6: **lychee**, ledger, legend, lodger, lotion
-- Be6: **illusion**, Elijah (name), eyelashes
+- Be6: **illusion**, Elijah (name), Elisha (name), eyelashes
 - Re6: **Algeria**, zoology
 - Qe6: **sledgehammer**, sledge, slush, slushie
 - Ke6: **polish**, bleach, plush velvet
@@ -517,8 +514,6 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Ke8: **Bolivia**
 
 
-Be careful to distinguish *elephant* from *mammoth* (c3).
-
 
 ### f1 
 
@@ -530,8 +525,6 @@ Be careful to distinguish *elephant* from *mammoth* (c3).
 - Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
 - Kf1: **budget**
 
-
-Be careful to distinguish *jet* from *plane* (e2). I imagine a jet pack.
 
 
 ### f2 
@@ -601,7 +594,7 @@ Be careful to distinguish *jet* from *plane* (e2). I imagine a jet pack.
 - Nf7: **hedgehog**, chicken, jackpot, jigsaw, jockey, juggler, sheepdog, shekel
 - Bf7: **jaguar**, cicada, shopkeeper
 - Rf7: **washing machine**, Chicken Little, geographer, shakuhachi
-- Qf7: **sashiko**, saw-jig (*jigsaw* backwards), sushka
+- Qf7: **sashiko**, saw-jig (*jigsaw* remixed), sushka
 - Kf7: **pushcart**, bushcraft
 
 
@@ -679,8 +672,6 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Kg5: **bagel**, pickle
 
 
-Be careful to distinguish *gladiator* from *warrior* (d4).
-
 
 ### g6 
 
@@ -692,8 +683,6 @@ Be careful to distinguish *gladiator* from *warrior* (d4).
 - Qg6: **Scotch**, sketch, Saskatchewan
 - Kg6: **package**, baggage
 
-
-Be careful to distinguish *cappuccino* from *coffee* (g8).
 
 
 ### g7 
@@ -749,13 +738,11 @@ Be careful to distinguish *cappuccino* from *coffee* (g8).
 
 - Ph3: **foam**, Vim (software)
 - Nh3: **vampire**, vomit
-- Bh3: **family**, feminist, Fumika (name)
-- Rh3: **feminism**, famotidine, fumigator, vomitoxin
+- Bh3: **feminist**, family, Fumika (name)
+- Rh3: **fumigator**, famotidine, feminism, vomitoxin
 - Qh3: **sophomore**
 - Kh3: **bivium**, Beefmaster (cattle breed)
 
-
-For *family*, I imagine a small family hugging (so that it forms one "object"). Be careful to distinguish it from *majority* (c6). For *feminism*, I imagine Mrs Banks wearing a "votes for women" sash, from the film *Mary Poppins*.
 
 
 ### h4 
@@ -785,7 +772,7 @@ For *family*, I imagine a small family hugging (so that it forms one "object"). 
 ### h6 
 
 
-- Ph6: **fish**, fudge
+- Ph6: **fudge**, fish
 - Nh6: (Mount) **Fuji**, (Bobby) Fischer, fishcake
 - Bh6: **fisherman**, fishmonger, vegetable
 - Rh6: **vigilante**, fisherwoman
@@ -813,12 +800,14 @@ For *Victory*, I imagine Horatio Nelson's flagship, HMS Victory.
 
 - Ph8: **five**, fife, Viv (name)
 - Nh8: **fiver**, viva
-- Bh8: **favela**, Vivaldi, Vivian (name)
+- Bh8: **favela**, favourite, Vivaldi, Vivian (name)
 - Rh8: **vuvuzela**, Vesuvius
 - Qh8: **sofa view**
 - Kh8: **puff of...**, bevy of
 
 
 For *five* I imagine a seahorse in the shape of a 5.
+
+For *sofa view* I just imagine a sofa.
 
 For *puff of...* I imagine a little cloud (like a cartoon puff of wind).
