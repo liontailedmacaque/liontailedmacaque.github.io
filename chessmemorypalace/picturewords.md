@@ -174,7 +174,7 @@ The g in *gnome* is silent.
 
 - Pb6: **winch**, Ange (name), hinge, inch, niche, notch
 - Nb6: **angel**, engine, nacho
-- Bb6: **anchovy**, engineer
+- Bb6: **anchovy**, Angela (name), engineer
 - Rb6: **Angelina** (name), Angelica (name), Nigeria
 - Qb6: **sponge**, snowshoe, spinach
 - Kb6: **banjo**, bench, poncho
@@ -567,7 +567,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 
 
 - Pf5: **shell**, chalk, gel
-- Nf5: **cello**, chilli, jelly, shallot, shelduck
+- Nf5: **cello**, chapel, chilli, jelly, shallot, shelduck
 - Bf5: **jellyfish**, gelatin, jalfrezi, shipbuilder
 - Rf5: **shopaholic**, geologist, Juliana (name)
 - Qf5: **seashell**, satchel
