@@ -172,8 +172,8 @@ The g in *gnome* is silent.
 ### b6 
 
 
-- Pb6: **hinge**, notch
-- Nb6: **angel**, engine
+- Pb6: **winch**, Ange (name), hinge, inch, niche, notch
+- Nb6: **angel**, engine, nacho
 - Bb6: **anchovy**, engineer
 - Rb6: **Angelina** (name), Angelica (name), Nigeria
 - Qb6: **sponge**, snowshoe, spinach
