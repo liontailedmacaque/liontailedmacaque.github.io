@@ -99,7 +99,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pa8: **dove**, Dave (name)
-- Na8: **diver**, David (name), toffee, tofu
+- Na8: **diver**, toffee, tofu
 - Ba8: **daffodil**, DVD, Tuvalu
 - Ra8: **advertisement**, audiophile, developer
 - Qa8: **stove**, sativa, staff, stevia
@@ -111,9 +111,9 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 - Pb1: **ant**, gnat, hand, net, newt, nut, wand
-- Nb1: **noodle**, Annette (name), needle, nettle
+- Nb1: **noodle**, needle, nettle
 - Bb1: **anteater**, antelope, centipede, nightingale
-- Rb1: **annuity**, Ontario
+- Rb1: **annuity**, Antarctica, Ontario
 - Qb1: **Santa**, centaur, Cinderella, sand, sandwich, sanitiser, scientist, snowdrop, sundae
 - Kb1: **bandana**, pants, pint
 
@@ -125,7 +125,7 @@ For *annuity* I imagine a pile of gold.
 - Pb2: **nun**, (John) Nunn
 - Nb2: **ninja**, nanny, onion
 - Bb2: **nanobot**, Nineveh
-- Rb2: **nanoneedle**
+- Rb2: **nanoneedle**, nanoplastic
 - Qb2: **sin bin**, sunniness, synonym
 - Kb2: **banana**, banyan, panini, peninsula
 
@@ -248,7 +248,7 @@ The l in *salmon* is silent.
 ### c4 
 
 
-- Pc4: **Mir** (Soviet/Russian space station), moor
+- Pc4: **Mir** (Soviet/Russian space station), mare, moor
 - Nc4: **meerkat**, hammer, marble, mirror
 - Bc4: **umbrella**, emerald, maraca, marmalade, marshmallow, mercury
 - Rc4: **marionette**, embroidery, (Diego) Maradona, merry-go-round
@@ -289,7 +289,7 @@ The l in *salmon* is silent.
 - Bc7: **hummingbird**, mackerel, magazine, mechanic, microphone, mosaic, mosquito
 - Rc7: **magnolia**, macaroni, Makemake, magnesium, mascarpone
 - Qc7: **smokestack**, smoke
-- Kc7: **pomegranate**
+- Kc7: **pumpkin**, pomegranate
 
 
 
@@ -334,7 +334,7 @@ The l in *salmon* is silent.
 
 - Pd3: **ram**, arm, rum, worm
 - Nd3: **Roman**, armour, army
-- Bd3: **ramekin**, armada, armoury, aroma, romantic, Romulus, ruminant
+- Bd3: **ramekin**, armada, armoury, aroma, romantic, ruminant
 - Rd3: **armadillo**, Armenia, harmonica, Romania
 - Qd3: **Cyberman**, ceramic, sermon
 - Kd3: **pyramid**, broom, pram, bromine, primrose, barometer
@@ -363,7 +363,7 @@ For *roar* I imagine a lion roaring.
 - Pd5: **earl**, rail, roll
 - Nd5: **ruler**, railway, relic, royal
 - Bd5: **relative**, religion
-- Rd5: **roller coaster**
+- Rd5: **rollercoaster**, railway station
 - Qd5: **cereal**, spiral
 - Kd5: **barrel**, barbell, barley, bracelet, paralegal, parsley, pearl, porcelain
 
@@ -374,9 +374,9 @@ For *roar* I imagine a lion roaring.
 
 - Pd6: **rush**, roach
 - Nd6: **airship**, archer, Richard (name), warship
-- Bd6: **archerfish**, Rajasthan, Regina
+- Bd6: **archerfish**, Rajasthan, Regina, regiment
 - Rd6: **Argentina**, Azerbaijan
-- Qd6: **surgeon**
+- Qd6: **surgeon**, sergeant
 - Kd6: **brush**, birch, broach, bridge, porch, porridge, projector
 
 
@@ -411,7 +411,7 @@ For *roar* I imagine a lion roaring.
 - Pe1: **lute**, lathe, light
 - Ne1: **lobster**, ladder, laptop, lettuce, lipstick, wallet
 - Be1: **albatross**, Hollywood, ocelot, wildebeest
-- Re1: **lederhosen**, Elizabeth (name)
+- Re1: **lederhosen**, altimeter, elderberry
 - Qe1: **sloth**, salt, solicitor
 - Ke1: **bulldozer**, belt, pilot, politician, polyester
 
@@ -595,7 +595,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Bf7: **jaguar**, cicada, shopkeeper
 - Rf7: **washing machine**, Chicken Little, geographer, shakuhachi
 - Qf7: **sashiko**, saw-jig (*jigsaw* remixed), sushka
-- Kf7: **pushcart**, bushcraft
+- Kf7: **pushcart**, beachcart, beachcomber, bushcraft
 
 
 
