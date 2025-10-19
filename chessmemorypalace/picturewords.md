@@ -115,7 +115,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bb1: **anteater**, antelope, centipede, nightingale
 - Rb1: **annuity**, Antarctica, Ontario
 - Qb1: **Santa**, centaur, Cinderella, sand, sandwich, sanitiser, scientist, snowdrop, sundae
-- Kb1: **bandana**, pants, pint
+- Kb1: **panda**, bandana, pants, pint
 
 For *annuity* I imagine a pile of gold.
 
@@ -411,7 +411,7 @@ For *roar* I imagine a lion roaring.
 - Pe1: **lute**, lathe, light
 - Ne1: **lobster**, ladder, laptop, lettuce, lipstick, wallet
 - Be1: **albatross**, Hollywood, ocelot, wildebeest
-- Re1: **lederhosen**, altimeter, elderberry
+- Re1: **lederhosen**, altimeter, elderberry, El Dorado
 - Qe1: **sloth**, salt, solicitor
 - Ke1: **bulldozer**, belt, pilot, politician, polyester
 
@@ -454,7 +454,7 @@ Don't use *lion* if you use a lion for *roar* (Pd4).
 - Be4: **wheelbarrow**, celery, Labrador, wallpaper
 - Re4: **allosaurus**, celebrity, Liberia
 - Qe4: **sailor**, slipper
-- Ke4: **pliosaurus**, blueberry, 
+- Ke4: **pliosaurus**, blueberry, pillar
 
 
 For *lore* I imagine a medieval manuscript or something that would appear in a fantasy novel.
@@ -481,7 +481,7 @@ For *hallelujah* I imagine a colourful banner.
 
 - Pe6: **leech**
 - Ne6: **lychee**, ledger, legend, lodger, lotion
-- Be6: **illusion**, Elijah (name), Elisha (name), eyelashes
+- Be6: **illusion**, Elijah (name), Elisha (name), eyelashes, logician
 - Re6: **Algeria**, zoology
 - Qe6: **sledgehammer**, sledge, slush, slushie
 - Ke6: **polish**, bleach, plush velvet
@@ -494,7 +494,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 
 
 - Pe7: **hulk**, leek, log, lung
-- Ne7: **locust**, algae, lagoon, Lego (brand), liger, liqueur, locket, logo, luggage, (Judit) Polgar, (Peter) Leko
+- Ne7: **locust**, algae, lagoon, liger, liqueur, locket, logo, luggage
 - Be7: **alpaca**, alcohol, liquorice
 - Re7: **helicopter**, alligator, electrician
 - Qe7: **slug**, sling
@@ -581,7 +581,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Pf6: **judge**, Josh (name)
 - Nf6: **shisha**, japchae, sheepshank (knot), shoji
 - Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name), jujitsu
-- Rf6: **shabu-shabu**, Chachapoya, Jojo Rabbit, shachihoko
+- Rf6: **shabu-shabu**, Chachapoya, shachihoko
 - Qf6: **sushi chef**
 - Kf6: **pushchair**
 
