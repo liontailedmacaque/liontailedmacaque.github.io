@@ -153,7 +153,7 @@ The g in *gnome* is silent.
 - Bb4: **newspaper**, anarchist, anorak
 - Rb4: (Daniel) **Naroditsky**, Herodotus, norovirus
 - Qb4: **snorkel**, snare, spanner, scenery
-- Kb4: **pioneer**
+- Kb4: **pioneer**, banner
 
 
 
@@ -228,7 +228,7 @@ The c in *scimitar* is silent.
 - Nc2: **monkey**, manger, miner, money, monster
 - Bc2: **manatee**, ammonite, mayonnaise, mineral, mineret, Minotaur, omnibus 
 - Rc2: **mahonia**, Minnesota, monopoly, Montenegro
-- Qc2: **salmon**
+- Qc2: **salmon**, Samantha (name), seaman, seminary, Simon (name), Simone (name)
 - Kc2: **Bohemian**, Pomona
 
 The l in *salmon* is silent.
@@ -240,8 +240,8 @@ The l in *salmon* is silent.
 - Nc3: **mammoth**, memo, mummy
 - Bc3: **museum**, Mombasa, mummichog
 - Rc3: (Shakhriyar) **Mamedyarov**, Mamma mia
-- Qc3: **simoom**
-- Kc3: **puma mom**
+- Qc3: **simoom**, semimetal
+- Kc3: **biomembrane**, biomimicry
 
 
 
@@ -253,7 +253,7 @@ The l in *salmon* is silent.
 - Bc4: **umbrella**, emerald, maraca, marmalade, marshmallow, mercury
 - Rc4: **marionette**, embroidery, (Diego) Maradona, merry-go-round
 - Qc4: **samurai**, sombrero, submarine
-- Kc4: **boomerang**
+- Kc4: **boomerang**, Pomeranian
 
 
 
@@ -312,7 +312,7 @@ The l in *salmon* is silent.
 - Nd1: **robot**, rabbit, rooster, warthog, wizard
 - Bd1: **hairdryer**, radio, risotto
 - Rd1: **rhododendron**, artillery, radiator, ratatouille
-- Qd1: **sourdough**, certificate, seratonin, Sorting Hat
+- Qd1: **sardine**, certificate, seratonin, Sorting Hat, sourdough
 - Kd1: **pirate**, barrister, broth, paparazzi, parrot, president, protester
 
 
