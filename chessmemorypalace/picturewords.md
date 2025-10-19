@@ -17,7 +17,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Pa1: **toast**, toad, tooth
 - Na1: **dodo**, tadpole, teapot, teddy
 - Ba1: **Titanic**, detective, tapestry
-- Ra1: **Tutankhamen**, Tatiana (name)
+- Ra1: **Tutankhamen**, detonator
 - Qa1: **statue**, stadium, stethoscope, sitatunga, stud
 - Ka1: **potato**
 
