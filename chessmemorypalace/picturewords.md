@@ -62,7 +62,7 @@ If you spot any mistakes, [please tell me](/contact).
 ### a5 
 
 
-- Pa5: **doll**, tail, till
+- Pa5: **doll**, dill, tail, (Mikhail) Tal, teal, till
 - Na5: **Dalek**, dolphin, toilet, tulip, outlaw
 - Ba5: **telescope**, dalmatian, telephone, 
 - Ra5: **Diplodocus**, television
@@ -388,8 +388,8 @@ For *roar* I imagine a lion roaring.
 - Nd7: **rocket**, iceberg, orca, organ, raccoon, racket
 - Bd7: **harpsichord**, architect, orchestra, recorder
 - Rd7: **orangutan**, architecture, asparagus, hieroglyphics, oregano, origami
-- Qd7: **sparkler**
-- Kd7: **Brachiosaurus**, brick, broccoli, parakeet, porcupine, paraglider
+- Qd7: **sparkler**, sorghum
+- Kd7: **porcupine**, Brachiosaurus, brick, broccoli, parakeet, paraglider
 
 
 
@@ -398,7 +398,7 @@ For *roar* I imagine a lion roaring.
 
 - Pd8: **raft**, reef
 - Nd8: **raven**, earphones, rifle
-- Bd8: **referee**
+- Bd8: **referee**, Raphael (name), revolver, rifleman
 - Rd8: **ravioli**, Orvieto (wine)
 - Qd8: **servant**, surf, supervisor
 - Kd8: **perfume**, prefect, privateer, profiterole, prophet
@@ -630,7 +630,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Ng2: **canoe**, candle, candy, conker, cannon, gibbon, kidney, wagon
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Rg2: **iguanodon**, economist
-- Qg2: **skin**, signalman
+- Qg2: **scone**, signalman, skin
 - Kg2: **Pocahontas** (name), bacon, begonia, bikini, buccaneer
 
 
@@ -652,7 +652,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 ### g4 
 
 
-- Pg4: **crab**, car, crane, cream, cross, crow, crown, corn, grass
+- Pg4: **crab**, car, crane, cream, cross, crow, crown, corn, grass, Grinch
 - Ng4: **ogre**, carrot, cricket, crystal
 - Bg4: **crocodile**, acrobat, caravan, cormorant, grasshopper, gorilla
 - Rg4: **accordion**, carburetor, chrysanthemum, coriander, Krakatoa
@@ -753,7 +753,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Bh4: **hovercraft**, ivory, officer, overalls, overcoat
 - Rh4: **firefighter**, frangipani, fortepiano, vermicelli
 - Qh4: **sapphire**, sphere, saffron
-- Kh4: **beaver**
+- Kh4: **beaver**, Bovril (brand)
 
 
 
