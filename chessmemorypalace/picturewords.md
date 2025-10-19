@@ -645,7 +645,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
 - Qg3: **sycamore**, Sigmund (name)
-- Kg3: **Pac-Man**, Big Mac
+- Kg3: **Pac-Man** (brand), Big Mac (brand)
 
 
 
