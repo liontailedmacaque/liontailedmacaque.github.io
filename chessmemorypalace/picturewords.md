@@ -510,8 +510,8 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Ne8: **lava**, lifeboat, lifeguard, liver, olive
 - Be8: **elephant**, lavender, wolverine, xylophone
 - Re8: **leviathan**, Lavinia (name)
-- Qe8: **sulphur**, Slovakia, Slovenia
-- Ke8: **Bolivia**
+- Qe8: **sulphur**, saliva, silver
+- Ke8: **bailiff**, Bolivia
 
 
 
