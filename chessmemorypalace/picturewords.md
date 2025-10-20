@@ -389,7 +389,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 - Ka1: **potato**
 - Ka2: **button**, baton
-- Ka3: **puppet**, poppadom
+- Ka3: **poppadom**
 - Ka4: **butterfly**, butter, patrician, potter
 - Ka5: **bottle**, bodybuilder, paddle steamer, petal
 - Ka6: **pottage**, potash
