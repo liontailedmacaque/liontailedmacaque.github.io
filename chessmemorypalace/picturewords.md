@@ -98,7 +98,7 @@ If you spot any mistakes, [please tell me](/contact).
 ### a8 
 
 
-- Pa8: **dove**, Dave (name)
+- Pa8: **dove**, daft, tuft
 - Na8: **diver**, toffee, tofu
 - Ba8: **daffodil**, DVD, Tuvalu
 - Ra8: **advertisement**, audiophile, developer
@@ -139,7 +139,7 @@ For *annuity* I imagine a pile of gold.
 - Bb3: **winemaker**, animal, enamel, enemy, numeral, pneumatic
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
-- Kb3: **Panama** (hat or country)
+- Kb3: **binman**, bone marrow, Panama (hat or country), penman
 
 
 The g in *gnome* is silent.
@@ -189,7 +189,7 @@ The g in *gnome* is silent.
 - Bb7: **unicorn**, Nicholas (name)
 - Rb7: **anaconda**, (Hikaru) Nakamura
 - Qb7: **sunglassess**, snake, snack, snooker
-- Kb7: **Pinocchio**, beanbag, pancreas, binoculars
+- Kb7: **Pinocchio**, beanbag, binoculars, pancreas, penguin
 
 
 
@@ -277,7 +277,7 @@ The l in *salmon* is silent.
 - Bc6: **machete**, magician
 - Rc6: **majordomo**, machinery, majicola, missionary
 - Qc6: **smashed avocado**, samaj, smidgeon 
-- Kc6: **Beamish** (village, surname, brand of beer)
+- Kc6: **bombshell**, Beamish (brand), pomchi
 
 
 
@@ -301,7 +301,7 @@ The l in *salmon* is silent.
 - Bc8: **amphora**, maverick
 - Rc8: **amphetamine**, amphibian
 - Qc8: **samovar**, symphony
-- Kc8: **B-movie**
+- Kc8: **B-movie**, bumf, pomfret
 
 
 
@@ -467,7 +467,7 @@ For *lore* I imagine a medieval manuscript or something that would appear in a f
 - Ne5: **lily**, label, lilac, loophole
 - Be5: **lollipop**, Lilliput
 - Re5: **hallelujah**, Lilliputian
-- Qe5: **celluloid**
+- Qe5: **celluloid**, salol, soliloquy
 - Ke5: **balalaika**
 
 
@@ -479,7 +479,7 @@ For *hallelujah* I imagine a colourful banner.
 ### e6 
 
 
-- Pe6: **leech**
+- Pe6: **leech**, latch, lash, leash, lodge
 - Ne6: **lychee**, ledger, legend, lodger, lotion
 - Be6: **illusion**, Elijah (name), Elisha (name), eyelashes, logician
 - Re6: **Algeria**, zoology
@@ -546,7 +546,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Nf3: **gymnast**, champagne, chimney, shampoo
 - Bf3: **chimpanzee**, chamber pot, champion
 - Rf3: **gymnasium**, chimichurri
-- Qf3: **sashimi**
+- Qf3: **sashimi**, sachem
 - Kf3: **pyjamas**
 
 
@@ -558,7 +558,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Nf4: **giraffe**, cherry, shepherd, sheriff, shawarma
 - Bf4: **chariot**, chardonnay
 - Rf4: **jabberwocky**, Jeremiah (name), Jerusalem
-- Qf4: **seashore**
+- Qf4: **Sojourner (Mars rover)**, seashore
 - Kf4: **badger**, budgerigar
 
 
@@ -571,7 +571,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Bf5: **jellyfish**, gelatin, jalfrezi, shipbuilder
 - Rf5: **shopaholic**, geologist, Juliana (name)
 - Qf5: **seashell**, satchel
-- Kf5: **busheler**
+- Kf5: **busheler**, bachelor, Beaujolais (wine)
 
 
 
@@ -583,7 +583,7 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name), jujitsu
 - Rf6: **shabu-shabu**, Chachapoya, shachihoko
 - Qf6: **sushi chef**
-- Kf6: **pushchair**
+- Kf6: **pushchair**, bushchat, bushjacket
 
 
 
@@ -606,8 +606,8 @@ For *illusion* I imagine a cartoon palm tree (like a stereotypical cartoon mirag
 - Nf8: **shovel**, chaffinch, Java
 - Bf8: **shoveler**, Chevrolet, shaving foam
 - Rf8: **shaving powder**, chauvinism, shaving mirror
-- Qf8: **sea chief**
-- Kf8: **push-off**
+- Qf8: **sous-chef**, sea chief
+- Kf8: **bush fowl**, bushfire, push-fit
 
 
 
@@ -740,7 +740,7 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Nh3: **vampire**, vomit
 - Bh3: **feminist**, family, Fumika (name)
 - Rh3: **fumigator**, famotidine, feminism, vomitoxin
-- Qh3: **sophomore**
+- Qh3: **sophomore**, safe mode
 - Kh3: **bivium**, Beefmaster (cattle breed)
 
 
@@ -764,8 +764,8 @@ If you dislike visualising realistic violence with a *gun*, you can imagine a wa
 - Nh5: **waffle**, flower, fossil, vessel
 - Bh5: **flamingo**, falafel, flamethrower, viola, vulture
 - Rh5: **philosopher**, Floridian, flowerpecker
-- Qh5: **soufflé**
-- Kh5: **buffalo**
+- Qh5: **soufflé**, Savlon (brand)
+- Kh5: **buffalo**, pavilion
 
 
 
@@ -802,12 +802,10 @@ For *Victory*, I imagine Horatio Nelson's flagship, HMS Victory.
 - Nh8: **fiver**, viva
 - Bh8: **favela**, favourite, Vivaldi, Vivian (name)
 - Rh8: **vuvuzela**, Vesuvius
-- Qh8: **sofa view**
+- Qh8: **safe haven**
 - Kh8: **puff of...**, bevy of
 
 
 For *five* I imagine a seahorse in the shape of a 5.
-
-For *sofa view* I just imagine a sofa.
 
 For *puff of...* I imagine a little cloud (like a cartoon puff of wind).
