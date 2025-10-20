@@ -12,77 +12,77 @@ If you spot any mistakes, [please tell me](/contact).
 
 ## Pawn moves
 
-- Pa1: **toast**, toad, tooth
-- Pa2: **tent**, tank, tin, ton
-- Pa3: **thumb**, dam, dime, dome, tomb
-- Pa4: **tree**, deer, dress, drill, drone, torch, train
-- Pa5: **doll**, dill, tail, (Mikhail) Tal, teal, till
-- Pa6: **dish**, ditch, thatch
-- Pa7: **dog**, duck, tongue
-- Pa8: **dove**, daft, tuft
-&nbsp;
-- Pb1: **ant**, gnat, hand, net, newt, nut, wand
-- Pb2: **nun**, (John) Nunn
-- Pb3: **gnome**, nymph
-- Pb4: **nurse**, nerve
-- Pb5: **nail**, Niall (name), Nile
-- Pb6: **winch**, Ange (name), hinge, inch, niche, notch
-- Pb7: **neck**, Nick (name), zinc 
-- Pb8: **knife**, knave, nave
-&nbsp;
-- Pc1: **moth**, maid, mast, mat, moth, mouth, mud
-- Pc2: **moon**, man, mink, mint
-- Pc3: **mime**, meme, mumps
-- Pc4: **Mir** (Soviet/Russian space station), mare, moor
-- Pc5: **mole**, mail, milk, mule
-- Pc6: **match**, mash, midge
-- Pc7: **mask**, muck, mug
-- Pc8: (ear)**muff**, mauve
-&nbsp;
-- Pd1: **heart**, Earth, rat
-- Pd2: **horn**, wren
-- Pd3: **ram**, arm, rum, ruin, worm
-- Pd4: **roar**, rear, Ruhr
-- Pd5: **earl**, rail, roll
-- Pd6: **roach**, rash, rush
-- Pd7: **rake**, ark, orc, ring
-- Pd8: **raft**, reef
-&nbsp;
-- Pe1: **lute**, lathe, light
-- Pe2: **lawn**, lane, loan
-- Pe3: **lamb**, lamp, lime, loom
-- Pe4: **lore**, lair, lark
-- Pe5: **lol**, Lil (name)
-- Pe6: **leech**, latch, lash, leash, lodge
-- Pe7: **hulk**, leek, log, lung
-- Pe8: **wolf**, leaf
-&nbsp;
-- Pf1: **jet**, jade, sheath, shed, sheet
-- Pf2: **jeans**, chain, gin
-- Pf3: **jam**, gem, Jim (name)
-- Pf4: **shark**, chair, jar, shirt, shorts, shrew, shrimp
-- Pf5: **shell**, chalk, gel
-- Pf6: **judge**, Josh (name)
-- Pf7: **chick**, jug, shack
-- Pf8: **chef**, chaff, chief
-&nbsp;
-- Pg1: **goat**, cat, coat, cot, kite
-- Pg2: **gun**, can, cone, gown
-- Pg3: **gum**, comb, game
-- Pg4: **crab**, car, crane, cream, cross, crow, crown, corn, grass, Grinch
-- Pg5: **clam**, claw, clock, coal, glass, glove, glue, gold
-- Pg6: **coach**, cage, cash, quiche
-- Pg7: **cake**, cog, gong
-- Pg8: **gift**, cave, cuff
-&nbsp;
-- Ph1: **foot**, vat, vest, vet
-- Ph2: **fan**, fawn, van, vane
-- Ph3: **foam**, Vim (software)
-- Ph4: **frog**, fern, fir, fridge
-- Ph5: **flute**, flag, flan, flea, flint, foal, foil, fowl, veil, vole
-- Ph6: **fudge**, fish
-- Ph7: **fox**, fax, fig, fog
-- Ph8: **five**, fife, Viv (name)
+- a1: **toast**, toad, tooth
+- a2: **tent**, tank, tin, ton
+- a3: **thumb**, dam, dime, dome, tomb
+- a4: **tree**, deer, dress, drill, drone, torch, train
+- a5: **doll**, dill, tail, (Mikhail) Tal, teal, till
+- a6: **dish**, ditch, thatch
+- a7: **dog**, duck, tongue
+- a8: **dove**, daft, tuft
+<br>
+- b1: **ant**, gnat, hand, net, newt, nut, wand
+- b2: **nun**, (John) Nunn
+- b3: **gnome**, nymph
+- b4: **nurse**, nerve
+- b5: **nail**, Niall (name), Nile
+- b6: **winch**, Ange (name), hinge, inch, niche, notch
+- b7: **neck**, Nick (name), zinc 
+- b8: **knife**, knave, nave
+<br>
+- c1: **moth**, maid, mast, mat, moth, mouth, mud
+- c2: **moon**, man, mink, mint
+- c3: **mime**, meme, mumps
+- c4: **Mir** (Soviet/Russian space station), mare, moor
+- c5: **mole**, mail, milk, mule
+- c6: **match**, mash, midge
+- c7: **mask**, muck, mug
+- c8: (ear)**muff**, mauve
+<br>
+- d1: **heart**, Earth, rat
+- d2: **horn**, wren
+- d3: **ram**, arm, rum, ruin, worm
+- d4: **roar**, rear, Ruhr
+- d5: **earl**, rail, roll
+- d6: **roach**, rash, rush
+- d7: **rake**, ark, orc, ring
+- d8: **raft**, reef
+<br>
+- e1: **lute**, lathe, light
+- e2: **lawn**, lane, loan
+- e3: **lamb**, lamp, lime, loom
+- e4: **lore**, lair, lark
+- e5: **lol**, Lil (name)
+- e6: **leech**, latch, lash, leash, lodge
+- e7: **hulk**, leek, log, lung
+- e8: **wolf**, leaf
+<br>
+- f1: **jet**, jade, sheath, shed, sheet
+- f2: **jeans**, chain, gin
+- f3: **jam**, gem, Jim (name)
+- f4: **shark**, chair, jar, shirt, shorts, shrew, shrimp
+- f5: **shell**, chalk, gel
+- f6: **judge**, Josh (name)
+- f7: **chick**, jug, shack
+- f8: **chef**, chaff, chief
+<br>
+- g1: **goat**, cat, coat, cot, kite
+- g2: **gun**, can, cone, gown
+- g3: **gum**, comb, game
+- g4: **crab**, car, crane, cream, cross, crow, crown, corn, grass, Grinch
+- g5: **clam**, claw, clock, coal, glass, glove, glue, gold
+- g6: **coach**, cage, cash, quiche
+- g7: **cake**, cog, gong
+- g8: **gift**, cave, cuff
+<br>
+- h1: **foot**, vat, vest, vet
+- h2: **fan**, fawn, van, vane
+- h3: **foam**, Vim (software)
+- h4: **frog**, fern, fir, fridge
+- h5: **flute**, flag, flan, flea, flint, foal, foil, fowl, veil, vole
+- h6: **fudge**, fish
+- h7: **fox**, fax, fig, fog
+- h8: **five**, fife, Viv (name)
 
 
 ## Knight moves
@@ -95,7 +95,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Na6: **teacher**, dodgeball, 
 - Na7: **digger**, doctor, dugong, taco, taxi, tiger, tugboat
 - Na8: **diver**, toffee, tofu
-&nbsp;
+<br>
 - Nb1: **noodle**, needle, nettle
 - Nb2: **ninja**, nanny, onion
 - Nb3: **nomad**, Nemo (name), Nimrod (name), number
@@ -104,7 +104,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nb6: **angel**, engine, nacho
 - Nb7: **necklace**, hanbok, insect
 - Nb8: **anvil**, envoy, infant, navy, novice
-&nbsp;
+<br>
 - Nc1: **moped**, mittens, mother, moustache
 - Nc2: **monkey**, manger, miner, money, monster
 - Nc3: **mammoth**, memo, mummy
@@ -113,7 +113,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nc6: **machine**, mushroom
 - Nc7: **magpie**, hammock, magnet
 - Nc8: **muffin**, movie
-&nbsp;
+<br>
 - Nd1: **robot**, rabbit, rooster, warthog, wizard
 - Nd2: **heron**, orange, rainbow, ribbon, robin
 - Nd3: **Roman**, armour, army
@@ -122,7 +122,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nd6: **airship**, archer, Richard (name), warship
 - Nd7: **rocket**, iceberg, orca, organ, raccoon, racket
 - Nd8: **raven**, earphones, rifle
-&nbsp;
+<br>
 - Ne1: **lobster**, ladder, laptop, lettuce, lipstick, wallet
 - Ne2: **lantern**, lion, linnet
 - Ne3: **lemur**, helmet, lamppost, lamprey, lemon, llama
@@ -131,7 +131,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ne6: **lychee**, ledger, legend, lodger, lotion
 - Ne7: **locust**, algae, lagoon, liger, liqueur, locket, logo, luggage
 - Ne8: **lava**, lifeboat, lifeguard, liver, olive
-&nbsp;
+<br>
 - Nf1: **cheetah**, hatchet
 - Nf2: **genie**, chainsaw, ginger
 - Nf3: **gymnast**, champagne, chimney, shampoo
@@ -140,7 +140,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nf6: **shisha**, japchae, sheepshank (knot), shoji
 - Nf7: **hedgehog**, chicken, jackpot, jigsaw, jockey, juggler, sheepdog, shekel
 - Nf8: **shovel**, chaffinch, Java
-&nbsp;
+<br>
 - Ng1: **kitten**, guitar, kestrel, wicket
 - Ng2: **canoe**, candle, candy, conker, cannon, gibbon, kidney, wagon
 - Ng3: **camel**, comet, kimchi
@@ -149,7 +149,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ng6: **ketchup**, cabbage, cashew
 - Ng7: **cockroach**, cookie, cuckoo, cupcake, goggles, kayak
 - Ng8: **coffee**, gopher, guava, kefir
-&nbsp;
+<br>
 - Nh1: **feather**, father, football, voter
 - Nh2: **phoenix**, fountain, Venus, vinyl
 - Nh3: **vampire**, vomit
@@ -170,7 +170,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ba6: **dishwasher**, optician
 - Ba7: **woodpecker**, toboggan
 - Ba8: **daffodil**, DVD, Tuvalu
-&nbsp;
+<br>
 - Bb1: **anteater**, antelope, centipede, nightingale
 - Bb2: **nanobot**, Nineveh
 - Bb3: **winemaker**, animal, enamel, enemy, numeral, pneumatic
@@ -179,7 +179,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bb6: **anchovy**, Angela (name), engineer
 - Bb7: **unicorn**, Nicholas (name)
 - Bb8: **inventor**, envelope, infantry, invader, invention, investor
-&nbsp;
+<br>
 - Bc1: **mastodon**, amethyst, matador, meteor, motorist
 - Bc2: **manatee**, ammonite, mayonnaise, mineral, mineret, Minotaur, omnibus 
 - Bc3: **museum**, Mombasa, mummichog
@@ -188,7 +188,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bc6: **machete**, magician
 - Bc7: **hummingbird**, mackerel, magazine, mechanic, microphone, mosaic, mosquito
 - Bc8: **amphora**, maverick
-&nbsp;
+<br>
 - Bd1: **hairdryer**, radio, risotto
 - Bd2: **raisin**, roundabout, Uranus
 - Bd3: **ramekin**, armada, armoury, aroma, romantic, ruminant
@@ -197,7 +197,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bd6: **archerfish**, Rajasthan, Regina, regiment
 - Bd7: **harpsichord**, architect, orchestra, recorder
 - Bd8: **referee**, Raphael (name), revolver, rifleman
-&nbsp;
+<br>
 - Be1: **albatross**, Hollywood, ocelot, wildebeest
 - Be2: **alien**, lioness
 - Be3: **limousine**, halloumi, lemonade
@@ -206,7 +206,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Be6: **illusion**, Elijah (name), Elisha (name), eyelashes, logician
 - Be7: **alpaca**, alcohol, liquorice
 - Be8: **elephant**, lavender, wolverine, xylophone
-&nbsp;
+<br>
 - Bf1: **shuttlecock**, Jupiter, chapati
 - Bf2: **chinchilla**, chancellor, chandelier, janitor, Shinkansen
 - Bf3: **chimpanzee**, chamber pot, champion
@@ -215,7 +215,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name), jujitsu
 - Bf7: **jaguar**, cicada, shopkeeper
 - Bf8: **shoveler**, Chevrolet, shaving foam
-&nbsp;
+<br>
 - Bg1: **catapult**, cuttlefish, octopus
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
@@ -224,7 +224,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bg6: **kedgeree**, acacia
 - Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong
 - Bg8: **governor**, Coventry
-&nbsp;
+<br>
 - Bh1: **footballer**, avocet, physicist, veteran, video, vitamin
 - Bh2: **vinegar**, fentanyl
 - Bh3: **feminist**, family, Fumika (name)
@@ -245,7 +245,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ra6: **didgeridoo**
 - Ra7: **tapioca**, taxidermist
 - Ra8: **advertisement**, audiophile, developer
-&nbsp;
+<br>
 - Rb1: **annuity**, Antarctica, Ontario
 - Rb2: **nanoneedle**, nanoplastic
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
@@ -254,7 +254,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rb6: **Angelina** (name), Angelica (name), Nigeria
 - Rb7: **anaconda**, (Hikaru) Nakamura
 - Rb8: **invitation**, environment, infantryman
-&nbsp;
+<br>
 - Rc1: **meteorite**, Madagascar, mathematics, Mitsubishi (brand)
 - Rc2: **mahonia**, Minnesota, monopoly, Montenegro
 - Rc3: (Shakhriyar) **Mamedyarov**, Mamma mia
@@ -263,7 +263,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rc6: **majordomo**, machinery, majicola, missionary
 - Rc7: **magnolia**, macaroni, Makemake, magnesium, mascarpone
 - Rc8: **amphetamine**, amphibian
-&nbsp;
+<br>
 - Rd1: **rhododendron**, artillery, radiator, ratatouille
 - Rd2: **rhinoceros**, Esperanto, Robin Hood, uranium
 - Rd3: **armadillo**, Armenia, harmonica, Romania
@@ -272,7 +272,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rd6: **Argentina**, Azerbaijan
 - Rd7: **orangutan**, architecture, asparagus, hieroglyphics, oregano, origami
 - Rd8: **ravioli**, Orvieto (wine)
-&nbsp;
+<br>
 - Re1: **lederhosen**, altimeter, elderberry, El Dorado
 - Re2: **jalapeño**, Albania
 - Re3: **Lamborghini** (brand), limoncello, Olympian
@@ -281,7 +281,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Re6: **Algeria**, zoology
 - Re7: **helicopter**, alligator, electrician
 - Re8: **leviathan**, Lavinia (name)
-&nbsp;
+<br>
 - Rf1: **Chateaubriand** (steak), (Dmitri) Shostakovich
 - Rf2: **generator**, gingerbread man
 - Rf3: **gymnasium**, chimichurri
@@ -290,7 +290,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rf6: **shabu-shabu**, Chachapoya, shachihoko
 - Rf7: **washing machine**, Chicken Little, geographer, shakuhachi
 - Rf8: **shaving powder**, chauvinism, shaving mirror
-&nbsp;
+<br>
 - Rg1: **caterpillar**
 - Rg2: **iguanodon**, economist
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
@@ -299,7 +299,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rg6: **cappuccino**
 - Rg7: **kookaburra**, cucamelon, guacamole
 - Rg8: **cafetière**
-&nbsp;
+<br>
 - Rh1: **phytoplankton**, afterburner, photographer
 - Rh2: **ventriloquist**, Vanuatu, ventilator
 - Rh3: **fumigator**, famotidine, feminism, vomitoxin
@@ -320,7 +320,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qa6: **stopwatch**, stitch
 - Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku, 
 - Qa8: **stove**, sativa, staff, stevia
-&nbsp;
+<br>
 - Qb1: **Santa**, centaur, Cinderella, sand, sandwich, sanitiser, scientist, snowdrop, sundae
 - Qb2: **sin bin**, sunniness, synonym
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
@@ -329,7 +329,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qb6: **sponge**, snowshoe, spinach
 - Qb7: **sunglassess**, snake, snack, snooker
 - Qb8: **sunflower**, snowflake
-&nbsp;
+<br>
 - Qc1: **scimitar**, swimsuit
 - Qc2: **salmon**, Samantha (name), seaman, seminary, Simon (name), Simone (name)
 - Qc3: **simoom**, semimetal
@@ -338,7 +338,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qc6: **smashed avocado**, samaj, smidgeon 
 - Qc7: **smokestack**, smoke
 - Qc8: **samovar**, symphony
-&nbsp;
+<br>
 - Qd1: **sardine**, certificate, seratonin, Sorting Hat, sourdough
 - Qd2: **serpent**, siren, serendipidy, soprano
 - Qd3: **Cyberman**, ceramic, sermon
@@ -347,7 +347,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qd6: **surgeon**, sergeant
 - Qd7: **sparkler**, sorghum
 - Qd8: **servant**, surf, supervisor
-&nbsp;
+<br>
 - Qe1: **sloth**, salt, solicitor
 - Qe2: **saloon**, Celine (name), salon, Selena (name)
 - Qe3: **salamander**, salami, slime
@@ -356,16 +356,16 @@ If you spot any mistakes, [please tell me](/contact).
 - Qe6: **sledgehammer**, sledge, slush, slushie
 - Qe7: **slug**, sling
 - Qe8: **sulphur**, saliva, silver
-&nbsp;
+<br>
 - Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
 - Qf2: **Sichuan**, session
 - Qf3: **sashimi**, sachem
-- Qf4: **Sojourner (Mars rover)**, seashore
+- Qf4: **Sojourner** (Mars rover), seashore
 - Qf5: **seashell**, satchel
 - Qf6: **sushi chef**
 - Qf7: **sashiko**, saw-jig (*jigsaw* remixed), sushka
 - Qf8: **sous-chef**, sea chief
-&nbsp;
+<br>
 - Qg1: **squid**, scooter, skittle, spaghetti
 - Qg2: **scone**, signalman, skin
 - Qg3: **sycamore**, Sigmund (name)
@@ -374,7 +374,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qg6: **Scotch**, sketch, Saskatchewan
 - Qg7: **skyscraper**, Skegness
 - Qg8: **saxophone**, skiff, scaffolding
-&nbsp;
+<br>
 - Qh1: **softball**
 - Qh2: **sphinx**, sousaphone
 - Qh3: **sophomore**, safe mode
@@ -395,7 +395,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ka6: **pottage**, potash
 - Ka7: **petticoat**, pudding
 - Ka8: (Mikhail) **Botvinnik**, Batavia, beautification
-&nbsp;
+<br>
 - Kb1: **panda**, bandana, pants, pint
 - Kb2: **banana**, banyan, panini, peninsula
 - Kb3: **binman**, bone marrow, Panama (hat or country), penman
@@ -404,7 +404,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kb6: **banjo**, bench, poncho
 - Kb7: **Pinocchio**, beanbag, binoculars, pancreas, penguin
 - Kb8: **bonfire**, benefactor
-&nbsp;
+<br>
 - Kc1: **behemoth**, biometrics, bumetanide
 - Kc2: **Bohemian**, Pomona
 - Kc3: **biomembrane**, biomimicry
@@ -413,7 +413,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kc6: **bombshell**, Beamish (brand), pomchi
 - Kc7: **pumpkin**, pomegranate
 - Kc8: **B-movie**, bumf, pomfret
-&nbsp;
+<br>
 - Kd1: **pirate**, barrister, broth, paparazzi, parrot, president, protester
 - Kd2: **brain**, barnacle, parsnip, pepperoni, piranha, prawn
 - Kd3: **pyramid**, broom, pram, bromine, primrose, barometer
@@ -422,7 +422,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kd6: **brush**, birch, broach, bridge, porch, porridge, projector
 - Kd7: **porcupine**, Brachiosaurus, brick, broccoli, parakeet, paraglider
 - Kd8: **perfume**, prefect, privateer, profiterole, prophet
-&nbsp;
+<br>
 - Ke1: **bulldozer**, belt, pilot, politician, polyester
 - Ke2: **balloon**, blanket, Bologna, Bolonoodle, bullion, plane, polonium
 - Ke3: **blimp**, palomino (horse), plum, policeman, policewoman
@@ -431,7 +431,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ke6: **polish**, bleach, plush velvet
 - Ke7: **pelican**, balaclava, blackberry, bulgogi, pelican
 - Ke8: **bailiff**, Bolivia
-&nbsp;
+<br>
 - Kf1: **budget**
 - Kf2: **pigeon**, potion
 - Kf3: **pyjamas**
@@ -440,7 +440,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kf6: **pushchair**, bushchat, bushjacket
 - Kf7: **pushcart**, beachcart, beachcomber, bushcraft
 - Kf8: **bush fowl**, bushfire, push-fit
-&nbsp;
+<br>
 - Kg1: **baguette**, bacteria, basketball, bucket, pagoda, psychiatrist
 - Kg2: **Pocahontas** (name), bacon, begonia, bikini, buccaneer
 - Kg3: **Pac-Man** (brand), Big Mac (brand)
@@ -449,7 +449,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kg6: **package**, baggage
 - Kg7: **peacock**, pickaxe
 - Kg8: **Bigfoot**
-&nbsp;
+<br>
 - Kh1: **bovid**, bavette, Pavetta, pivot
 - Kh2: **puffin**, phone
 - Kh3: **bivium**, Beefmaster (cattle breed)
