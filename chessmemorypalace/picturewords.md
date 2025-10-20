@@ -27,7 +27,7 @@ If you spot any mistakes, [please tell me](/contact).
 - b4: **nurse**, nerve
 - b5: **nail**, Niall (name), Nile
 - b6: **winch**, Ange (name), hinge, inch, niche, notch
-- b7: **neck**, Nick (name), zinc 
+- b7: **neck**, Nick (name), zinc
 - b8: **knife**, knave, nave
 <p><br></p>
 - c1: **moth**, maid, mast, mat, moth, mouth, mud
@@ -92,7 +92,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Na3: **diamond**, atom, dummy
 - Na4: **dragon**, cider, ostrich, otter, oyster, tractor, T-rex, trumpet
 - Na5: **Dalek**, dolphin, toilet, tulip, outlaw
-- Na6: **teacher**, dodgeball, 
+- Na6: **teacher**, dodgeball
 - Na7: **digger**, doctor, dugong, taco, taxi, tiger, tugboat
 - Na8: **diver**, toffee, tofu
 <p><br></p>
@@ -166,7 +166,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ba2: **tangerine**, dynamite, tandoori, tanzanite, tinderbox
 - Ba3: **tambourine**, domino, tomato
 - Ba4: **astronaut**, asteroid, dragonfly, terrapin, tiara, tornado, trebuchet
-- Ba5: **telescope**, dalmatian, telephone, 
+- Ba5: **telescope**, dalmatian, telephone
 - Ba6: **dishwasher**, optician
 - Ba7: **woodpecker**, toboggan
 - Ba8: **daffodil**, DVD, Tuvalu
@@ -220,7 +220,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
 - Bg4: **crocodile**, acrobat, caravan, cormorant, grasshopper, gorilla
-- Bg5: **koala**, clarinet, goalkeeper, icicle, 
+- Bg5: **koala**, clarinet, goalkeeper, icicle
 - Bg6: **kedgeree**, acacia
 - Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong
 - Bg8: **governor**, Coventry
@@ -260,7 +260,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rc3: (Shakhriyar) **Mamedyarov**, Mamma mia
 - Rc4: **marionette**, embroidery, (Diego) Maradona, merry-go-round
 - Rc5: **melodica**, Melchizedek (name)
-- Rc6: **majordomo**, machinery, majicola, missionary
+- Rc6: **majordomo**, machinery, majolica, missionary
 - Rc7: **magnolia**, macaroni, Makemake, magnesium, mascarpone
 - Rc8: **amphetamine**, amphibian
 <p><br></p>
@@ -318,7 +318,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qa4: **starfish**, star, straw, string, starship, stroganoff
 - Qa5: **satellite**, stool, saddle, spatula
 - Qa6: **stopwatch**, stitch
-- Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku, 
+- Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku
 - Qa8: **stove**, sativa, staff, stevia
 <p><br></p>
 - Qb1: **Santa**, centaur, Cinderella, sand, sandwich, sanitiser, scientist, snowdrop, sundae
@@ -327,7 +327,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qb4: **snorkel**, snare, spanner, scenery
 - Qb5: **snail**, snowball, snowplough, snallygaster
 - Qb6: **sponge**, snowshoe, spinach
-- Qb7: **sunglassess**, snake, snack, snooker
+- Qb7: **sunglasses**, snake, snack, snooker
 - Qb8: **sunflower**, snowflake
 <p><br></p>
 - Qc1: **scimitar**, swimsuit
@@ -340,7 +340,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qc8: **samovar**, symphony
 <p><br></p>
 - Qd1: **sardine**, certificate, seratonin, Sorting Hat, sourdough
-- Qd2: **serpent**, siren, serendipidy, soprano
+- Qd2: **serpent**, siren, serendipity, soprano
 - Qd3: **Cyberman**, ceramic, sermon
 - Qd4: **sorcerer**, sorority, sorrower
 - Qd5: **cereal**, spiral
@@ -420,7 +420,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kd4: **barbarian**, briar
 - Kd5: **barrel**, barbell, barley, bracelet, paralegal, parsley, pearl, porcelain
 - Kd6: **brush**, birch, broach, bridge, porch, porridge, projector
-- Kd7: **porcupine**, Brachiosaurus, brick, broccoli, parakeet, paraglider
+- Kd7: **porcupine**, brachiosaurus, brick, broccoli, parakeet, paraglider
 - Kd8: **perfume**, prefect, privateer, profiterole, prophet
 <p><br></p>
 - Ke1: **bulldozer**, belt, pilot, politician, polyester
@@ -429,7 +429,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ke4: **pliosaurus**, blueberry, pillar
 - Ke5: **balalaika**
 - Ke6: **polish**, bleach, plush velvet
-- Ke7: **pelican**, balaclava, blackberry, bulgogi, pelican
+- Ke7: **pelican**, balaclava, blackberry, bulgogi
 - Ke8: **bailiff**, Bolivia
 <p><br></p>
 - Kf1: **budget**
