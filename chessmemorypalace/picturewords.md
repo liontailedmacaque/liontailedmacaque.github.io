@@ -399,7 +399,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Kb1: **panda**, bandana, pants, pint
 - Kb2: **banana**, banyan, panini, peninsula
 - Kb3: **binman**, bone marrow, Panama (hat or country), penman
-- Kb4: **pioneer**, banner
+- Kb4: **Pioneer** (space probe), banner
 - Kb5: **pineapple**, pencil, Penelope (name)
 - Kb6: **banjo**, bench, poncho
 - Kb7: **Pinocchio**, beanbag, binoculars, pancreas, penguin
