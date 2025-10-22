@@ -91,7 +91,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Na2: **tandem**, dentist, donkey, headset, tanker, tuna
 - Na3: **diamond**, atom, dummy
 - Na4: **dragon**, cider, ostrich, otter, oyster, tractor, T-rex, trumpet
-- Na5: **Dalek**, dolphin, toilet, tulip, outlaw
+- Na5: **tulip**, Dalek, dolphin, toilet, outlaw
 - Na6: **teacher**, dodgeball
 - Na7: **digger**, doctor, dugong, taco, taxi, tiger, tugboat
 - Na8: **diver**, toffee, tofu
@@ -129,7 +129,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ne4: **walrus**, lawyer, leper, lorry
 - Ne5: **lily**, label, lilac, loophole
 - Ne6: **lychee**, ledger, legend, lodger, lotion
-- Ne7: **locust**, algae, lagoon, liger, liqueur, locket, logo, luggage
+- Ne7: **locust**, algae, lagoon, liger, liqueur, locket, luggage
 - Ne8: **lava**, lifeboat, lifeguard, liver, olive
 <p><br></p>
 - Nf1: **cheetah**, hatchet
@@ -138,7 +138,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nf4: **giraffe**, cherry, shepherd, sheriff, shawarma
 - Nf5: **cello**, chapel, chilli, jelly, shallot, shelduck
 - Nf6: **shisha**, japchae, sheepshank (knot), shoji
-- Nf7: **hedgehog**, chicken, jackpot, jigsaw, jockey, juggler, sheepdog, shekel
+- Nf7: **hedgehog**, chicken, jigsaw, jockey, juggler, sheepdog, shekel
 - Nf8: **shovel**, chaffinch, Java
 <p><br></p>
 - Ng1: **kitten**, guitar, kestrel, wicket
@@ -153,7 +153,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Nh1: **feather**, father, football, voter
 - Nh2: **phoenix**, fountain, Venus, vinyl
 - Nh3: **vampire**, vomit
-- Nh4: **fairy**, farmer, ferry, viper
+- Nh4: **fairy**, farmer, ferry, fireman, viper
 - Nh5: **waffle**, flower, fossil, vessel
 - Nh6: (Mount) **Fuji**, (Bobby) Fischer, fishcake
 - Nh7: **Viking**, foghorn, vaccine, vicar
@@ -181,7 +181,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bb8: **inventor**, envelope, infantry, invader, invention, investor
 <p><br></p>
 - Bc1: **mastodon**, amethyst, matador, meteor, motorist
-- Bc2: **manatee**, ammonite, mayonnaise, mineral, mineret, Minotaur, omnibus 
+- Bc2: **manatee**, ammonite, mayonnaise, Minotaur, omnibus 
 - Bc3: **museum**, Mombasa, mummichog
 - Bc4: **umbrella**, emerald, maraca, marmalade, marshmallow, mercury
 - Bc5: **millipede**, mulberry
@@ -190,7 +190,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Bc8: **amphora**, maverick
 <p><br></p>
 - Bd1: **hairdryer**, radio, risotto
-- Bd2: **raisin**, roundabout, Uranus
+- Bd2: **Robin Hood**, roundabout, Uranus
 - Bd3: **ramekin**, armada, armoury, aroma, romantic, ruminant
 - Bd4: **warrior**, horseradish
 - Bd5: **relative**, religion
@@ -203,7 +203,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Be3: **limousine**, halloumi, lemonade
 - Be4: **wheelbarrow**, celery, Labrador, wallpaper
 - Be5: **lollipop**, Lilliput
-- Be6: **illusion**, Elijah (name), Elisha (name), eyelashes, logician
+- Be6: **illusion**, Elijah (name), eyelashes, logician
 - Be7: **alpaca**, alcohol, liquorice
 - Be8: **elephant**, lavender, wolverine, xylophone
 <p><br></p>
@@ -214,12 +214,12 @@ If you spot any mistakes, [please tell me](/contact).
 - Bf5: **jellyfish**, gelatin, jalfrezi, shipbuilder
 - Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name), jujitsu
 - Bf7: **jaguar**, cicada, shopkeeper
-- Bf8: **shoveler**, Chevrolet, shaving foam
+- Bf8: **shoveler**, Chevrolet (brand), shaving foam
 <p><br></p>
 - Bg1: **catapult**, cuttlefish, octopus
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
-- Bg4: **crocodile**, acrobat, caravan, cormorant, grasshopper, gorilla
+- Bg4: **crocodile**, acrobat, caravan, cormorant, gorilla
 - Bg5: **koala**, clarinet, goalkeeper, icicle
 - Bg6: **kedgeree**, acacia
 - Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong
@@ -227,8 +227,8 @@ If you spot any mistakes, [please tell me](/contact).
 <p><br></p>
 - Bh1: **footballer**, avocet, physicist, veteran, video, vitamin
 - Bh2: **vinegar**, fentanyl
-- Bh3: **feminist**, family, Fumika (name)
-- Bh4: **hovercraft**, ivory, officer, overalls, overcoat
+- Bh3: **feminist**, family
+- Bh4: **hovercraft**, firefighter, ivory, officer, overcoat
 - Bh5: **flamingo**, falafel, flamethrower, viola, vulture
 - Bh6: **fisherman**, fishmonger, vegetable
 - Bh7: **Victory**, factory, vicarage
@@ -238,10 +238,10 @@ If you spot any mistakes, [please tell me](/contact).
 ## Rook moves
 
 - Ra1: **Tutankhamen**, detonator
-- Ra2: **dandelion**, Estonia, Eswatini, Tanzania
+- Ra2: **dandelion**
 - Ra3: **tamarillo**, automaton, automobile
-- Ra4: **tarantula**, motorcycle, oystercatcher, thermometer, triceratops, watermelon
-- Ra5: **Diplodocus**, television
+- Ra4: **tarantula**, motorcycle, oystercatcher, triceratops, watermelon
+- Ra5: **diplodocus**, television
 - Ra6: **didgeridoo**
 - Ra7: **tapioca**, taxidermist
 - Ra8: **advertisement**, audiophile, developer
@@ -265,12 +265,12 @@ If you spot any mistakes, [please tell me](/contact).
 - Rc8: **amphetamine**, amphibian
 <p><br></p>
 - Rd1: **rhododendron**, artillery, radiator, ratatouille
-- Rd2: **rhinoceros**, Esperanto, Robin Hood, uranium
+- Rd2: **rhinoceros**, Esperanto, uranium
 - Rd3: **armadillo**, Armenia, harmonica, Romania
 - Rd4: **respirator**, arboretum
 - Rd5: **rollercoaster**, railway station
 - Rd6: **Argentina**, Azerbaijan
-- Rd7: **orangutan**, architecture, asparagus, hieroglyphics, oregano, origami
+- Rd7: **orangutan**, asparagus, hieroglyphics, oregano, origami
 - Rd8: **ravioli**, Orvieto (wine)
 <p><br></p>
 - Re1: **lederhosen**, altimeter, elderberry, El Dorado
@@ -303,7 +303,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rh1: **phytoplankton**, afterburner, photographer
 - Rh2: **ventriloquist**, Vanuatu, ventilator
 - Rh3: **fumigator**, famotidine, feminism, vomitoxin
-- Rh4: **firefighter**, frangipani, fortepiano, vermicelli
+- Rh4: **fortepiano**, frangipani, vermicelli
 - Rh5: **philosopher**, Floridian, flowerpecker
 - Rh6: **vigilante**, fisherwoman
 - Rh7: **avocado**, focaccia
@@ -312,7 +312,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 ## Queen moves
 
-- Qa1: **statue**, stadium, stethoscope, sitatunga, stud
+- Qa1: **statue**, stadium, stethoscope, sitatunga
 - Qa2: **stone**, stencil
 - Qa3: **stomach**, stump, steamroller
 - Qa4: **starfish**, star, straw, string, starship, stroganoff
@@ -321,7 +321,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku
 - Qa8: **stove**, sativa, staff, stevia
 <p><br></p>
-- Qb1: **Santa**, centaur, Cinderella, sand, sandwich, sanitiser, scientist, snowdrop, sundae
+- Qb1: **Santa**, centaur, Cinderella, sandwich, scientist, snowdrop, sundae
 - Qb2: **sin bin**, sunniness, synonym
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
 - Qb4: **snorkel**, snare, spanner, scenery
@@ -331,7 +331,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qb8: **sunflower**, snowflake
 <p><br></p>
 - Qc1: **scimitar**, swimsuit
-- Qc2: **salmon**, Samantha (name), seaman, seminary, Simon (name), Simone (name)
+- Qc2: **salmon**, seaman, seminary
 - Qc3: **simoom**, semimetal
 - Qc4: **samurai**, sombrero, submarine
 - Qc5: **cymbal**, semolina, Somalia
