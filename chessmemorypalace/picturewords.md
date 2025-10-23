@@ -249,7 +249,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rb1: **annuity**, Antarctica, Ontario
 - Rb2: **nanoneedle**, nanoplastic
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
-- Rb4: (the greatly missed Daniel) **Naroditsky**, Herodotus, norovirus
+- Rb4: (the greatly missed Daniel) **Naroditsky**, Herodotus, naranjilla, neurotoxin, norovirus
 - Rb5: **Napoleon** (Bonaparte), Honolulu, nobility
 - Rb6: **Angelina** (name), Angelica (name), Nigeria
 - Rb7: **anaconda**, (Hikaru) Nakamura
