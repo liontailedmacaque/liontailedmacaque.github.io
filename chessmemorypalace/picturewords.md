@@ -251,7 +251,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
 - Rb4: (the greatly missed Daniel) **Naroditsky**, Herodotus, naranjilla, neurotoxin, norovirus
 - Rb5: **Napoleon** (Bonaparte), Honolulu, nobility
-- Rb6: **Angelina** (name), Angelica (name), Nigeria
+- Rb6: **enchilada**, Nigeria
 - Rb7: **anaconda**, (Hikaru) Nakamura
 - Rb8: **invitation**, environment, infantryman
 <p><br></p>
