@@ -394,7 +394,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ka5: **bottle**, bodybuilder, paddle steamer, petal
 - Ka6: **pottage**, potash
 - Ka7: **petticoat**, pudding
-- Ka8: (Mikhail) **Botvinnik**, Batavia, beautification
+- Ka8: **batfish**, Batavia, (Mikhail) Botvinnik
 <p><br></p>
 - Kb1: **panda**, bandana, pants, pint
 - Kb2: **banana**, banyan, panini, peninsula
