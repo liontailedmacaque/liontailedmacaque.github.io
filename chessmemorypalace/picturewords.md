@@ -249,7 +249,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Rb1: **annuity**, Antarctica, Ontario
 - Rb2: **nanoneedle**, nanoplastic
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
-- Rb4: (the greatly missed Daniel) **Naroditsky**, Herodotus, naranjilla, neurotoxin, norovirus
+- Rb4: (the greatly missed Daniel) **Naroditsky**, naranjilla, neurotoxin, norovirus
 - Rb5: **Napoleon** (Bonaparte), Honolulu, nobility
 - Rb6: **enchilada**, Nigeria
 - Rb7: **anaconda**, (Hikaru) Nakamura
@@ -322,7 +322,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Qa8: **stove**, sativa, staff, stevia
 <p><br></p>
 - Qb1: **Santa**, centaur, Cinderella, sandwich, scientist, snowdrop, sundae
-- Qb2: **sin bin**, sunniness, synonym
+- Qb2: **sin bin**
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
 - Qb4: **snorkel**, snare, spanner, scenery
 - Qb5: **snail**, snowball, snowplough, snallygaster
