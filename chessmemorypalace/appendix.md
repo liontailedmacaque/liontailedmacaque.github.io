@@ -162,7 +162,7 @@ There are seven reserved words you should not use as picture words. *Pawn*, *kin
 
 3.  **newspaper**, anarchist, anorak, scenery
 
-4.  (Daniel) **Naroditsky**, Herodotus, norovirus
+4.  (The greatly missed Daniel) **Naroditsky**, norovirus
 
 
 ### b5 
