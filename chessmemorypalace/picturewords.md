@@ -246,7 +246,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ra7: **tapioca**, taxidermist
 - Ra8: **advertisement**, audiophile, developer
 <p><br></p>
-- Rb1: **annuity**, Antarctica, Ontario
+- Rb1: **Antarctica**, annuity, antagonist, Ontario
 - Rb2: **nanoneedle**, nanoplastic
 - Rb3: **anemone**, Namibia, (Ian) Nepomniachtchi
 - Rb4: (the greatly missed Daniel) **Naroditsky**, naranjilla, neurotoxin, norovirus
