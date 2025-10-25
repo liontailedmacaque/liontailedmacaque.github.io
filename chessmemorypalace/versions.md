@@ -81,10 +81,11 @@ This page lists the versions and the changes that have been made. If you are one
 - Added paragraph clarifying the difference between *shark* and *brush* in Chapter 1
 
 ### Remaining errata in 1.11
-- Figures 6.1 and 6.2 should start with 'lily', not 'sailor'
-- Black's second move should be corrected from 'barrel' to 'pearl' in Steinitz v Elson, page 160
-- 'University' listed as having 5 syllables in Appendix
-- 'Herodotus' listed as b4 in Appendix
+- Figures 6.1 and 6.2 should start with *lily*, not *sailor*
+- Figure 6.6: *dish airship* on the left should be *brush stomach*
+- Black's second move should be corrected from *barrel* to *pearl* in Steinitz v Elson, page 160
+- *University* listed as having 5 syllables in Appendix
+- *Herodotus* listed as b4 in Appendix
 
 ### 2.0
 - Upcoming update
