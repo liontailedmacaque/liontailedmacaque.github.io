@@ -82,6 +82,7 @@ This page lists the versions and the changes that have been made. If you are one
 
 ### Remaining errata in 1.11
 - Figures 6.1 and 6.2 should start with *lily*, not *sailor*
+- *gift barrel* at the bottom of Figure 6.5 should be *gift airship*
 - Black's second move should be corrected from *barrel* to *pearl* in Steinitz v Elson, page 160
 - *University* listed as having 5 syllables in Appendix
 - *Herodotus* listed as b4 in Appendix
