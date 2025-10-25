@@ -428,7 +428,7 @@ If you spot any mistakes, [please tell me](/contact).
 - Ke3: **blimp**, palomino (horse), plum, policeman, policewoman
 - Ke4: **pliosaurus**, blueberry, pillar
 - Ke5: **balalaika**
-- Ke6: **polish**, bleach, plush velvet
+- Ke6: **bleach**, plush velvet, polish
 - Ke7: **pelican**, balaclava, blackberry, bulgogi
 - Ke8: **bailiff**, Bolivia
 <p><br></p>
