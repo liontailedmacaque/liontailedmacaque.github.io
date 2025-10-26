@@ -12,6 +12,8 @@ If you spot any mistakes, [please tell me](/contact).
 
 ## Pawn moves
 
+Rook moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
+
 - a1: **toast**, toad, tooth
 - a2: **tent**, tank, tin, ton
 - a3: **thumb**, dam, dime, dome, tomb
@@ -86,6 +88,8 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 ## Knight moves
+
+Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 
 - Na1: **dodo**, tadpole, teapot, teddy
 - Na2: **tandem**, dentist, donkey, headset, tanker, tuna
@@ -162,6 +166,8 @@ If you spot any mistakes, [please tell me](/contact).
 
 ## Bishop moves
 
+Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
+
 - Ba1: **Titanic**, detective, tapestry
 - Ba2: **tangerine**, dynamite, tandoori, tanzanite, tinderbox
 - Ba3: **tambourine**, domino, tomato
@@ -236,6 +242,8 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 ## Rook moves
+
+Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 
 - Ra1: **Tutankhamen**, detonator
 - Ra2: **dandelion**
@@ -312,6 +320,8 @@ If you spot any mistakes, [please tell me](/contact).
 
 ## Queen moves
 
+Queen moves start with an /s/ sound (and can have any number of syllables).
+
 - Qa1: **statue**, stadium, stethoscope, sitatunga
 - Qa2: **stone**, stencil
 - Qa3: **stomach**, stump, steamroller
@@ -386,6 +396,8 @@ If you spot any mistakes, [please tell me](/contact).
 
 
 ## King moves
+
+King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 
 - Ka1: **potato**
 - Ka2: **button**, baton
