@@ -12,7 +12,7 @@ If you spot any mistakes, [please tell me](/contact).
 
 ## Pawn moves
 
-Rook moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
+Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 
 - a1: **toast**, toad, tooth
 - a2: **tent**, tank, tin, ton
