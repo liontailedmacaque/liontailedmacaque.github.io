@@ -100,7 +100,7 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Na7: **digger**, doctor, dugong, taco, taxi, tiger, tugboat
 - Na8: **diver**, toffee, tofu
 <p><br></p>
-- Nb1: **noodle**, needle, nettle
+- Nb1: **windmill**, needle, nettle, noodle
 - Nb2: **ninja**, nanny, onion
 - Nb3: **nomad**, Nemo (name), Nimrod (name), number
 - Nb4: **narwhal**, Nordic
