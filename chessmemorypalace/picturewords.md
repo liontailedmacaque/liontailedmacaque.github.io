@@ -69,10 +69,10 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - f8: **chef**, chaff, chief
 <p><br></p>
 - g1: **goat**, cat, coat, cot, kite
-- g2: **gun**, can, cone, gown
+- g2: **gun**, can, cone, gown, quince
 - g3: **gum**, comb, game
 - g4: **crab**, car, crane, cream, cross, crow, crown, corn, grass, Grinch
-- g5: **clam**, claw, clock, coal, glass, glove, glue, gold
+- g5: **clam**, claw, clock, coal, glass, glove, glue, gold, quill, quilt
 - g6: **coach**, cage, cash, quiche
 - g7: **cake**, cog, gong
 - g8: **gift**, cave, cuff
@@ -151,8 +151,8 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Ng4: **ogre**, carrot, cricket, crystal
 - Ng5: **eagle**, cola, gazelle, igloo
 - Ng6: **ketchup**, cabbage, cashew
-- Ng7: **cockroach**, cookie, cuckoo, cupcake, goggles, kayak
-- Ng8: **coffee**, gopher, guava, kefir
+- Ng7: **cockroach**, cookie, cuckoo, cupcake, goggles, kayak, quokka
+- Ng8: **coffee**, gopher, guava, kefir, quiver
 <p><br></p>
 - Nh1: **feather**, father, football, voter
 - Nh2: **phoenix**, fountain, Venus, vinyl
@@ -222,13 +222,13 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bf7: **jaguar**, cicada, shopkeeper
 - Bf8: **shoveler**, Chevrolet (brand), shaving foam
 <p><br></p>
-- Bg1: **catapult**, cuttlefish, octopus
+- Bg1: **catapult**, aqueduct, cuttlefish, octopus
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
 - Bg4: **crocodile**, acrobat, caravan, cormorant, gorilla
 - Bg5: **koala**, clarinet, goalkeeper, icicle
 - Bg6: **kedgeree**, acacia
-- Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong
+- Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong, quicksilver
 - Bg8: **governor**, Coventry
 <p><br></p>
 - Bh1: **footballer**, avocet, physicist, veteran, video, vitamin
@@ -302,7 +302,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rg1: **caterpillar**
 - Rg2: **iguanodon**, economist
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
-- Rg4: **accordion**, carburetor, chrysanthemum, coriander, Krakatoa
+- Rg4: **accordion**, aquarium, carburetor, chrysanthemum, coriander, Krakatoa
 - Rg5: **gladiator**, calculator, kaleidoscope, ukulele
 - Rg6: **cappuccino**
 - Rg7: **kookaburra**, cucamelon, guacamole
