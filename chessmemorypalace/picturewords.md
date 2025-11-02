@@ -61,17 +61,17 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 <p><br></p>
 - f1: **jet**, jade, sheath, shed, sheet
 - f2: **jeans**, chain, gin
-- f3: **jam**, gem, Jim (name)
+- f3: **jam**, gem
 - f4: **shark**, chair, jar, shirt, shorts, shrew, shrimp
 - f5: **shell**, chalk, gel
-- f6: **judge**, Josh (name)
+- f6: **judge**
 - f7: **chick**, jug, shack
 - f8: **chef**, chaff, chief
 <p><br></p>
 - g1: **goat**, cat, coat, cot, kite
 - g2: **gun**, can, cone, gown, quince
 - g3: **gum**, comb, game
-- g4: **crab**, car, crane, cream, cross, crow, crown, corn, grass, Grinch
+- g4: **crab**, car, crane, cream, cross, crow, crown, corn, grape, grass, Grinch
 - g5: **clam**, claw, clock, coal, glass, glove, glue, gold, quill, quilt
 - g6: **coach**, cage, cash, quiche
 - g7: **cake**, cog, gong
@@ -182,8 +182,8 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bb3: **winemaker**, animal, enamel, enemy, numeral, pneumatic
 - Bb4: **newspaper**, anarchist, anorak
 - Bb5: **Hannibal**, Napoli, onlooker
-- Bb6: **anchovy**, Angela (name), engineer
-- Bb7: **unicorn**, Nicholas (name)
+- Bb6: **anchovy**, engineer
+- Bb7: **unicorn**, nectarine
 - Bb8: **inventor**, envelope, infantry, invader, invention, investor
 <p><br></p>
 - Bc1: **mastodon**, amethyst, matador, meteor, motorist
@@ -198,10 +198,10 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bd1: **hairdryer**, radio, risotto
 - Bd2: **Robin Hood**, roundabout, Uranus
 - Bd3: **ramekin**, armada, armoury, aroma, romantic, ruminant
-- Bd4: **warrior**, horseradish
+- Bd4: **warrior**, horseradish, raspberry
 - Bd5: **relative**, religion
 - Bd6: **archerfish**, Rajasthan, Regina, regiment
-- Bd7: **harpsichord**, architect, orchestra, recorder
+- Bd7: **harpsichord**, apricot, architect, orchestra, recorder
 - Bd8: **referee**, Raphael (name), revolver, rifleman
 <p><br></p>
 - Be1: **albatross**, Hollywood, ocelot, wildebeest
@@ -325,7 +325,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qa1: **statue**, stadium, stethoscope, sitatunga
 - Qa2: **stone**, stencil
 - Qa3: **stomach**, stump, steamroller
-- Qa4: **starfish**, star, straw, string, starship, stroganoff
+- Qa4: **starfish**, star, starship, strawberry
 - Qa5: **satellite**, stool, saddle, spatula
 - Qa6: **stopwatch**, stitch
 - Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku
@@ -445,7 +445,7 @@ King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 - Ke8: **bailiff**, Bolivia
 <p><br></p>
 - Kf1: **budget**
-- Kf2: **pigeon**, potion
+- Kf2: **pigeon**, passionfruit, potion
 - Kf3: **pyjamas**
 - Kf4: **badger**, budgerigar
 - Kf5: **busheler**, bachelor, Beaujolais (wine)
