@@ -345,7 +345,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qc3: **simoom**, semimetal
 - Qc4: **samurai**, sombrero, submarine
 - Qc5: **cymbal**, semolina, Somalia
-- Qc6: **smashed avocado**, samaj, smidgeon 
+- Qc6: **smash burger**, samaj, smashed avocado, smidgeon 
 - Qc7: **smokestack**, smoke
 - Qc8: **samovar**, symphony
 <p><br></p>
