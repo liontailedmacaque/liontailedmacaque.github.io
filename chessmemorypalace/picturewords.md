@@ -293,7 +293,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rf1: **Chateaubriand** (steak), (Dmitri) Shostakovich
 - Rf2: **generator**, gingerbread man
 - Rf3: **gymnasium**, chimichurri
-- Rf4: **jabberwocky**, Jeremiah (name), Jerusalem
+- Rf4: **jabberwocky**, geranium, Jerusalem
 - Rf5: **shopaholic**, geologist, Juliana (name)
 - Rf6: **shabu-shabu**, Chachapoya, shachihoko
 - Rf7: **washing machine**, Chicken Little, geographer, shakuhachi
@@ -303,9 +303,9 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rg2: **iguanodon**, economist
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
 - Rg4: **accordion**, aquarium, carburetor, chrysanthemum, coriander, Krakatoa
-- Rg5: **gladiator**, calculator, kaleidoscope, ukulele
+- Rg5: **gladiator**, calculator, Cleopatra, kaleidoscope, ukulele
 - Rg6: **cappuccino**
-- Rg7: **kookaburra**, cucamelon, guacamole
+- Rg7: **kookaburra**, cucamelon, Excalibur, excavator, guacamole
 - Rg8: **cafetière**
 <p><br></p>
 - Rh1: **phytoplankton**, afterburner, photographer
