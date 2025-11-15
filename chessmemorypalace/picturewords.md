@@ -26,7 +26,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - b1: **ant**, gnat, hand, net, newt, nut, wand
 - b2: **nun**, (John) Nunn
 - b3: **gnome**, nymph
-- b4: **nurse**, nerve
+- b4: **nurse**, nerd, nerve
 - b5: **nail**, Niall (name), Nile
 - b6: **winch**, Ange (name), hinge, inch, niche, notch
 - b7: **neck**, Nick (name), zinc
@@ -103,14 +103,14 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Nb1: **windmill**, needle, nettle, noodle
 - Nb2: **ninja**, nanny, onion
 - Nb3: **nomad**, Nemo (name), Nimrod (name), number
-- Nb4: **narwhal**, Nordic
+- Nb4: **narwhal**, Henry (name) Nordic
 - Nb5: **nylon**, in-law, Nala (name), Nelly (name), Nelson (name)
 - Nb6: **angel**, engine, nacho
 - Nb7: **necklace**, hanbok, insect
 - Nb8: **anvil**, envoy, infant, navy, novice
 <p><br></p>
 - Nc1: **moped**, mittens, mother, moustache
-- Nc2: **monkey**, manger, miner, money, monster
+- Nc2: **monster**, manger, miner, money, monkey
 - Nc3: **mammoth**, memo, mummy
 - Nc4: **meerkat**, hammer, marble, mirror
 - Nc5: **mussel**, mallet, milkshake, melon, muscle, omelette
@@ -222,7 +222,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bf7: **jaguar**, cicada, shopkeeper
 - Bf8: **shoveler**, Chevrolet (brand), shaving foam
 <p><br></p>
-- Bg1: **catapult**, aqueduct, cuttlefish, octopus
+- Bg1: **catapult**, aqueduct, cuttlefish, echidna, octopus
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
 - Bg4: **crocodile**, acrobat, caravan, cormorant, gorilla
@@ -264,7 +264,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rb8: **invitation**, environment, infantryman
 <p><br></p>
 - Rc1: **meteorite**, Madagascar, mathematics, Mitsubishi (brand)
-- Rc2: **mahonia**, Minnesota, monopoly, Montenegro
+- Rc2: **mahonia**, Mona Lisa, monopoly
 - Rc3: (Shakhriyar) **Mamedyarov**, Mamma mia
 - Rc4: **marionette**, embroidery, (Diego) Maradona, merry-go-round
 - Rc5: **melodica**, Melchizedek (name)
@@ -282,7 +282,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rd8: **ravioli**, Orvieto (wine)
 <p><br></p>
 - Re1: **lederhosen**, altimeter, elderberry, El Dorado
-- Re2: **jalapeño**, Albania
+- Re2: **jalapeño**, Albania, Leonardo (name)
 - Re3: **Lamborghini** (brand), limoncello, Olympian
 - Re4: **allosaurus**, celebrity, Liberia
 - Re5: **hallelujah**, Lilliputian
@@ -299,7 +299,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rf7: **washing machine**, Chicken Little, geographer, shakuhachi
 - Rf8: **shaving powder**, chauvinism, shaving mirror
 <p><br></p>
-- Rg1: **caterpillar**
+- Rg1: **caterpillar**, academic
 - Rg2: **iguanodon**, economist
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
 - Rg4: **accordion**, aquarium, carburetor, chrysanthemum, coriander, Krakatoa
