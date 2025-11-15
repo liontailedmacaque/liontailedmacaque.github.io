@@ -41,7 +41,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - c7: **mask**, muck, mug
 - c8: (ear)**muff**, mauve
 <p><br></p>
-- d1: **heart**, Earth, rat
+- d1: **heart**, Earth, rat, sword
 - d2: **horn**, wren
 - d3: **ram**, arm, rum, ruin, worm
 - d4: **roar**, rear, Ruhr
@@ -68,7 +68,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - f7: **chick**, jug, shack
 - f8: **chef**, chaff, chief
 <p><br></p>
-- g1: **goat**, cat, coat, cot, kite
+- g1: **goat**, cat, coat, cot, ghost, kite
 - g2: **gun**, can, cone, gown, quince
 - g3: **gum**, comb, game
 - g4: **crab**, car, crane, cream, cross, crow, crown, corn, grape, grass, Grinch
@@ -304,9 +304,9 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
 - Rg4: **accordion**, aquarium, carburetor, chrysanthemum, coriander, Krakatoa
 - Rg5: **gladiator**, calculator, Cleopatra, kaleidoscope, ukulele
-- Rg6: **cappuccino**
+- Rg6: **cappuccino**, action figure
 - Rg7: **kookaburra**, cucamelon, Excalibur, excavator, guacamole
-- Rg8: **cafetière**
+- Rg8: **cafetière**, cave explorer
 <p><br></p>
 - Rh1: **phytoplankton**, afterburner, photographer
 - Rh2: **ventriloquist**, Vanuatu, ventilator
