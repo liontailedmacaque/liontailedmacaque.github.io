@@ -204,7 +204,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bd7: **harpsichord**, apricot, architect, orchestra, recorder
 - Bd8: **referee**, Raphael (name), revolver, rifleman
 <p><br></p>
-- Be1: **albatross**, Hollywood, ocelot, wildebeest
+- Be1: **albatross**, Hollywood, ladybird/ladybug, ocelot, wildebeest
 - Be2: **alien**, lioness
 - Be3: **limousine**, halloumi, lemonade
 - Be4: **wheelbarrow**, celery, Labrador, wallpaper
@@ -306,7 +306,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rg5: **gladiator**, calculator, Cleopatra, kaleidoscope, ukulele
 - Rg6: **cappuccino**, action figure
 - Rg7: **kookaburra**, cucamelon, Excalibur, excavator, guacamole
-- Rg8: **cafetière**, cave explorer
+- Rg8: **cafetière**, cave explorer, coffee maker
 <p><br></p>
 - Rh1: **phytoplankton**, afterburner, photographer
 - Rh2: **ventriloquist**, Vanuatu, ventilator
