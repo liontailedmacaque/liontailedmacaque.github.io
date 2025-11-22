@@ -119,7 +119,7 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Nc8: **muffin**, movie
 <p><br></p>
 - Nd1: **robot**, rabbit, rooster, warthog, wizard
-- Nd2: **heron**, orange, rainbow, ribbon, robin
+- Nd2: **heron**, orange, rainbow, reindeer, ribbon, robin
 - Nd3: **Roman**, armour, army
 - Nd4: **robber**, harbour, razor, wrapper
 - Nd5: **ruler**, railway, relic, royal
@@ -190,7 +190,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bc2: **manatee**, ammonite, mayonnaise, Minotaur, omnibus 
 - Bc3: **museum**, Mombasa, mummichog
 - Bc4: **umbrella**, emerald, maraca, marmalade, marshmallow, mercury
-- Bc5: **millipede**, mulberry
+- Bc5: **millipede**, impala, mulberry
 - Bc6: **machete**, magician
 - Bc7: **hummingbird**, mackerel, magazine, mechanic, microphone, mosaic, mosquito
 - Bc8: **amphora**, maverick
