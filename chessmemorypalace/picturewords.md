@@ -94,17 +94,17 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Na1: **dodo**, tadpole, teapot, teddy
 - Na2: **tandem**, dentist, donkey, headset, tanker, tuna
 - Na3: **diamond**, atom, dummy
-- Na4: **dragon**, cider, ostrich, otter, oyster, tractor, T-rex, trumpet
+- Na4: **dragon**, ostrich, otter, tractor, T-rex, trumpet
 - Na5: **tulip**, Dalek, dolphin, toilet, outlaw
 - Na6: **teacher**, dodgeball
-- Na7: **digger**, doctor, dugong, taco, taxi, tiger, tugboat
+- Na7: **digger**, doctor, dugong, taxi, tiger, tugboat
 - Na8: **diver**, toffee, tofu
 <p><br></p>
 - Nb1: **windmill**, needle, nettle, noodle
 - Nb2: **ninja**, nanny, onion
 - Nb3: **nomad**, Nemo (name), Nimrod (name), number
 - Nb4: **narwhal**, Henry (name) Nordic
-- Nb5: **nylon**, in-law, Nala (name), Nelly (name), Nelson (name)
+- Nb5: **nylon**, in-law, Nala (name), Nelson (name)
 - Nb6: **angel**, engine, nacho
 - Nb7: **necklace**, hanbok, insect
 - Nb8: **anvil**, envoy, infant, navy, novice
@@ -113,13 +113,13 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Nc2: **monster**, manger, miner, money, monkey
 - Nc3: **mammoth**, memo, mummy
 - Nc4: **meerkat**, hammer, marble, mirror
-- Nc5: **mussel**, mallet, milkshake, melon, muscle, omelette
+- Nc5: **mussel**, mallet, milkshake, melon, omelette
 - Nc6: **machine**, mushroom
 - Nc7: **magpie**, hammock, magnet
 - Nc8: **muffin**, movie
 <p><br></p>
 - Nd1: **robot**, rabbit, rooster, warthog, wizard
-- Nd2: **heron**, orange, rainbow, reindeer, ribbon, robin
+- Nd2: **heron**, orange, reindeer, ribbon, robin
 - Nd3: **Roman**, armour, army
 - Nd4: **robber**, harbour, razor, wrapper
 - Nd5: **ruler**, railway, relic, royal
@@ -127,31 +127,31 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 - Nd7: **rocket**, iceberg, orca, organ, raccoon, racket
 - Nd8: **raven**, earphones, rifle
 <p><br></p>
-- Ne1: **lobster**, ladder, laptop, lettuce, lipstick, wallet
+- Ne1: **lobster**, laptop, lettuce, lipstick
 - Ne2: **lantern**, lion, linnet
-- Ne3: **lemur**, helmet, lamppost, lamprey, lemon, llama
+- Ne3: **lemur**, lamppost, lamprey, lemon, llama
 - Ne4: **walrus**, lawyer, leper, lorry
 - Ne5: **lily**, label, lilac, loophole
 - Ne6: **lychee**, ledger, legend, lodger, lotion
-- Ne7: **locust**, algae, lagoon, liger, liqueur, locket, luggage
+- Ne7: **locust**, algae, liqueur, locket, luggage
 - Ne8: **lava**, lifeboat, lifeguard, liver, olive
 <p><br></p>
 - Nf1: **cheetah**, hatchet
 - Nf2: **genie**, chainsaw, ginger
 - Nf3: **gymnast**, champagne, chimney, shampoo
 - Nf4: **giraffe**, cherry, shepherd, sheriff, shawarma
-- Nf5: **cello**, chapel, chilli, jelly, shallot, shelduck
+- Nf5: **cello**, chilli, jelly, shallot, shelduck
 - Nf6: **shisha**, japchae, sheepshank (knot), shoji
-- Nf7: **hedgehog**, chicken, jigsaw, jockey, juggler, sheepdog, shekel
+- Nf7: **hedgehog**, chicken, jigsaw, juggler, sheepdog
 - Nf8: **shovel**, chaffinch, Java
 <p><br></p>
 - Ng1: **kitten**, guitar, kestrel, wicket
-- Ng2: **canoe**, candle, candy, conker, cannon, gibbon, kidney, wagon
+- Ng2: **canoe**, candle, candy, cannon, gibbon
 - Ng3: **camel**, comet, kimchi
 - Ng4: **ogre**, carrot, cricket, crystal
 - Ng5: **eagle**, cola, gazelle, igloo
 - Ng6: **ketchup**, cabbage, cashew
-- Ng7: **cockroach**, cookie, cuckoo, cupcake, goggles, kayak, quokka
+- Ng7: **cockroach**, cookie, cuckoo, cupcake, kayak
 - Ng8: **coffee**, gopher, guava, kefir, quiver
 <p><br></p>
 - Nh1: **feather**, father, football, voter
@@ -169,9 +169,9 @@ Knight moves have two syllables and do not start with a /p/, /b/ or /s/ sound.
 Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 
 - Ba1: **Titanic**, detective, tapestry
-- Ba2: **tangerine**, dynamite, tandoori, tanzanite, tinderbox
+- Ba2: **tangerine**, dynamite, tandoori, tinderbox
 - Ba3: **tambourine**, domino, tomato
-- Ba4: **astronaut**, asteroid, dragonfly, terrapin, tiara, tornado, trebuchet
+- Ba4: **astronaut**, dragonfly, tiara, tornado, trebuchet
 - Ba5: **telescope**, dalmatian, telephone
 - Ba6: **dishwasher**, optician
 - Ba7: **woodpecker**, toboggan
@@ -179,32 +179,32 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 <p><br></p>
 - Bb1: **anteater**, antelope, centipede, nightingale
 - Bb2: **nanobot**, Nineveh
-- Bb3: **winemaker**, animal, enamel, enemy, numeral, pneumatic
+- Bb3: **winemaker**, enamel, enemy, pneumatic
 - Bb4: **newspaper**, anarchist, anorak
 - Bb5: **Hannibal**, Napoli, onlooker
 - Bb6: **anchovy**, engineer
 - Bb7: **unicorn**, nectarine
-- Bb8: **inventor**, envelope, infantry, invader, invention, investor
+- Bb8: **inventor**, infantry, invader, investor
 <p><br></p>
-- Bc1: **mastodon**, amethyst, matador, meteor, motorist
-- Bc2: **manatee**, ammonite, mayonnaise, Minotaur, omnibus 
+- Bc1: **mastodon**, amethyst, matador, meteor
+- Bc2: **manatee**, ammonite, mayonnaise, Minotaur 
 - Bc3: **museum**, Mombasa, mummichog
-- Bc4: **umbrella**, emerald, maraca, marmalade, marshmallow, mercury
+- Bc4: **umbrella**, emerald, maraca, marmalade, marshmallow
 - Bc5: **millipede**, impala, mulberry
 - Bc6: **machete**, magician
-- Bc7: **hummingbird**, mackerel, magazine, mechanic, microphone, mosaic, mosquito
+- Bc7: **hummingbird**, mechanic, microphone, mosquito
 - Bc8: **amphora**, maverick
 <p><br></p>
 - Bd1: **hairdryer**, radio, risotto
 - Bd2: **Robin Hood**, roundabout, Uranus
-- Bd3: **ramekin**, armada, armoury, aroma, romantic, ruminant
+- Bd3: **ramekin**, armada, armoury, romantic, ruminant
 - Bd4: **warrior**, horseradish, raspberry
 - Bd5: **relative**, religion
 - Bd6: **archerfish**, Rajasthan, Regina, regiment
-- Bd7: **harpsichord**, apricot, architect, orchestra, recorder
+- Bd7: **harpsichord**, apricot, orchestra, recorder
 - Bd8: **referee**, Raphael (name), revolver, rifleman
 <p><br></p>
-- Be1: **albatross**, Hollywood, ladybird/ladybug, ocelot, wildebeest
+- Be1: **albatross**, ladybird/ladybug, ocelot, wildebeest
 - Be2: **alien**, lioness
 - Be3: **limousine**, halloumi, lemonade
 - Be4: **wheelbarrow**, celery, Labrador, wallpaper
@@ -214,28 +214,28 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Be8: **elephant**, lavender, wolverine, xylophone
 <p><br></p>
 - Bf1: **shuttlecock**, Jupiter, chapati
-- Bf2: **chinchilla**, chancellor, chandelier, janitor, Shinkansen
+- Bf2: **chinchilla**, chandelier, janitor, Shinkansen
 - Bf3: **chimpanzee**, chamber pot, champion
 - Bf4: **chariot**, chardonnay
 - Bf5: **jellyfish**, gelatin, jalfrezi, shipbuilder
-- Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name), jujitsu
+- Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name)
 - Bf7: **jaguar**, cicada, shopkeeper
 - Bf8: **shoveler**, Chevrolet (brand), shaving foam
 <p><br></p>
-- Bg1: **catapult**, aqueduct, cuttlefish, echidna, octopus
+- Bg1: **catapult**, cuttlefish, echidna, octopus
 - Bg2: **candyfloss**, canopy, canister, conifer
 - Bg3: **kimono**, Camelot, computer, Komodo (dragon)
 - Bg4: **crocodile**, acrobat, caravan, cormorant, gorilla
 - Bg5: **koala**, clarinet, goalkeeper, icicle
 - Bg6: **kedgeree**, acacia
-- Bg7: **coconut**, cockatrice, cockerel, cucumber, kingfisher, wobbegong, quicksilver
+- Bg7: **coconut**, cockatrice, cucumber, kingfisher
 - Bg8: **governor**, Coventry
 <p><br></p>
-- Bh1: **footballer**, avocet, physicist, veteran, video, vitamin
+- Bh1: **footballer**, avocet, physicist, veteran
 - Bh2: **vinegar**, fentanyl
 - Bh3: **feminist**, family
-- Bh4: **hovercraft**, firefighter, ivory, officer, overcoat
-- Bh5: **flamingo**, falafel, flamethrower, viola, vulture
+- Bh4: **hovercraft**, firefighter, ivory, overcoat
+- Bh5: **flamingo**, flamethrower, viola, vulture
 - Bh6: **fisherman**, fishmonger, vegetable
 - Bh7: **Victory**, factory, vicarage
 - Bh8: **favela**, favourite, Vivaldi, Vivian (name)
@@ -248,7 +248,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Ra1: **Tutankhamen**, detonator
 - Ra2: **dandelion**
 - Ra3: **tamarillo**, automaton, automobile
-- Ra4: **tarantula**, motorcycle, oystercatcher, triceratops, watermelon
+- Ra4: **tarantula**, motorcycle, oystercatcher, triceratops
 - Ra5: **diplodocus**, television
 - Ra6: **didgeridoo**
 - Ra7: **tapioca**, taxidermist
@@ -263,22 +263,22 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rb7: **anaconda**, (Hikaru) Nakamura
 - Rb8: **invitation**, environment, infantryman
 <p><br></p>
-- Rc1: **meteorite**, Madagascar, mathematics, Mitsubishi (brand)
+- Rc1: **meteorite**, mathematics, Mitsubishi (brand)
 - Rc2: **mahonia**, Mona Lisa, monopoly
 - Rc3: (Shakhriyar) **Mamedyarov**, Mamma mia
 - Rc4: **marionette**, embroidery, (Diego) Maradona, merry-go-round
 - Rc5: **melodica**, Melchizedek (name)
 - Rc6: **majordomo**, machinery, majolica, missionary
-- Rc7: **magnolia**, macaroni, Makemake, magnesium, mascarpone
+- Rc7: **magnolia**, macaroni, Makemake, mascarpone
 - Rc8: **amphetamine**, amphibian
 <p><br></p>
 - Rd1: **rhododendron**, artillery, radiator, ratatouille
-- Rd2: **rhinoceros**, Esperanto, uranium
-- Rd3: **armadillo**, Armenia, harmonica, Romania
+- Rd2: **rhinoceros**, uranium
+- Rd3: **armadillo**, harmonica
 - Rd4: **respirator**, arboretum
 - Rd5: **rollercoaster**, railway station
 - Rd6: **Argentina**, Azerbaijan
-- Rd7: **orangutan**, asparagus, hieroglyphics, oregano, origami
+- Rd7: **orangutan**, asparagus, oregano, origami
 - Rd8: **ravioli**, Orvieto (wine)
 <p><br></p>
 - Re1: **lederhosen**, altimeter, elderberry, El Dorado
@@ -288,7 +288,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Re5: **hallelujah**, Lilliputian
 - Re6: **Algeria**, zoology
 - Re7: **helicopter**, alligator, electrician
-- Re8: **leviathan**, Lavinia (name)
+- Re8: **leviathan**
 <p><br></p>
 - Rf1: **Chateaubriand** (steak), (Dmitri) Shostakovich
 - Rf2: **generator**, gingerbread man
@@ -301,11 +301,11 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 <p><br></p>
 - Rg1: **caterpillar**, academic
 - Rg2: **iguanodon**, economist
-- Rg3: **chameleon**, aquamarine, camellia, hippocampus, oximeter
-- Rg4: **accordion**, aquarium, carburetor, chrysanthemum, coriander, Krakatoa
-- Rg5: **gladiator**, calculator, Cleopatra, kaleidoscope, ukulele
+- Rg3: **chameleon**, camellia, hippocampus, oximeter
+- Rg4: **accordion**, aquarium, chrysanthemum, coriander
+- Rg5: **gladiator**, Cleopatra, kaleidoscope, ukulele
 - Rg6: **cappuccino**, action figure
-- Rg7: **kookaburra**, cucamelon, Excalibur, excavator, guacamole
+- Rg7: **kookaburra**, Excalibur, excavator, guacamole
 - Rg8: **cafetière**, cave explorer, coffee maker
 <p><br></p>
 - Rh1: **phytoplankton**, afterburner, photographer
@@ -328,10 +328,10 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qa4: **starfish**, star, starship, strawberry
 - Qa5: **satellite**, stool, saddle, spatula
 - Qa6: **stopwatch**, stitch
-- Qa7: **stegosaurus**, stake, stag, stick, sparrowhawk, Sudoku
+- Qa7: **stegosaurus**, stake, stag, sparrowhawk
 - Qa8: **stove**, sativa, staff, stevia
 <p><br></p>
-- Qb1: **Santa**, centaur, Cinderella, sandwich, scientist, snowdrop, sundae
+- Qb1: **Santa**, centaur, Cinderella, scientist, sundae
 - Qb2: **sin bin**
 - Qb3: **snowman**, cinnamon, sunbeam, snowmobile
 - Qb4: **snorkel**, snare, spanner, scenery
@@ -349,7 +349,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qc7: **smokestack**, smoke
 - Qc8: **samovar**, symphony
 <p><br></p>
-- Qd1: **sardine**, certificate, seratonin, Sorting Hat, sourdough
+- Qd1: **sardine**, certificate, Sorting Hat, sourdough
 - Qd2: **serpent**, siren, serendipity, soprano
 - Qd3: **Cyberman**, ceramic, sermon
 - Qd4: **sorcerer**, sorority, sorrower
@@ -364,7 +364,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qe4: **sailor**, slipper
 - Qe5: **celluloid**, salol, soliloquy
 - Qe6: **sledgehammer**, sledge, slush, slushie
-- Qe7: **slug**, sling
+- Qe7: **slug**, silicon, sling
 - Qe8: **sulphur**, saliva, silver
 <p><br></p>
 - Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
@@ -379,7 +379,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qg1: **squid**, scooter, skittle, spaghetti
 - Qg2: **scone**, signalman, skin
 - Qg3: **sycamore**, Sigmund (name)
-- Qg4: **squirrel**, scar, scarf, screw, skirt, speaker, scorpion, screwdriver, secretary
+- Qg4: **squirrel**, scarf, skirt, scorpion, screwdriver
 - Qg5: **skeleton**, skull, seagull
 - Qg6: **Scotch**, sketch, Saskatchewan
 - Qg7: **skyscraper**, Skegness
@@ -414,7 +414,7 @@ King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 - Kb4: **Pioneer** (space probe), banner
 - Kb5: **pineapple**, pencil, Penelope (name)
 - Kb6: **banjo**, bench, poncho
-- Kb7: **Pinocchio**, beanbag, binoculars, pancreas, penguin
+- Kb7: **Pinocchio**, beanbag, binoculars, pancreas
 - Kb8: **bonfire**, benefactor
 <p><br></p>
 - Kc1: **behemoth**, biometrics, bumetanide
@@ -426,17 +426,17 @@ King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 - Kc7: **pumpkin**, pomegranate
 - Kc8: **B-movie**, bumf, pomfret
 <p><br></p>
-- Kd1: **pirate**, barrister, broth, paparazzi, parrot, president, protester
-- Kd2: **brain**, barnacle, parsnip, pepperoni, piranha, prawn
-- Kd3: **pyramid**, broom, pram, bromine, primrose, barometer
+- Kd1: **pirate**, paparazzi, parrot, president
+- Kd2: **brain**, parsnip, piranha, prawn
+- Kd3: **pyramid**, broom, pram, primrose
 - Kd4: **barbarian**, briar
-- Kd5: **barrel**, barbell, barley, bracelet, paralegal, parsley, pearl, porcelain
-- Kd6: **brush**, birch, broach, bridge, porch, porridge, projector
-- Kd7: **porcupine**, brachiosaurus, brick, broccoli, parakeet, paraglider
-- Kd8: **perfume**, prefect, privateer, profiterole, prophet
+- Kd5: **barrel**, barbell, bracelet, porcelain
+- Kd6: **brush**, broach, porridge, projector
+- Kd7: **porcupine**, brachiosaurus, broccoli, parakeet
+- Kd8: **perfume**, prefect, profiterole, prophet
 <p><br></p>
-- Ke1: **bulldozer**, belt, pilot, politician, polyester
-- Ke2: **balloon**, blanket, Bologna, Bolonoodle, bullion, plane, polonium
+- Ke1: **bulldozer**, belt, pilot, politician
+- Ke2: **balloon**, blanket, plane
 - Ke3: **blimp**, palomino (horse), plum, policeman, policewoman
 - Ke4: **pliosaurus**, blueberry, pillar
 - Ke5: **balalaika**
@@ -453,8 +453,8 @@ King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 - Kf7: **pushcart**, beachcart, beachcomber, bushcraft
 - Kf8: **bush fowl**, bushfire, push-fit
 <p><br></p>
-- Kg1: **baguette**, bacteria, basketball, bucket, pagoda, psychiatrist
-- Kg2: **Pocahontas** (name), bacon, begonia, bikini, buccaneer
+- Kg1: **baguette**, bacteria, basketball, bucket
+- Kg2: **Pocahontas** (name), bacon, bikini
 - Kg3: **Pac-Man** (brand), Big Mac (brand)
 - Kg4: **boxer**, baker
 - Kg5: **bagel**, pickle
