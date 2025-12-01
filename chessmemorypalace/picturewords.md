@@ -62,7 +62,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - f1: **jet**, jade, sheath, shed, sheet
 - f2: **jeans**, chain, gin
 - f3: **jam**, gem
-- f4: **shark**, chair, jar, shirt, shorts, shrew, shrimp
+- f4: **shark**, chair, shirt, shorts, shrew, shrimp
 - f5: **shell**, chalk, gel
 - f6: **judge**
 - f7: **chick**, jug, shack
@@ -71,8 +71,8 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - g1: **goat**, cat, coat, cot, ghost, kite
 - g2: **gun**, can, cone, gown, quince
 - g3: **gum**, comb, game
-- g4: **crab**, car, crane, cream, cross, crow, crown, corn, grape, grass, Grinch
-- g5: **clam**, claw, clock, coal, glass, glove, glue, gold, quill, quilt
+- g4: **crab**, car, crane, crow, crown, grape, Grinch
+- g5: **clam**, claw, clock, clown, glove, glue, quill
 - g6: **coach**, cage, cash, quiche
 - g7: **cake**, cog, gong
 - g8: **gift**, cave, cuff
@@ -81,7 +81,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - h2: **fan**, fawn, van, vane
 - h3: **foam**, Vim (software)
 - h4: **frog**, fern, fir, fridge
-- h5: **flute**, flag, flan, flea, flint, foal, foil, fowl, veil, vole
+- h5: **flute**, flag, flan, flea, foal, fowl, vole
 - h6: **fudge**, fish
 - h7: **fox**, fax, fig, fog
 - h8: **five**, fife, Viv (name)
