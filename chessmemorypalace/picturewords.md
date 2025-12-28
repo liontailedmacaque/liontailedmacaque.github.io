@@ -285,7 +285,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Re2: **jalapeño**, Albania, Leonardo (name)
 - Re3: **Lamborghini** (brand), limoncello, Olympian
 - Re4: **allosaurus**, celebrity, Liberia
-- Re5: **hallelujah**, Lilliputian
+- Re5: **Eulalia** (name), hallelujah, Lilliputian
 - Re6: **Algeria**, zoology
 - Re7: **helicopter**, alligator, electrician
 - Re8: **leviathan**
