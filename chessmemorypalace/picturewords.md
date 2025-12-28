@@ -261,7 +261,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Rb5: **Napoleon** (Bonaparte), Honolulu, nobility
 - Rb6: **enchilada**, Nigeria
 - Rb7: **anaconda**, (Hikaru) Nakamura
-- Rb8: **invitation**, environment, infantryman
+- Rb8: **infantryman**, environment, invitation
 <p><br></p>
 - Rc1: **meteorite**, mathematics, Mitsubishi (brand)
 - Rc2: **mahonia**, Mona Lisa, monopoly
