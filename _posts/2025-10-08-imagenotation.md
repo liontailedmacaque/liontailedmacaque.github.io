@@ -77,16 +77,16 @@ Barring promotions, which we won't worry about, it cannot happen with bishops (b
 
 Algebraic notation deals with disambiguations by identifying the starting file of the piece to move, e.g. Rag1, or the starting rank if both pieces are on the same file, e.g. R1h7.
 
-In Image Notation, we identify a 'piece 1' and a 'piece 2', starting from the back rank and breaking ties starting from the queenside. **For piece 1, the picture word does not change. For piece 2, we transform the image by imagining the picture word on fire.**
+In Image Notation, we use a similar principle. Identify a 'piece 1' and a 'piece 2', starting from the queenside and breaking ties from the back rank. **For piece 1, the picture word does not change. For piece 2, we transform the image by imagining the picture word on fire.** (Note, for those familiar with Picture Notation, in Image Notation we do file then rank (not rank then file), to maintain similarity with algebraic notation -- this is flipped from Picture Notation.)
 
-For example, if you have knights on g1 and c3 (so that e2 is the mutual target square), then the knight on g1 is 'piece 1' (because it's further back) and the knight on c3 is 'piece 2'. In this case, **lantern** is Nge2, as normal. (2 syllable picture word is a knight move, *l* is the e-file, *n* is the 2nd rank.) **Lantern on fire** is Nce2.
+For example, if you have knights on g1 and c3 (so that e2 is the mutual target square), then the knight on c3 is 'piece 1' (because it's closer to the queenside) and the knight on g1 is 'piece 2'. In this case, **lantern** is Nce2, as normal. (2 syllable picture word is a knight move, *l* is the e-file, *n* is the 2nd rank.) **Lantern on fire** is Nge2.
 
-If you have rooks on a1 and a8, with nothing in between, then the rook on a1 is piece 1 and the rook on h1 is piece 2. (Because they are both on the same rank, so we break ties starting from the queenside.) **Caterpillar** is Rag1 (4 syllable word is a rook move, *c* gives the g-file, *t* gives the 1st rank). **Caterpillar on fire** is Rhg1.
+If you have rooks on a1 and a3, with nothing in between, then the rook on a1 is piece 1 and the rook on a3 is piece 2. (Because they are both on the same file, so we break ties starting from the back rank.) **Dandelion** is R1a2 (4 syllable word is a rook move, *d* gives the a-file, *n* gives the 2nd rank). **Dandelion on fire** is R3a2.
 
 ### Disambiguations -- advanced solution
 If you don't like transforming the images and instead want to keep 1 move = 1 picture word, it is possible. I plan to describe more fully in future. In short, notice there is a maximum of 14 moves you would ever need to disambiguate in a given position (2 knight moves, 6 rook moves, 6 pawn captures).
 
-Label these using unique picture words 1-14 that don't already have a meaning, e.g. apple, bee, cow, dew, egg, eff, guy, hat, imp, jay, kip, owl, amp, nose. So e.g. *apple* always means 'move the second knight to the first mutual target square' (Ncd2 in the example above); *cow* always means 'move the second rook to the first mutual target square' (Rhb1 in the example above).
+Label these using unique picture words 1-14 that don't already have a meaning, e.g. apple, bee, cow, dew, egg, eff, guy, hat, imp, jay, kip, owl, amp, nose. So e.g. *apple* always means 'move the second knight to the first mutual target square' (Ncd2 in the example above); *cow* always means 'move the second rook to the first mutual target square' (R3a2 in the example above).
 
 ### Okay I understand Image Notation! Now what?
 Convert your opening repertoire into picture words ([using this word list](/chessmemorypalace/picturewords)), combine them into composite images of picture word 1 + picture word 2 + location, then memorise them along a branching memory palace. This is all taught in [The Chess Memory Palace](https://amzn.to/4k7nXBO). Enjoy recalling your openings perfectly at the board!
