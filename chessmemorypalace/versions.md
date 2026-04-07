@@ -82,6 +82,7 @@ This page lists the versions and the changes that have been made. If you are one
 
 ### Remaining errata in 1.11
 - Figures 6.1 and 6.2 should start with *lily*, not *sailor*
+- The first diagonal reflections 16x16 diagram should show Black to move (from the top), not White (from the bottom)
 - *gift barrel* at the bottom of Figure 6.5 should be *gift airship*
 - Page 142: "which would be followed by *dove waffle* and then
 *magpie eagle*" should say *knife waffle* and *magpie fairy* (Figure 6.8 is correct)
