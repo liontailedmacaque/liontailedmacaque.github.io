@@ -4,9 +4,9 @@ title: Chess Memory Palace versions
 permalink: /chessmemorypalace/versions
 ---
 
-On the copyright page of *The Chess Memory Palace*, you will find a decimal number (e.g. 1.9). This is the version number. As the book is available as print-on-demand and ebook, I am able to make small updates without doing a large print run.
+On the copyright page of *The Chess Memory Palace*, you will find a decimal number (e.g. 2.0). This is the version number. As the book is available as print-on-demand and ebook, I am able to make small updates without doing a large print run.
 
-This page lists the versions and the changes that have been made. If you are one of the early adopters with an early version, the minor errors should not affect your enjoyment of the book at all. And technically you have a limited edition copy!
+This page lists the versions and the changes that have been made. The most significant update was on 8 April 2026, when I replaced Picture Notation with Image Notation throughout the book. There is nothing wrong with the 1.0-1.11 versions: Picture Notation still works perfectly for chess. However I believe Image Notation is easier to teach and understand, and is therefore preferable for most people.
 
 ### 1.0
 - Original version, released 29 December 2022
@@ -87,9 +87,9 @@ This page lists the versions and the changes that have been made. If you are one
 - Page 142: "which would be followed by *dove waffle* and then
 *magpie eagle*" should say *knife waffle* and *magpie fairy* (Figure 6.8 is correct)
 - Black's second move should be corrected from *barrel* to *pearl* in Steinitz v Elson, page 160
-- *University* listed as having 4 syllables in Appendix
-- *Herodotus* listed as b4 in Appendix
+- *University* listed as having 4 syllables (instead of 5) in Appendix
+- *Herodotus* listed as b4 (instead of d1) in Appendix
 
 ### 2.0
-- Upcoming update
-- Picture Notation to be replaced throughout the book by [Image Notation](/imagenotation)
+- Released 8 April 2026
+- Picture Notation replaced throughout the book by [Image Notation](/imagenotation)
