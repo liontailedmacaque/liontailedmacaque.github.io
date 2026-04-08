@@ -102,3 +102,4 @@ This page lists the versions and the changes that have been made. The most signi
 - Added essay on Theory of Mnemonics to Chapter 7
 - Replaced all AI illustrations (introduced in 2.0 to enable quicker release) with my own illustrations (similar to the AI ones)
 - Renamed Appendix from 'Picture Words for all 64 squares' to 'List of Picture Words'
+- Removed reference to 'seahorse' note which no longer exists
