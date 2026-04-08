@@ -5,6 +5,8 @@ permalink: /whymemoriseopenings
 
 ---
 
+{% include chess-memory-header.html %}
+
 > I've done the analysis with my engine, and I've organised everything, and I understand it and I get it -- I just can't remember it.
 > 
 > GM Patrick Wolff[^0]
