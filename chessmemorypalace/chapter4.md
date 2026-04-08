@@ -5,7 +5,7 @@ permalink: /chessmemorypalace/chapter4
 
 ---
 
-{% include chess-memory-header.html %}
+{% include chess-memory-header-test.html %}
 
 >*In this computer age, engines might be able to show the way to a White plus versus the Schliemann. Fortunately, most mortals do not have the prodigious memory required to recall what the engine proposes to reach that plus\[.\]*
 >
