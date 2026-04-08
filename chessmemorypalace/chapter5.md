@@ -7,28 +7,4 @@ permalink: /chessmemorypalace/chapter5
 
 {% include chess-memory-header.html %}
 
->*Gligorich said he had completely forgotten his Hastings analysis\[.\]*
->
->GM Bobby Fischer, commenting on one of his wins in the Exchange Variation
-
-
-This chapter presents a second example memory palace: a repertoire as Black against the Spanish (Ruy Lopez) Exchange: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 cxc6 5.O-O.
-
-![](/assets/chessmemorypalace/x1.png)
-
-Again I present a "pure main line" repertoire, playing Black's most popular move against every common try by White.
-
-Before we begin I need to introduce transpositions and options for both colours. We deal with these using special features of the memory palace architecture: converging paths and ladders.
-
----
-
-This chapter is not available online. It can be read on [a paper copy](https://smile.amazon.com/dp/B0BR9DQMVS) or [the ebook](https://www.etsy.com/listing/1368398070).
-
-The rest of Chapter 5 covers:
-1. Transpositions
-2. Options for both colours
-3. Step 1: Draw the tree diagram
-4. Step 2: Choose the setting
-5. Step 3: Map the locations
-6. Step 4: Select the picture words
-7. Step 5: Memorise the palace
+Following improvements to the book in April 2026, I have removed this webpage. Please see the free sample and other links above.
