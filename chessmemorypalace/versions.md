@@ -4,6 +4,8 @@ title: Chess Memory Palace versions
 permalink: /chessmemorypalace/versions
 ---
 
+{% include chess-memory-header.html %}
+
 On the copyright page of *The Chess Memory Palace*, you will find a decimal number (e.g. 2.0). This is the version number. As the book is available as print-on-demand and ebook, I am able to make small updates without doing a large print run.
 
 This page lists the versions and the changes that have been made. The most significant update was on 8 April 2026, when I replaced Picture Notation with Image Notation throughout the book. There is nothing wrong with the 1.0-1.11 versions: Picture Notation still works perfectly for chess. However I believe Image Notation is easier to teach and understand, and is therefore preferable for most people.
