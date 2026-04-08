@@ -4,6 +4,8 @@ title: Chess Memory Palace FAQs
 permalink: /chessmemorypalace/faq
 ---
 
+{% include chess-memory-header.html %}
+
 > 'You never know when you write a book -- often, you don't hear from the folks who have read it, and then...' He shrugged. 'Then you think: "Well, I guess nobody's read it after all."'
 > Alexander McCall Smith, The Limpopo Academy of Private Detection
 
