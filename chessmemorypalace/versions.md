@@ -106,3 +106,4 @@ This page lists the versions and the changes that have been made. The most signi
 - Removed reference to 'seahorse' note which no longer exists'
 - Fixed several typos and repeated words
 - Fixed two references to exd5 that should have been exf5 in text of Schliemann chapter
+- Narrowed graph in Miscellanea chapter so that it does not extend beyond the text to the right
