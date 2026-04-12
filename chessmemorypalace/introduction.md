@@ -7,7 +7,6 @@ permalink: /chessmemorypalace/introduction
 
 {% include chess-memory-header.html %}
 
-# Introduction
 
 > *My team's chorus cry for me during a World Championship is “revise, revise, revise”.*  
 > — GM Viswanathan Anand
