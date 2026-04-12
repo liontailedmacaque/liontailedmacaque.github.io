@@ -7,4 +7,4 @@ permalink: /chessmemorypalace/chapter8
 
 {% include chess-memory-header.html %}
 
-Not available online.
+Please buy the book to read this chapter.
