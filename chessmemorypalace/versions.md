@@ -97,9 +97,12 @@ This page lists the versions and the changes that have been made. The most signi
 - Picture Notation replaced throughout the book by [Image Notation](/imagenotation)
 
 ### 2.1
-- Upcoming update
+- Released 12 April 2026
 - Added acknowledgement reference for Image Notation
-- Added essay on Theory of Mnemonics to Chapter 7
+- Chapter 7 (Miscellanea) becomes Chapter 8. (All references above to Chapter 7 are referring to the Miscellanea chapter)
+- Added new A Theory of Mnemonics as Chapter 7
 - Replaced all AI illustrations (introduced in 2.0 to enable quicker release) with my own illustrations (similar to the AI ones)
 - Renamed Appendix from 'Picture Words for all 64 squares' to 'List of Picture Words'
-- Removed reference to 'seahorse' note which no longer exists
+- Removed reference to 'seahorse' note which no longer exists'
+- Fixed several typos and repeated words
+- Fixed two references to exd5 that should have been exf5 in text of Schliemann chapter
