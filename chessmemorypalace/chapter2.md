@@ -43,9 +43,17 @@ Imagine a great white shark, perhaps the shark from the film *Jaws*. Imagine its
 
 It is not pleasant to be bitten by a shark. But this makes the point that your images should be vivid and compelling. The best will make you laugh or physically react. You don't always need to “break the fourth wall” and participate in your images, but you must always feel like they are right in front of you, not watched passively on a screen. Think theatre, not cinema.
 
-Other picture words are a challenge. For example, I use *lore* (a body of knowledge) for pawn to e4. How can you visualise an abstract concept like *lore*? I imagine a book of lore. A book is not a memorable object either. It is small and rectangular and unremarkable. So instead I imagine a very distinctive magical book: snapping shut, scuttling around, fighting back when someone tries to catch it.
+Other picture words are a challenge. For example, I use *lore* (a body of knowledge) for pawn to e4. How can you visualise an abstract concept like *lore*? I imagine a book of lore. A book is not a memorable object either. It is small and rectangular and unremarkable. But one book from JK Rowling's *Harry Potter* series is very memorable:
 
-Note how many senses this can involve: the bright cover, the sound of the book scuttling and flapping, the pain if it snaps on your hand. Most important of all is the story of someone chasing the book around a room. These all combine to make a compelling image. When I visualise *lore*, I imagine a dangerous magical book of lore.
+> Harry just had time to register its handsome green cover, emblazoned with the golden title *The Monster Book of Monsters}, before it flipped onto its edge and scuttled sideways along the bed like some weird crab.
+>
+> ...
+>
+> "Ouch!"
+>
+> The book snapped shut on his hand and then flapped past him, still scuttling on its covers. Harry scrambled around, threw himself forward, and managed to flatten it. Uncle Vernon gave a loud, sleepy grunt in the room next door.
+
+Note how many senses are used: the visually bright cover, the sound of the book scuttling and flapping, the pain as it snaps on Harry's hand. Most important of all is the story of Harry hunting the book around his room while trying not to wake his uncle. These all combine to make a very compelling description. When I visualise *lore*, I imagine *The Monster Book of Monsters*.
 
 Children's TV is also a good source of images. This is because it expresses objects in simple and bold form, and anthropomorphises liberally. It is not unusual to see a talking *coach* (g6), *machine* (Nc6), or even a dinner plate (*dish*, a6). You can turn pretty much anything into a character by adding limbs and a face.
 
