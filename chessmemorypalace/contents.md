@@ -11,7 +11,7 @@ permalink: /chessmemorypalace
 
 Every chess player knows the frustration: you’ve studied your opening repertoire for hours, you understand it, you can't wait to use it… only to blank at the board when it matters most.
 
-Even elite players forget. But memory champions don’t.
+Even elite players forget. But memory competitors don’t.
 
 Memory competitors routinely memorize thousands of random digits, cards, and facts. They don't have a magical photographic memory. The difference isn’t talent; it’s technique.
 
@@ -44,7 +44,7 @@ Instead of rote memorisation, you’ll build vivid, structured mental systems th
 - [7. A Theory of Mnemonic Systems](/chessmemorypalace/chapter7)
 - [8. Miscellanea](/chessmemorypalace/chapter8)
 - [Notes](/chessmemorypalace/notes)
-- [Appendix: Picture Words for all 64 Squares](/chessmemorypalace/appendix)
+- [Appendix: List of Picture Words](/chessmemorypalace/appendix)
 
 Stop re-learning the same openings over and over. Build a system that lets you remember them for good.
 
