@@ -7,4 +7,4 @@ permalink: /chessmemorypalace/chapter7
 
 {% include chess-memory-header.html %}
 
-Please buy the book to read this chapter.
+A version of this chapter is on my blog under the title A Theory of Mnemonics (/theoryofmnemonics).
