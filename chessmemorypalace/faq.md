@@ -16,7 +16,7 @@ I am grateful that the quote above does not apply to me, for several readers hav
 
     Surprisingly, there weren't any good published systems for chess mnemonics, so I set about making my own. The first system I made was relatively complex (using vowel sounds and a convoluted piece-priority system), but as I built more chess memory palaces over the next few years -- and particularly as I started explaining it in draft articles that eventually became the book -- I found ways to simplify, until I felt the system was worth sharing. 
 
-2. **Why did you design Picture Notation the way you did, rather than using PAO / picture transformations / word length / other mnemonic codes?**\
+2. **Why did you design Image Notation the way you did, rather than using PAO / picture transformations / word length / other mnemonic codes?**\
     There is a lot to say about this, so I have written a [blog post on the design of mnemonic systems](/theoryofmnemonics).
 
 3. **Is there an online forum to discuss The Chess Memory Palace?**\
@@ -36,8 +36,8 @@ I am grateful that the quote above does not apply to me, for several readers hav
 7. **Should you combine mnemonics with conventional memory?**\
     Most likely it is best to combine mnemonics with conventional chess memory -- perhaps by memorising longer/rarer/sharper lines with mnemonics, and other lines with conventional memory. I am not sure of the exact best ratio; this will be discovered through experience. (And of course, it is necessary to understand your moves and the middlegame plans, so you are not lost when you leave your memorised lines.) It’s important to know at which position your chess memory palaces start, so that you can access them when the right position arises on the board.
 
-8. **Can you use picture notation to memorise static chess positions?**\
-    Picture notation codes chess moves, rather than static chess board positions. If you want to memorise a chess position, you will need a different mnemonic system. US memory champion Nelson Dellis [made a video with two methods to try](https://youtu.be/eN8VM3EBCsA).
+8. **Can you use image notation to memorise static chess positions?**\
+    Image notation codes chess moves, rather than static chess board positions. If you want to memorise a chess position, you will need a different mnemonic system. US memory champion Nelson Dellis [made a video with two methods to try](https://youtu.be/eN8VM3EBCsA).
 
 9. **Do you have images of the picture words to share?**\
     I don't have any sketches except the ones in the book. I just imagine the scenes in my head. Like an actual memory, you don't need a photo-like picture: you just need to imagine *enough* to make the scenes memorable. If you like, you could use one of the new AI image generator tools for inspiration.
