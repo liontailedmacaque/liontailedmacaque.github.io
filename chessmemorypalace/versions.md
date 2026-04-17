@@ -109,5 +109,8 @@ This page lists the versions and the changes that have been made. The most signi
 - Narrowed graph in Miscellanea chapter so that it does not extend beyond the text to the right
 
 ### 2.2
-- Next version, no release date
+- Released 17 April 2026
 - Lettrine M at the start of Chapter 7
+- Simplified chess diagrams to be arrows only, as candidate pieces generally unnecessary with Image Notation
+- Standardisation of italics
+- Removed 'phone' which was incorrectly placed in Appendix
