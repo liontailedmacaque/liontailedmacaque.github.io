@@ -116,7 +116,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Removed 'phone' which was incorrectly placed in Appendix
 
 ### 2.3
-- Upcoming release
+- Released 19 April 2026
 - Corrected Bigfoot to baguette in Schliemann repertoire (5th box in tree diagram, plus text)
 - Added cylinder to Qe2 options in Appendix
 - Added (I) to second instance of Nbc3 in Figure 5.3
