@@ -114,3 +114,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Simplified chess diagrams to be arrows only, as candidate pieces generally unnecessary with Image Notation
 - Standardisation of italics
 - Removed 'phone' which was incorrectly placed in Appendix
+
+### 2.3
+- Upcoming release
+- Corrected Bigfoot to baguette in Schliemann repertoire (5th box in tree diagram, plus text)
