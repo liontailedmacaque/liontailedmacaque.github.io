@@ -118,3 +118,5 @@ This page lists the versions and the changes that have been made. The most signi
 ### 2.3
 - Upcoming release
 - Corrected Bigfoot to baguette in Schliemann repertoire (5th box in tree diagram, plus text)
+- Added cylinder to Qe2 options in Appendix
+
