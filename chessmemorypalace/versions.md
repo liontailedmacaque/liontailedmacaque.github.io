@@ -94,7 +94,7 @@ This page lists the versions and the changes that have been made. The most signi
 
 ### 2.0
 - Released 8 April 2026
-- Picture Notation replaced throughout the book by [Image Notation](/imagenotation)
+- Picture Notation replaced throughout the book by Image Notation
 
 ### 2.1
 - Released 12 April 2026
