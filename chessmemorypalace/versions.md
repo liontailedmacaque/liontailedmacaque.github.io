@@ -123,4 +123,6 @@ This page lists the versions and the changes that have been made. The most signi
 
 ### 2.4
 - Next release
-- Upgrade B-movie to pamphlet for Kc8
+- Upgraded B-movie to pamphlet for Kc8
+- Simplified note on memory books
+  
