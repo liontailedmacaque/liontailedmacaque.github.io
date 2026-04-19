@@ -440,7 +440,7 @@ King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 - Ke2: **balloon**, blanket, plane
 - Ke3: **blimp**, palomino (horse), plum, policeman, policewoman
 - Ke4: **pliosaurus**, blueberry, pillar
-- Ke5: **balalaika**
+- Ke5: **bluebell**, balalaika
 - Ke6: **bleach**, plush velvet, polish
 - Ke7: **pelican**, balaclava, blackberry, bulgogi
 - Ke8: **bailiff**, Bolivia
