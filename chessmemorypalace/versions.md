@@ -124,5 +124,6 @@ This page lists the versions and the changes that have been made. The most signi
 ### 2.4
 - Next release
 - Upgraded B-movie to pamphlet for Kc8
+- Changed balalaika to bluebell for Ke5
 - Simplified note on memory books
 - Corrected double full stop in Chapter 7
