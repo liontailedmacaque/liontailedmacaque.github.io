@@ -121,3 +121,6 @@ This page lists the versions and the changes that have been made. The most signi
 - Added cylinder to Qe2 options in Appendix
 - Added (I) to second instance of Nbc3 in Figure 5.3
 
+### 2.4
+- Next release
+- Upgrade B-movie to pamphlet for Kc8
