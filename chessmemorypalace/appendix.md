@@ -425,7 +425,7 @@ King moves start with a /p/ or /b/ sound (and can have any number of syllables).
 - Kc5: **bumblebee**, pomelo
 - Kc6: **bombshell**, Beamish (brand), pomchi
 - Kc7: **pumpkin**, pomegranate
-- Kc8: **B-movie**, bumf, pomfret
+- Kc8: **pamphlet**, B-movie, bumf, pomfret
 <p><br></p>
 - Kd1: **pirate**, paparazzi, parrot, president
 - Kd2: **brain**, parsnip, piranha, prawn
