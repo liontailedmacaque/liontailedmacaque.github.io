@@ -125,4 +125,4 @@ This page lists the versions and the changes that have been made. The most signi
 - Next release
 - Upgraded B-movie to pamphlet for Kc8
 - Simplified note on memory books
-  
+- Corrected double full stop in Chapter 7
