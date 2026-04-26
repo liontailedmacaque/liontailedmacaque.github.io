@@ -127,3 +127,4 @@ This page lists the versions and the changes that have been made. The most signi
 - Changed balalaika to bluebell for Ke5
 - Simplified note on memory books
 - Corrected double full stop in Chapter 7
+- Removed xylophone and zinc from Appendix for possible confusion with starting /z/ sound
