@@ -210,7 +210,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Be3: **limousine**, halloumi, lemonade
 - Be4: **wheelbarrow**, celery, Labrador, wallpaper
 - Be5: **lollipop**, Lilliput
-- Be6: **illusion**, Elijah (name), eyelashes, logician
+- Be6: **Alsatian**, Elijah (name), eyelashes, illusion, logician
 - Be7: **alpaca**, alcohol, liquorice
 - Be8: **elephant**, lavender, wolverine, xylophone
 <p><br></p>
@@ -368,7 +368,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qe7: **slug**, silicon, sling
 - Qe8: **sulphur**, saliva, silver
 <p><br></p>
-- Qf1: **sachet** (pronounced unusually with a hard *t*), Sajid (name)
+- Qf1: **sausage dog**, Sagittarius, Sajid (name)
 - Qf2: **Sichuan**, session
 - Qf3: **sashimi**, sachem
 - Qf4: **Sojourner** (Mars rover), seashore
