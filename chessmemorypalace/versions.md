@@ -125,7 +125,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Next release
 - Upgraded B-movie to pamphlet for Kc8
 - Changed balalaika to bluebell for Ke5
-- Upgraded illusion to Alsation for Be6
+- Upgraded illusion to Alsatian for Be6
 - Upgraded sachet to sausage dog for Qf1
 - Changed dog to duck as recommendation for a7, added tug as alternative
 - Simplified note on memory books
