@@ -21,7 +21,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - a4: **tree**, deer, dress, drill, drone, torch, train
 - a5: **doll**, dill, tail, (Mikhail) Tal, teal, till
 - a6: **dish**, ditch, thatch
-- a7: **dog**, duck, tongue
+- a7: **duck**, dog, tongue, tug
 - a8: **dove**, daft, tuft
 <p><br></p>
 - b1: **ant**, gnat, hand, net, newt, nut, wand
