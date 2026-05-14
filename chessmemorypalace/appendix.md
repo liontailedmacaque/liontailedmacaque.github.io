@@ -42,7 +42,7 @@ Pawn moves have one syllable and do not start with a /p/, /b/ or /s/ sound.
 - c7: **mask**, muck, mug
 - c8: (ear)**muff**, mauve
 <p><br></p>
-- d1: **heart**, Earth, rat, sword
+- d1: **heart**, Earth, rat
 - d2: **horn**, wren
 - d3: **ram**, arm, rum, ruin, worm
 - d4: **roar**, rear, Ruhr
@@ -350,7 +350,7 @@ Queen moves start with an /s/ sound (and can have any number of syllables).
 - Qc7: **smokestack**, smoke
 - Qc8: **samovar**, symphony
 <p><br></p>
-- Qd1: **sardine**, certificate, Sorting Hat, sourdough
+- Qd1: **sardine**, certificate, Sorting Hat, sword
 - Qd2: **serpent**, siren, serendipity, soprano
 - Qd3: **Cyberman**, ceramic, sermon
 - Qd4: **sorcerer**, sorority, sorrower
