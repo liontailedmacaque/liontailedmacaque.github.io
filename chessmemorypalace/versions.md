@@ -127,6 +127,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Changed balalaika to bluebell for Ke5
 - Upgraded illusion to Alsatian for Be6
 - Upgraded sachet to sausage dog for Qf1
+- Corrected sword from d1 to Qd1 and removed sourdough
 - Changed dog to duck as recommendation for a7, added tug as alternative
 - Simplified note on memory books
 - Corrected double full stop in Chapter 7
