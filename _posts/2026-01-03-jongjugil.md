@@ -15,18 +15,18 @@ The Jongju-gil is divided into 10 "courses" (sections) of roughly equal length. 
 
 | # | Course |
 |:---|:----------|
-1 | [Course 1: Gyeyangsan (계양산)](#course-1)
-2 | [Course 2: Cheonmasan (천마산)](#course-2)
-3 | [Course 3: Wonjeoksan (원적산)](#course-3)
-4 | [Course 4: Manwolsan (만월산)](#course-4)
-5 | [Course 5: Soraesan (소래산)](#course-5)
-6 | [Course 6: Jangsucheon (장수천)](#course-6)
-7 | [Course 7: Obongsan (오봉산)](#course-7)
-8 | [Course 8: Munhaksan (문학산)](#course-8)
-9 | [Course 9: Cheongryangsan (청량산)](#course-9)
-10 | [Course 10: Songdo International City (송도국제도시)](#course-10)
+| 1 | [Course 1: Gyeyangsan (계양산)](#course-1) |
+| 2 | [Course 2: Cheonmasan (천마산)](#course-2) |
+| 3 | [Course 3: Wonjeoksan (원적산)](#course-3) |
+| 4 | [Course 4: Manwolsan (만월산)](#course-4) |
+| 5 | [Course 5: Soraesan (소래산)](#course-5) |
+| 6 | [Course 6: Jangsucheon (장수천)](#course-6) |
+| 7 | [Course 7: Obongsan (오봉산)](#course-7) |
+| 8 | [Course 8: Munhaksan (문학산)](#course-8) |
+| 9 | [Course 9: Cheongryangsan (청량산)](#course-9) |
+| 10 | [Course 10: Songdo International City (송도국제도시)](#course-10) |
 
-## <a name="#course-1"></a> Course 1: Gyeyangsan (계양산)
+## Course 1: Gyeyangsan (계양산) {#course-1}
 - **Key Features:** Yeonmujeong Pavilion (연무정), Gyeseongjeong Pavilion (계성정), Haneujae Pass (하느재고개), Gyeyangsan Summit (계양산 정상), Helipad (헬기장), Jingmae Pass Ecological Bridge (징매이고개 생태통로)
 - **Stamp Location:** Gyeyangsan Summit (계양산 정상)
 
