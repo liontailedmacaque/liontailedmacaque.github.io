@@ -49,7 +49,7 @@ I think these stamp boxes are a really fun idea. I'd love to see them on the hil
 
 The photo above looks southwest, towards the mountains of Course 2. Descending on the western side of Gyeyangsan is totally different to ascending from the southeast. The crowds are gone, and so are the well-built stairs. The rocky path leads all the way down to the bottom, where a tree-covered bridge crosses a highway. My backup plan was to follow the road back to Gyesan station, but to my surprise I had made good time, so I continued straight onto Course 2...
 
-## <a name="#course-2"></a> Course 2: Cheonmasan (천마산)
+## Course 2: Cheonmasan (천마산) {#course-2}
 - **Key Features:** Jingmae Pass Ecological Bridge (징매이고개 생태통로), Junggubong Peak (중구봉), Cheonmasan (천마산), Hexagonal Pavilion (육각정), Cheonma Rock (천마바위), Ruwon Bridge (루원교)
 - **Stamp Location:** Cheonma Rock Information Board (천마바위 안내문)
 
@@ -69,7 +69,7 @@ Popular hiking photos usually show lakes and rivers. But I also enjoy cityscapes
 
 Eventually the trail leads back down to the city, and modernity with its pros and cons. This part of Incheon appears to be newly built. Walking to the subway station was an unhappy contrast with the mountains, walking alongside a big road and hurrying to complete 13-lane crossings before the "blue" (green) man disappeared and the black and white cars started rolling. However the neighbourhoods of tall branded apartment blocks are very pleasant; clean on the inside and outside, with tree-lined gardens.
 
-## <a name="#course-3"></a> Course 3: Wonjeoksan (원적산)
+## Course 3: Wonjeoksan (원적산) {#course-3}
 - **Key Features:** Ruwon Bridge (루원교), Wonjeokjeong Pavilion (원적정), Wonjeoksan (원적산), Hambongsan (함봉산), Jang Pass (장고개), Yeoujae Pass (여우재), Baegun Park (백운공원)
 - **Stamp Location:** Hambongsan Summit (함봉산 정상)
 
@@ -91,7 +91,7 @@ Unlike Courses 1 and 2, there are lots of pylons over the Course 3 mountains. Yo
 
 This photo looks back over Course 3, with a bit of Course 2 and then Gyeyangsan from Course 1 in the far distance on the right. One day I need to hike Courses 1 and 2 again in weather this clear.
 
-## <a name="#course-4"></a> Course 4: Manwolsan (만월산)
+## Course 4: Manwolsan (만월산) {#course-4}
 - **Key Features:** Baegunsan Ecological Restoration Forest (백운산 생태복원 숲), Dongamsan (동암산), Manwolsan Summit (만월산 정상), Manwol to Mansusan Connecting Bridge (만월~만수산 연결다리), Salamander Village (도롱뇽마을), Bullo Mineral Spring (불로약수터), Gwanghaksan (광학산)
 - **Stamp Location:** Opposite Manwoljeong Pavilion (만월정 맞은편)
 
@@ -111,7 +111,7 @@ Unfortunately the Jongju-gil then descends back down to a road, and this time wo
 
 I managed to rejoin the Jongju-gil, but regrettably I didn't enjoy the rest of Course 4. With the sun setting behind me and a swarm of insects like Scottish midges that followed my head, I made a hasty journey along the final few peaks.
 
-## <a name="#course-5"></a> Course 5: Soraesan (소래산)
+## Course 5: Soraesan (소래산) {#course-5}
 - **Key Features:** Bosei Pass (보세이고개), Incheon Grand Park (인천대공원), Geomasan (거마산), Jangsu-dong Ginkgo Tree (장수동 은행나무), Soraesan (소래산), Sangasan (상아산), Gwanmosan (관모산), Baekbeom Square (백범광장), Wetland Garden (습지원)
 - **Stamp Location:** Soraesan Summit (소래산 정상)
 
@@ -131,7 +131,7 @@ Course 5 is the only stage of the Jongju-gil I have walked in deep autumn colour
 
 Soraesan, 299.4m, is one of the highlights of the Jongju-gil. Its distinctive head-and-shoulders shape is visible from miles around. My favourite view was to the southwest (pictured), but there are great views in all directions. For some reason the official Jongju-gil path goes through a short rock-climbing section near the peak, but you can take a perfectly safe flight of steps a few metres away to the left. It felt like being on an island in the sky.
 
-## <a name="#course-6"></a> Course 6: Jangsucheon (장수천)
+## Course 6: Jangsucheon (장수천) {#course-6}
 - **Key Features:** Incheon Grand Park Wetland Garden (인천대공원 습지원), Suhyeon Bridge (수현교), Jangsu Bridge (장수교), Seochang Overpass (서창고가교), Jangsujeon 1st Bridge (장수천1교), Dorim Overpass (도림고가교), Dorim Elementary School (도림초등학교)
 - **Stamp Location:** Jangsucheon Riverside, Shelter in front of Namdong Gymnasium (장수천변, 남동체육관 앞 쉼터)
 
@@ -151,7 +151,7 @@ In a fantasy novel there would definitely be a forgotten civilisation living in 
 
 After one such bridge, I was surprised by this beautiful tree-lined avenue. Sandwiched between the muddy river estuary and a highway, there was a moment to listen to a soundscape of chattering sparrows.
 
-## <a name="#course-7"></a> Course 7: Obongsan (오봉산)
+## Course 7: Obongsan (오봉산) {#course-7}
 - **Key Features:** Dorim Elementary School (도림초등학교), Obongsan (오봉산), Sonangdaengi Pass (소낭댕이고개), Deumbaesan (듬배산), Sariul Park (사리울공원), Seunggi Park (승기공원), Seunggicheon Stream (승기천), Seonhak Hockey Stadium (선학 하키경기장)
 - **Stamp Location:** Obongsan 1st Peak (오봉산 1봉)
 
@@ -171,7 +171,7 @@ Cairns are quite common on the Korean mountains. This one is a looser style, pic
 
 Course 7 then routes through a pleasant park-like apartment complex and an unpleasant set of roads. But once this was over, it opened once more into a fairly nice riverside. I saw more herons and egrets, and a cormorant. Next to a sports centre, many people were enjoying their exercise through walking, jogging and cycling.
 
-## <a name="#course-8"></a> Course 8: Munhaksan (문학산)
+## Course 8: Munhaksan (문학산) {#course-8}
 - **Key Features:** Seonhak Hockey Stadium (선학 하키경기장), Munhaksan (문학산), Nojeokbong (노적봉), Songdo Station (송도역)
 - **Stamp Location:** Pavilion beyond Munhaksan Summit
 
@@ -192,7 +192,7 @@ The main feature of Course 8 is Munhaksan. Occasionally on the mountains you fin
 The stamp box is towards the end of the course, at a pavilion. Always check which stamp box you are using, because not all of them are for the Jongju-gil -- it would be easy to get a stamp for the Dulle-gil by mistake!
 
 
-## <a name="#course-9"></a> Course 9: Cheongryangsan (청량산)
+## Course 9: Cheongryangsan (청량산) {#course-9}
 - **Key Features:** Songdo Station (송도역), Cheongryangsan (청량산), Bongjaesan (봉재산), Songdo MTB Park (송도MTB파크)
 - **Stamp Location:** Bongjaesan Summit (봉재산 정상)
 
@@ -212,7 +212,7 @@ Course 9 routes through some interesting parks. I was amazed by this field of lo
 
 This mountain biking park is overlooked by the 60 storey apartment blocks of "campus city". There were no bikes when I visited, but the tyre marks suggested it is well used. One man canoed down the canal.
 
-## <a name="#course-10"></a> Course 10: Songdo International City (송도국제도시)
+## Course 10: Songdo International City (송도국제도시) {#course-10}
 - **Key Features:** Songdo International Bridge (송도국제교), Saeachim Park X-Games Arena (새아침공원 X-게임장), Central Park (센트럴파크), Tri-Bowl (트라이볼), Incheon Bridge Observatory (인천대교 전망대), Art Center (아트센터), Solchan Park (솔찬공원)
 - **Stamp Location:** Final Point of Incheon Jongjugil (인천종주길 마지막 지점)
 
