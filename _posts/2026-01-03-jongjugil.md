@@ -232,4 +232,6 @@ But I made the best of it. This is a black-necked grebe (I think), dwarfed by ap
 
 The final stretch is along a harbour wall. To the right there are views of the impressive 21km Incheon Bridge, which connects the mainland to the airport. I navigated past lots of men and women fishing, and eventually made it to a popular boardwalk area, with people playing and cycling and disobeying signs by feeding the seagulls. I found the last stamp box, stamped a piece of card, and with that I had finished the Jongju-gil!
 
+![stamp collection](/assets/jongjugil/stamps.jpeg?raw=true)
+
 Overall, I found the Jongju-gil to be an engaging hiking route, and one that is easy to break into half-day trips. Visitors looking for more of a challenge should prioritise Courses 1, 2, 3 and 5. Those who prefer flatter, more urban walks will find Courses 6 and 10 are the best. But if time allows, the full Jongju-gil is well worth completing from start to end.
