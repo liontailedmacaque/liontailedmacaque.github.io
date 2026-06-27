@@ -132,3 +132,11 @@ This page lists the versions and the changes that have been made. The most signi
 - Simplified note on memory books
 - Corrected double full stop in Chapter 7
 - Removed xylophone and zinc from Appendix for possible confusion with starting /z/ sound
+- Corrected grammar in Chapter 5 "I imagine Mir as ..."
+- Removed dupicated explanation of disambiguation in Chapter 4
+- Moved asterisk inside brackets immediately after "lol" in Chapter 1
+- Corrected Image Notation to Picture Notation in Note 6 to Chapter 7
+- Moved algebraic notation footnote to the first instance of algebraic notation in the Introduction
+- Added "(don't do this)" to caption of The Nightmare diagram
+- In Chapter 1, changed "it is very easy to" to "you can"
+
