@@ -123,7 +123,7 @@ This page lists the versions and the changes that have been made. The most signi
 
 ### 2.4
 - Next release
-- Upgraded B-movie to pamphlet for Kc8
+- Upgraded B-movie to pamphlet for Kc8 and added Pomfrey as alternative
 - Changed balalaika to bluebell for Ke5
 - Upgraded illusion to Alsatian for Be6
 - Upgraded sachet to sausage dog for Qf1
