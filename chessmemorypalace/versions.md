@@ -129,6 +129,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Upgraded sachet to sausage dog for Qf1
 - Corrected sword from d1 to Qd1 and removed sourdough
 - Changed dog to duck as recommendation for a7, added tug as alternative
+- Added scammer as alternative for Qg3
 - Simplified note on memory books
 - Corrected double full stop in Chapter 7
 - Removed xylophone and zinc from Appendix for possible confusion with starting /z/ sound
@@ -139,4 +140,5 @@ This page lists the versions and the changes that have been made. The most signi
 - Moved algebraic notation footnote to the first instance of algebraic notation in the Introduction
 - Added "(don't do this)" to caption of The Nightmare diagram
 - In Chapter 1, changed "it is very easy to" to "you can"
+- In Chapter 1, changed "other languages" reference from chapter reference to precise page reference
 
