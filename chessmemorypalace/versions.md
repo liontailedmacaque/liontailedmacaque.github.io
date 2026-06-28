@@ -141,4 +141,5 @@ This page lists the versions and the changes that have been made. The most signi
 - Added "(don't do this)" to caption of The Nightmare diagram
 - In Chapter 1, changed "it is very easy to" to "you can"
 - In Chapter 1, changed "other languages" reference from chapter reference to precise page reference
+- Added dashed arrows to show previous pawn move on en passant diagrams, in Chapter 1
 
