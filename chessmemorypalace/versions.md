@@ -142,4 +142,9 @@ This page lists the versions and the changes that have been made. The most signi
 - In Chapter 1, changed "it is very easy to" to "you can"
 - In Chapter 1, changed "other languages" reference from chapter reference to precise page reference
 - Added dashed arrows to show previous pawn move on en passant diagrams, in Chapter 1
-
+- No double space (or line break) after i.e. and e.g. throughout book
+- Split summary into two clear sections
+- Italicise un-italicised chess moves (...Kh8 in Chapter 8)
+- Standardise italicisation of *The Chess Memory Palace*
+- Standardise consonant sounds from italics and lingulistic notation to speech marks
+- Removed unnecessary bold text in Chapter 1
