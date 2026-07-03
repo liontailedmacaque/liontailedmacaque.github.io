@@ -150,4 +150,4 @@ This page lists the versions and the changes that have been made. The most signi
 - Removed unnecessary bold text
 - Adjusted position of mover markers in double board diagrams
 - Removed space between behemoth and footnote marker
-- Removed quotation marks around sorcerer footnote
+- Removed quotation marks around 'sorcerer' footnote and 'climb the ladder'
