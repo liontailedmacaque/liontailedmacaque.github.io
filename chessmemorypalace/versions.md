@@ -147,6 +147,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Italicise un-italicised chess moves (...Kh8 in Chapter 8)
 - Standardise italicisation of *The Chess Memory Palace*
 - Standardise consonant sounds from italics and lingulistic notation to speech marks
-- Removed unnecessary bold text in Chapters 1-3
+- Removed unnecessary bold text in Chapters 1-3 and 6
 - Adjusted position of mover markers in double board diagrams
 - Removed space between behemoth and footnote marker
+- Removed quotation marks around sorcerer footnote
