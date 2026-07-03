@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chess Memory Palace versions
+title: Chess Memory Palace Version History
 permalink: /chessmemorypalace/versions
 ---
 
@@ -122,7 +122,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Added (I) to second instance of Nbc3 in Figure 5.3
 
 ### 2.4
-- Released 3 July 2026 ebook
+- Released 3 July 2026 ebook (print to follow)
 - Switched print version to cream paper
 - Upgraded B-movie to pamphlet for Kc8 and added Pomfrey as alternative
 - Changed balalaika to bluebell for Ke5
@@ -146,9 +146,9 @@ This page lists the versions and the changes that have been made. The most signi
 - No double space (or line break) after i.e. and e.g. throughout book
 - Split summary into two clear sections
 - Italicise un-italicised chess moves (...Kh8 in Chapter 8)
-- Standardise italicisation of *The Chess Memory Palace*
-- Standardise consonant sounds from italics and lingulistic notation to speech marks
-- Removed unnecessary bold text
+- Standardised italicisation of *The Chess Memory Palace*
+- Standardised consonant sounds from italics and lingulistic notation to speech marks
+- Un-bolded some bold text
 - Adjusted position of mover markers in double board diagrams
 - Removed space between behemoth and footnote marker
 - Removed quotation marks around 'sorcerer' footnote and 'climb the ladder'
