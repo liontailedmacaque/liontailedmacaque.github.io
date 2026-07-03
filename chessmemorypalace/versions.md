@@ -122,7 +122,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Added (I) to second instance of Nbc3 in Figure 5.3
 
 ### 2.4
-- Next release
+- Released 3 July 2026
 - Upgraded B-movie to pamphlet for Kc8 and added Pomfrey as alternative
 - Changed balalaika to bluebell for Ke5
 - Upgraded illusion to Alsatian for Be6
