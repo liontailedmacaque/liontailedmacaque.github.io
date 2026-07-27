@@ -134,7 +134,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Corrected double full stop in Chapter 7
 - Removed xylophone and zinc from Appendix for possible confusion with starting /z/ sound
 - Corrected grammar in Chapter 5 "I imagine Mir as ..."
-- Removed dupicated explanation of disambiguation in Chapter 4
+- Removed duplicated explanation of disambiguation in Chapter 4
 - Moved asterisk inside brackets immediately after "lol" in Chapter 1
 - Corrected Image Notation to Picture Notation in Note 6 to Chapter 7
 - Moved algebraic notation footnote to the first instance of algebraic notation in the Introduction
@@ -144,14 +144,16 @@ This page lists the versions and the changes that have been made. The most signi
 - Added dashed arrows to show previous pawn move on en passant diagrams, in Chapter 1
 - No double space (or line break) after i.e. and e.g. throughout book
 - Split summary into two clear sections
-- Italicise un-italicised chess moves (...Kh8 in Chapter 8)
+- Italicised un-italicised chess moves (...Kh8 in Chapter 8)
 - Standardised italicisation of *The Chess Memory Palace*
-- Standardised consonant sounds from italics and lingulistic notation to speech marks
+- Standardised consonant sounds from italics and linguistic notation to speech marks
 - Un-bolded some bold text
 - Adjusted position of mover markers in double board diagrams
 - Removed space between behemoth and footnote marker
 - Removed quotation marks around 'sorcerer' footnote and 'climb the ladder'
 
 ### 2.5
-- Potential future version
+- Released 28 July 2026
 - Changed first use of 'picture words' in Chapter 1 from quotation marks to italics
+- Italicised un-italicised move in Chapter 3
+- Corrected 4 words starting with soft c in Appendix to be queen moves (celebrity, celery, centipede, cicada)
