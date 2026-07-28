@@ -160,4 +160,4 @@ This page lists the versions and the changes that have been made. The most signi
 
 ### 2.6
 - Released 28 July 2026
-- Standardised bold and italics in Area 5 of Spanish Exchange Airport memory palace description
+- Standardised bold and italics in Area 5 and Area 6 of Spanish Exchange Airport memory palace description
