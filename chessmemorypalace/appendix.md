@@ -178,7 +178,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Ba7: **woodpecker**, toboggan
 - Ba8: **daffodil**, DVD, Tuvalu
 <p><br></p>
-- Bb1: **anteater**, antelope, centipede, nightingale
+- Bb1: **anteater**, antelope, nightingale
 - Bb2: **nanobot**, Nineveh
 - Bb3: **winemaker**, enamel, enemy, pneumatic
 - Bb4: **newspaper**, anarchist, anorak
@@ -208,7 +208,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Be1: **albatross**, ladybird/ladybug, ocelot, wildebeest
 - Be2: **alien**, lioness
 - Be3: **limousine**, halloumi, lemonade
-- Be4: **wheelbarrow**, celery, Labrador, wallpaper
+- Be4: **wheelbarrow**, Labrador, wallpaper
 - Be5: **lollipop**, Lilliput
 - Be6: **Alsatian**, Elijah (name), eyelashes, illusion, logician
 - Be7: **alpaca**, alcohol, liquorice
@@ -220,7 +220,7 @@ Bishop moves have three syllables and do not start with a /p/, /b/ or /s/ sound.
 - Bf4: **chariot**, chardonnay
 - Bf5: **jellyfish**, gelatin, jalfrezi, shipbuilder
 - Bf6: **jujube**, chapshoro, jajangmyeon, Joshua (name)
-- Bf7: **jaguar**, cicada, shopkeeper
+- Bf7: **jaguar**, shopkeeper
 - Bf8: **shoveler**, Chevrolet (brand), shaving foam
 <p><br></p>
 - Bg1: **catapult**, cuttlefish, echidna, octopus
@@ -285,7 +285,7 @@ Rook moves have four syllables and do not start with a /p/, /b/ or /s/ sound.
 - Re1: **lederhosen**, altimeter, elderberry, El Dorado
 - Re2: **jalapeño**, Albania, Leonardo (name)
 - Re3: **Lamborghini** (brand), limoncello, Olympian
-- Re4: **allosaurus**, celebrity, Liberia
+- Re4: **allosaurus**, Liberia
 - Re5: **Eulalia** (name), hallelujah, Lilliputian
 - Re6: **Algeria**, zoology
 - Re7: **helicopter**, alligator, electrician
