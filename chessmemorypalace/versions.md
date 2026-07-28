@@ -157,3 +157,7 @@ This page lists the versions and the changes that have been made. The most signi
 - Changed first use of 'picture words' in Chapter 1 from quotation marks to italics
 - Italicised un-italicised move in Chapter 3
 - Corrected 4 words starting with soft c in Appendix to be queen moves (celebrity, celery, centipede, cicada)
+
+### 2.6
+- Released 28 July 2026
+- Standardised bold and italics in Area 5 of Spanish Exchange Airport memory palace description
