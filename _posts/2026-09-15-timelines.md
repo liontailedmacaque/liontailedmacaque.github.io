@@ -5,6 +5,7 @@ permalink: /timelines
 ---
 
 > "Perhaps it doesn't understand English," thought Alice. "I dare say it's a French mouse, come over with William the Conqueror." For with all her knowledge of history, Alice had no very clear notion how long ago anything had happened.
+> 
 > Lewis Carroll, Alice's Adventures in Wonderland
 
 One of the challenges of teaching history, I am told, is getting across the *length of time* between events. It is all too easy for the past to feel like a bundle of actions happening at once, instead of a slowly unfolding story. Perhaps this isn't surprising, as we tend to view our own lives the same way: a series of representative experiences, ignoring duration.
