@@ -35,7 +35,7 @@ To quote GM Garry Kasparov, "Long before a player becomes a master he realises t
 
 I am reminded of the game Magnus Carlsen v Bu Xiangzhi, from the 2017 World Cup in Tbilisi.[^3]
 
-![Board position in a Double King's Pawn Game](/assets/chessmemorypalace/why1.png)
+![Board position in a Double King's Pawn Game](/assets/chessmemorypalace/2/why1.png)
 
 Here, Bu played *earl* (...d5), sacrificing his pawn on e5 for a strong -- and eventually winning -- kingside attack. His plan clearly drew lessons from understanding the Marshall Gambit, despite Bu not being a regular Marshall player.
 
@@ -51,7 +51,7 @@ As we improve, more and more of our moves will be played from a deep understandi
 
 To take this a step further, I could even argue that in practical play you need to understand the plan *going forward*, which is not the same as the purpose of the move *when you made it*. In the position below, from the Tartakower Variation of the Queen's Gambit Declined, Black usually plays *Alsatian* (\...Be6). On e6, the bishop still has prospects on the c8-h3 diagonal, while also supporting Black's queenside play.[^4]
 
-![Board position from Queen's Gambit](/assets/chessmemorypalace/why2.png)
+![Board position from Queen's Gambit](/assets/chessmemorypalace/2/why2.png)
 
 But why did Black play \...b6 earlier? To make room for the light-squared bishop on b7! At the time, with more pieces on the board and more central tension, this made sense.
 
@@ -69,7 +69,7 @@ Which method is better? This is an empirical question, and **there is only one a
 
 I emphasise *unambiguous* because a lot of positions are frankly quite similar, especially when you haven't reviewed them for a long time. The two diagrams below are from different variations of the Italian Game. In one, GM Jan Gustaffson recommends \...Ba7, and in the other \...Bb6. Which is which?[^10] Even Gustaffson admits this is confusing!
 
-![Two similar positions in the Italian Game](/assets/chessmemorypalace/why3.png)
+![Two similar positions in the Italian Game](/assets/chessmemorypalace/2/why3.png)
 
 After being told the move \...Bb6 or \...Ba7, I can recall its purpose, but it is hard to work out and be confident at the board. It is much easier using picture notation in a memory palace, when there is no similarity and no confusion.
 
