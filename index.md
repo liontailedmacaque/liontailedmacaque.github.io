@@ -7,7 +7,7 @@ layout: page
 <a href="{{ site.amazon_book_url_chessmemorypalace }}"><img src="/assets/homepage/ChessCover4.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
 <b>The Chess Memory Palace</b></a> explains how to use advanced memory techniques to learn chess openings. Available as <a href="{{ site.amazon_book_url_chessmemorypalace }}">paperback</a> or [ebook](https://chessmemorypalace.etsy.com) -- [or read the first 3 chapters online](/chessmemorypalace). Subscribe to [@ChessMemoryPalace on YouTube](https://www.youtube.com/@ChessMemoryPalace) for video tutorials.
 
-{% include a-affiliate-note.html %}
+<!--{% include a-affiliate-note.html %}-->
 <div style="clear: both;"></div>
 
 <a href="{{ site.amazon_book_url_nebuchadnezzar }}"><img src="/assets/homepage/NebCover2.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
