@@ -10,7 +10,7 @@ layout: page
 <!--{% include a-affiliate-note.html %}-->
 <div style="clear: both;"></div>
 
-<a href="{{ site.amazon_book_url_nebuchadnezzar }}"><img src="/assets/homepage/NebCover2.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
+<a href="{{ site.amazon_book_url_nebuchadnezzar }}"><img src="/assets/homepage/NebCover3.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
 <b>A Curious Letter from Nebuchadnezzar</b></a> is a retelling of Chapter 4 of the Book of Daniel, from the Bible, in rhyme and pictures. Available as <a href="{{ site.amazon_book_url_nebuchadnezzar }}">paperback</a>.
 <div style="clear: both;"></div>
 
