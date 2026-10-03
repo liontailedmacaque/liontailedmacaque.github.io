@@ -11,7 +11,7 @@ layout: page
 <div style="clear: both;"></div>
 
 <a href="{{ site.amazon_book_url_nebuchadnezzar }}"><img src="/assets/homepage/NebCover3.png" height="25%" width="25%" style="margin: 0px 10px 20px 0px; float: left;">
-<b>A Curious Letter from Nebuchadnezzar</b></a> is a retelling of Chapter 4 of the Book of Daniel, from the Bible, in rhyme and pictures. Available as <a href="{{ site.amazon_book_url_nebuchadnezzar }}">paperback</a>.
+<b>A Curious Letter from Nebuchadnezzar</b></a> is a retelling of Chapter 4 of the Book of Daniel, from the Bible, in rhyme and pictures. Available as <a href="{{ site.amazon_book_url_nebuchadnezzar }}">paperback</a>. Published by my imprint, [Playful Bible Press](https://playfulbible.com).
 <div style="clear: both;"></div>
 
 <h3>Blog</h3>
