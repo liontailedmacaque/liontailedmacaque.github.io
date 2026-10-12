@@ -14,7 +14,9 @@ I managed to find the two green men in the roof bosses of the chapterhouse, circ
 
 ![greencreatures](/assets/wells/greencreatures.png?raw=true)
 
-These two green 'men' (animals) are carved on the corbels above the pillars, on the south side of the nave. The "capital of the fifth pillar from the west end" does indeed have some intricate carvings, but they didn't look like green men to me.
+These two green 'men' (animals) are carved on the corbels above the pillars, on the south side of the nave.
+
+The "capital of the fifth pillar from the west end" does indeed have some intricate carvings, but they didn't look like green men to me.
 
 ![creatures](/assets/wells/creatures.png?raw=true)
 
