@@ -4,9 +4,9 @@ title: Green Men of Wells Cathedral
 permalink: /wells-green-men
 ---
 
-On a recent visit to Wells Cathedral, I kept my eye out for green men (carvings of faces with leaves growing out of them). A [1998 article in The Independent](https://www.independent.co.uk/arts-entertainment/travel-in-search-of-little-green-men-1173308.html) says "Rumour has it that Wells Cathedral contains 44 Green Men. We found five: two in the roof bosses of the chapterhouse; two in the south nave aisle, on the capital of the fifth pillar from the west end; and a splendid example, with oak leaves for ears, on a capital in the passage to the Lady Chapel."
+On a recent visit to Wells Cathedral, I kept my eye out for green men (carvings of faces with leaves growing out of them). A [1998 article in The Independent](https://www.independent.co.uk/arts-entertainment/travel-in-search-of-little-green-men-1173308.html) says "*Rumour has it that Wells Cathedral contains 44 Green Men. We found five: two in the roof bosses of the chapterhouse; two in the south nave aisle, on the capital of the fifth pillar from the west end; and a splendid example, with oak leaves for ears, on a capital in the passage to the Lady Chapel.*"
 
-The author doesn't give a source for the "rumour" of 44 green men. I would be surprised, because I couldn't find many. But on the other hand there are small and curious carvings everywhere, so it's not impossible.
+The author doesn't give a source for the "rumour" of 44 green men. I would be surprised, because I couldn't find many. On the other hand there are small and curious carvings everywhere, so it's not impossible.
 
 ![chapterhouse](/assets/wells/chapterhouse.jpeg?raw=true)
 
