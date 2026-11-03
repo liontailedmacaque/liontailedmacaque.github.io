@@ -1,0 +1,30 @@
+.video-thumbnail {
+  display: block;
+  position: relative;
+  max-width: 640px;
+  margin: 2rem auto;
+}
+
+.video-thumbnail img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.video-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ff0033;
+  color: white;
+  font-size: 28px;
+  padding: 14px 24px;
+  border-radius: 12px;
+  pointer-events: none;
+}
+
+.video-thumbnail:hover .video-play {
+  background: #cc0000;
+}
