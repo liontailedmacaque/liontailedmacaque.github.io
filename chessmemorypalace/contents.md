@@ -7,6 +7,20 @@ permalink: /chessmemorypalace
 
 {% include chess-memory-header.html %}
 
+
+<a href="https://www.youtube.com/watch?v=lUvgfqHhYGg"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="video-thumbnail"
+   aria-label="Watch Image Notation tutorial on YouTube">
+  <img
+    src="/assets/chessmemorypalace/not_in_book/tcmp_thumbnail.jpg"
+    alt="Chess Memory Palace video thumbnail"
+    loading="lazy">
+  <span class="video-play" aria-hidden="true">▶</span>
+</a>
+
+
 **Never Forget Your Opening Lines Again**
 
 Every chess player knows the frustration: you’ve studied your opening repertoire for hours, you understand it, you can't wait to use it… only to blank at the board when it matters most.
