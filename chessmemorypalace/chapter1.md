@@ -7,6 +7,19 @@ permalink: /chessmemorypalace/chapter1
 
 {% include chess-memory-header.html %}
 
+<a href="https://www.youtube.com/watch?v=lUvgfqHhYGg"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="video-thumbnail"
+   aria-label="Watch Image Notation tutorial on YouTube">
+  <img
+    src="/assets/chessmemorypalace/not_in_book/tcmp_thumbnail.jpg"
+    alt="Chess Memory Palace video thumbnail"
+    loading="lazy">
+  <span class="video-play" aria-hidden="true">▶</span>
+</a>
+
+
 > *I know from my own experience what an excruciating labour it is to memorise “theory” before a game. You have it all written down in notebooks, you have gone through it ten times before starting play, and still you can't remember it.*  
 > — IM and Chess Trainer Mark Dvoretsky
 
